@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/wet-room-vs-walk-in-shower",
+  "title": "Wet Room or Walk-In Shower? What You Need to Know",
+  "description": "Wet room or walk-in shower enclosure? How they differ, what waterproofing and drainage each needs, and the questions to ask your bathroom fitter.",
+  "h1": "Wet room or walk-in shower?",
+  "eyebrow": "Bathrooms · Design",
+  "intro": "Both give you a modern, step-free shower. The difference is in how the floor and walls are built, and that affects the work, the risk of leaks and the price. Here is how to choose.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1685949546169-0d6e2505acae",
+    "alt": "Shower head spraying water onto a tiled wall",
+    "credit": "Igal Ness",
+    "creditUrl": "https://unsplash.com/@igalness"
+  },
+  "keywords": [
+    "wet room",
+    "wet room vs walk in shower",
+    "walk in shower",
+    "wet room tanking",
+    "level access shower",
+    "wet room installation"
+  ],
+  "cardText": "How they differ, waterproofing, drainage and what to ask your fitter.",
+  "sections": [
+    {
+      "h2": "What is the difference?",
+      "html": "<ul><li><strong>Walk-in shower:</strong> a low-profile shower tray with one or more glass screens, usually without a door. Water is contained by the tray.</li><li><strong>Wet room:</strong> the shower area is part of the floor itself, laid to a gentle fall towards a drain. The floor and walls are fully waterproofed, so the whole room can get wet.</li></ul>"
+    },
+    {
+      "h2": "Waterproofing (tanking)",
+      "html": "<p>A wet room relies on <strong>tanking</strong>: a waterproof membrane or system applied to the floor and walls before tiling. It must be continuous, with sealed joints and corners, because any gap can let water into the floor or the room below. Ask your fitter which system they use, whether it is installed to the manufacturer’s instructions, and whether it comes with a guarantee.</p>"
+    },
+    {
+      "h2": "Drainage and floor build-up",
+      "html": "<ul><li>A wet room floor needs a consistent fall to the drain, which can be harder on timber floors upstairs and may need the floor level built up or the joists adapted.</li><li>Linear and point drains each have pros and cons; ask about access for cleaning.</li><li>Walk-in shower trays need a route for the waste pipe below; low trays may need the waste set into the floor.</li></ul>"
+    },
+    {
+      "h2": "Which is right for you?",
+      "html": "<ul><li><strong>Small bathrooms:</strong> a wet room can make a tiny room feel bigger, but everything in the room will get splashed.</li><li><strong>Accessibility:</strong> both can give level access. A wet room is often preferred where a wheelchair or shower chair is used. See <a href=\"/blog/accessible-bathrooms-disabled-facilities-grant/\">accessible bathrooms and grants</a>.</li><li><strong>Budget and risk:</strong> a walk-in tray is usually simpler to install. A wet room is more involved and depends heavily on the quality of the waterproofing.</li></ul>"
+    },
+    {
+      "h2": "Questions to ask your fitter",
+      "html": "<ul><li>How many wet rooms have you installed, and can I see photos?</li><li>Which tanking system will you use, and is there a guarantee?</li><li>How will you form the fall on my floor?</li><li>How will the extractor fan and electrics be handled, and by whom?</li></ul><p>Ready for quotes? <a href=\"/bathroom-fitters/\">Find bathroom fitters</a>, and read <a href=\"/blog/bathroom-regulations-electrics-ventilation/\">the rules for bathroom refits</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is a wet room more likely to leak?",
+      "a": "A well-installed wet room is fully waterproof, but it depends entirely on the tanking being complete and properly sealed. That is why the installer’s experience matters."
+    },
+    {
+      "q": "Can I have a wet room upstairs?",
+      "a": "Often yes, but forming the fall on a timber floor needs care and sometimes structural changes. Ask an experienced fitter to assess your floor."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Approved Document F – ventilation",
+      "url": "https://www.gov.uk/government/publications/ventilation-approved-document-f"
+    },
+    {
+      "title": "GOV.UK: Approved Document H – drainage and waste disposal",
+      "url": "https://www.gov.uk/government/publications/drainage-and-waste-disposal-approved-document-h"
+    },
+    {
+      "title": "Planning Portal: Electrics – building regulations",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/electrics/building-regulations-general-information"
+    }
+  ]
+}

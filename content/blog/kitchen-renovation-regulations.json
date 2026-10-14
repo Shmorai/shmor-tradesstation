@@ -1,0 +1,91 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/kitchen-renovation-regulations",
+  "title": "Kitchen Renovation Rules: What Needs Approval?",
+  "description": "Planning a new kitchen? Which jobs need Building Regulations approval, a registered electrician or a Gas Safe engineer, and which you can simply get on with.",
+  "h1": "Kitchen renovation rules: what needs approval?",
+  "eyebrow": "Kitchens · Regulations",
+  "intro": "Swapping units and worktops is usually straightforward. Moving electrics, gas, drains or walls is where the rules kick in. Here is what applies, and who can sign it off.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1676630656246-3047520adfdf",
+    "alt": "Tradesman fixing a wall bracket with a screwdriver",
+    "credit": "Bermix Studio",
+    "creditUrl": "https://unsplash.com/@bermixstudio"
+  },
+  "keywords": [
+    "kitchen building regulations",
+    "do i need building regs for a new kitchen",
+    "kitchen electrics regulations",
+    "gas hob installation rules",
+    "kitchen extractor regulations"
+  ],
+  "cardText": "Electrics, gas, ventilation, drains and walls: what needs sign-off in a new kitchen.",
+  "sections": [
+    {
+      "h2": "Like-for-like replacements",
+      "html": "<p>Replacing kitchen units, doors and worktops in the same layout does not normally need planning permission or Building Regulations approval. The exception is a <strong>listed building</strong>, where you may need listed building consent even for internal changes. The rules below apply when you change services or structure.</p>"
+    },
+    {
+      "h2": "Electrics",
+      "html": "<p>In England, electrical work is covered by Part P of the Building Regulations. The work that must be notified includes:</p><ul><li>Installing a <strong>new circuit</strong>, for example for an electric cooker, an induction hob or an island.</li><li>Replacing the <strong>consumer unit</strong> (fuse box).</li></ul><p>Most repairs and additions to existing kitchen circuits, such as an extra socket, are not notifiable, but they must still be done safely. The simplest route is an electrician registered with a <strong>competent person scheme</strong>, who can self-certify the work. Ask for an electrical installation certificate when the job is done.</p>"
+    },
+    {
+      "h2": "Gas",
+      "html": "<p>Any work on a gas hob, oven or supply pipe must be done by a <strong>Gas Safe registered</strong> engineer. It is illegal for anyone else to do it. Ask to see their Gas Safe ID card and check what types of gas work they are qualified for.</p>"
+    },
+    {
+      "h2": "Ventilation",
+      "html": "<p>Kitchens need extract ventilation to remove moisture and cooking fumes. Approved Document F sets minimum extract rates: for example, intermittent extraction of <strong>30 litres per second</strong> where a cooker hood is ducted outside, or <strong>60 litres per second</strong> from an extractor fan elsewhere in the kitchen. A recirculating hood alone does not meet this. Your kitchen fitter or electrician can advise on a suitable fan or hood.</p>"
+    },
+    {
+      "h2": "Drains and plumbing",
+      "html": "<p>Moving a sink, dishwasher or washing machine to a new position may involve new waste pipes. New drainage connections and changes that affect drains are covered by Approved Document H. Simple waste runs to an existing stack are routine for a good plumber or fitter; anything more involved is worth checking with Building Control.</p>"
+    },
+    {
+      "h2": "Knocking through",
+      "html": "<p>Removing a wall to open up a kitchen-diner is the change most likely to need <strong>Building Regulations approval</strong>. Load-bearing walls need a properly designed beam (usually with a structural engineer’s calculations), and removing walls can affect fire escape routes, particularly in homes with three or more storeys. Talk to Building Control before work starts.</p><p><strong>Wales, Scotland and Northern Ireland have their own building rules.</strong> This guide covers England; elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need Building Regulations approval to replace my kitchen?",
+      "a": "Usually not for a like-for-like replacement. Approval or certification is needed for new electrical circuits, a new consumer unit, structural work such as removing a load-bearing wall, and some drainage changes."
+    },
+    {
+      "q": "Can my kitchen fitter connect the gas hob?",
+      "a": "Only if they are Gas Safe registered. Otherwise, a Gas Safe registered engineer must make the connection."
+    },
+    {
+      "q": "Is a recirculating cooker hood enough?",
+      "a": "A recirculating hood filters the air but does not extract it outside, so on its own it does not meet the extract ventilation guidance. You will usually need a ducted hood or a separate extractor fan."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Electrics – building regulations",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/electrics/building-regulations-general-information"
+    },
+    {
+      "title": "GOV.UK: Approved Document P – electrical safety in dwellings",
+      "url": "https://www.gov.uk/government/publications/electrical-safety-approved-document-p"
+    },
+    {
+      "title": "GOV.UK: Approved Document F – ventilation",
+      "url": "https://www.gov.uk/government/publications/ventilation-approved-document-f"
+    },
+    {
+      "title": "GOV.UK: Approved Document H – drainage and waste disposal",
+      "url": "https://www.gov.uk/government/publications/drainage-and-waste-disposal-approved-document-h"
+    },
+    {
+      "title": "Gas Safe Register",
+      "url": "https://www.gassaferegister.co.uk/"
+    },
+    {
+      "title": "GOV.UK: Competent person schemes",
+      "url": "https://www.gov.uk/guidance/competent-person-scheme-current-schemes-and-how-schemes-are-authorised"
+    }
+  ]
+}

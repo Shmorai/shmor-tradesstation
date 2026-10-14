@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/accessible-bathrooms-disabled-facilities-grant",
+  "title": "Accessible Bathrooms and Disabled Facilities Grants",
+  "description": "Adapting a bathroom for a disabled person? Level-access showers, grab rails and how Disabled Facilities Grants from your council can help pay for the work.",
+  "h1": "Accessible bathrooms and Disabled Facilities Grants",
+  "eyebrow": "Bathrooms · Accessibility",
+  "intro": "A level-access shower, grab rails or a downstairs bathroom can make a home safer and easier to live in. Here is what is involved, and how a council grant may help pay for it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1656646523834-dd1cc57d33c9",
+    "alt": "Accessible toilet with a metal grab rail",
+    "credit": "Point3D Commercial Imaging Ltd.",
+    "creditUrl": "https://unsplash.com/@3dottawa"
+  },
+  "keywords": [
+    "disabled facilities grant",
+    "accessible bathroom",
+    "level access shower",
+    "bathroom adaptations for disabled",
+    "dfg grant bathroom",
+    "wet room grant"
+  ],
+  "cardText": "Level-access showers, grab rails and how a council grant can help.",
+  "sections": [
+    {
+      "h2": "Common bathroom adaptations",
+      "html": "<ul><li>A <strong>level-access shower</strong> or wet room in place of a bath.</li><li><strong>Grab rails</strong> by the toilet, basin and shower.</li><li>A raised or wall-hung toilet at a comfortable height.</li><li>Wider doorways and a door that opens outwards or slides.</li><li>A <strong>downstairs bathroom</strong> or shower room, sometimes as part of an extension.</li><li>Non-slip flooring and thermostatic controls to prevent scalding.</li></ul>"
+    },
+    {
+      "h2": "What is a Disabled Facilities Grant?",
+      "html": "<p>A Disabled Facilities Grant (DFG) is a grant from your local council towards changes a disabled person needs to their home, including adapting a bathroom or installing a level-access shower. It does not affect benefits.</p><p>The maximum grant is <strong>£30,000 in England</strong>, <strong>£36,000 in Wales</strong> and <strong>£25,000 in Northern Ireland</strong>, and some councils may give more. Disabled Facilities Grants are not available in Scotland, where other support for adaptations exists.</p>"
+    },
+    {
+      "h2": "Who can get one and how much",
+      "html": "<ul><li>You or someone living in your home must be disabled; owners and tenants can both apply.</li><li>The amount usually depends on household income and savings over £6,000, and you may need to contribute.</li><li>Grants for <strong>disabled children under 18</strong> are not means tested on the parents’ income.</li><li>Landlords can also apply on behalf of a disabled tenant.</li></ul>"
+    },
+    {
+      "h2": "How to apply",
+      "html": "<p>Apply through your local council. The council may send an occupational therapist or trained assessor to assess what changes are needed, and it must give you a decision within six months. Home improvement agencies, supported nationally by Foundations, can help with the application and with finding contractors.</p><p><strong>Talk to the council before any work starts</strong>, and agree how and when the contractor will be paid. Payment is usually made in instalments or when the work is finished.</p>"
+    },
+    {
+      "h2": "Choosing a fitter",
+      "html": "<p>Look for <a href=\"/bathroom-fitters/\">bathroom fitters</a> with experience of accessible bathrooms and wet rooms, and get the occupational therapist’s recommendations in writing to share with them. Read <a href=\"/blog/wet-room-vs-walk-in-shower/\">wet room or walk-in shower</a> to compare the options.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How much is a Disabled Facilities Grant?",
+      "a": "Up to £30,000 in England, £36,000 in Wales and £25,000 in Northern Ireland, depending on your circumstances. Some councils give more. DFGs are not available in Scotland."
+    },
+    {
+      "q": "Can I get a grant for a wet room?",
+      "a": "Yes. Disabled Facilities Grants can pay for a level-access shower or wet room where the council agrees it is needed. Apply to your local council first."
+    },
+    {
+      "q": "Are Disabled Facilities Grants means tested?",
+      "a": "Usually, based on household income and savings over £6,000. Grants for disabled children under 18 are not means tested on the parents’ income."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Disabled Facilities Grants",
+      "url": "https://www.gov.uk/disabled-facilities-grants"
+    },
+    {
+      "title": "GOV.UK: Disabled Facilities Grants – what you’ll get",
+      "url": "https://www.gov.uk/disabled-facilities-grants/what-youll-get"
+    },
+    {
+      "title": "Foundations: national body for home improvement agencies",
+      "url": "https://www.foundations.uk.com/"
+    }
+  ]
+}

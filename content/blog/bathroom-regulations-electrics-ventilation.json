@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/bathroom-regulations-electrics-ventilation",
+  "title": "Bathroom Refit Rules: Electrics, Fans and Drains",
+  "description": "What the rules say for a bathroom refit in England: electrical special locations, extractor fan rates, drainage, and who can certify the work.",
+  "h1": "Bathroom refit rules: electrics, ventilation and drains",
+  "eyebrow": "Bathrooms · Regulations",
+  "intro": "Water and electricity make bathrooms one of the most tightly regulated rooms in the house. Here is what applies when you refit one, and how to make sure it is signed off.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1629079447777-1e605162dc8d",
+    "alt": "White ceramic basin below a bathroom mirror",
+    "credit": "Steven Ungermann",
+    "creditUrl": "https://unsplash.com/@steveungermann"
+  },
+  "keywords": [
+    "bathroom building regulations",
+    "bathroom electrical zones",
+    "bathroom extractor fan regulations",
+    "electric shower installation regulations",
+    "bathroom refit rules"
+  ],
+  "cardText": "Special locations, extractor fans, drains and certificates for a bathroom refit.",
+  "sections": [
+    {
+      "h2": "Electrics: the special location",
+      "html": "<p>In England, the space around a bath or shower is a <strong>special location</strong> under Part P of the Building Regulations. That means:</p><ul><li>Adding a new light, socket or fan point in that space is <strong>notifiable</strong> work.</li><li>A new circuit, for example for an <strong>electric shower</strong> or electric underfloor heating, is notifiable wherever it is.</li><li>Replacing the consumer unit is notifiable.</li></ul><p>The electrical wiring standard also divides bathrooms into zones that control which fittings can go where. A registered electrician will know these. Use one who belongs to a <strong>competent person scheme</strong>, so they can self-certify, and ask for the certificate at the end.</p>"
+    },
+    {
+      "h2": "Ventilation",
+      "html": "<p>Bathrooms need extract ventilation to remove moisture and prevent condensation and mould. Approved Document F sets a minimum intermittent extract rate of <strong>15 litres per second</strong> for a bathroom, or an equivalent continuous system. If you are replacing a fan, check that the new one meets the rate and is ducted to the outside.</p>"
+    },
+    {
+      "h2": "Drains and waste",
+      "html": "<p>Moving a toilet, bath or shower can mean new waste pipes with the right falls, and toilets in particular need a suitable route to the soil stack. New drainage connections fall under Approved Document H. Shower trays at floor level and wet rooms need careful planning so water drains away properly.</p>"
+    },
+    {
+      "h2": "Hot water and heating",
+      "html": "<p>Work on a gas boiler or gas supply must be done by a <strong>Gas Safe registered</strong> engineer. Installing an unvented hot water cylinder must be done by a suitably qualified installer and is notifiable. Ask your plumber what your new shower or bath needs from your hot water system before you choose it.</p>"
+    },
+    {
+      "h2": "Who to hire",
+      "html": "<p>Many <a href=\"/bathroom-fitters/\">bathroom fitters</a> handle plumbing, tiling and carpentry and bring in a registered <a href=\"/electricians/\">electrician</a> for the electrics. Agree in writing who is responsible for each certificate. See also <a href=\"/blog/wet-room-vs-walk-in-shower/\">wet room or walk-in shower</a> and <a href=\"/blog/kitchen-bathroom-refit-order-of-works/\">the order of works for a refit</a>.</p><p><strong>Wales, Scotland and Northern Ireland have their own building rules.</strong> This guide covers England; elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need Building Regulations approval for a new bathroom?",
+      "a": "A like-for-like replacement usually does not need an application, but notifiable electrical work, new drainage and some hot water systems must be certified. Using registered tradespeople is the simplest way to cover this."
+    },
+    {
+      "q": "Can I fit an electric shower myself?",
+      "a": "An electric shower usually needs a new circuit, which is notifiable work. Unless you are registered with a competent person scheme, it must be inspected and certified by Building Control or a third-party certifier. Most people use a registered electrician."
+    },
+    {
+      "q": "What size extractor fan does a bathroom need?",
+      "a": "Approved Document F sets a minimum intermittent extract rate of 15 litres per second for bathrooms. Check the fan’s rated performance before you buy."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Electrics – building regulations",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/electrics/building-regulations-general-information"
+    },
+    {
+      "title": "GOV.UK: Approved Document P – electrical safety in dwellings",
+      "url": "https://www.gov.uk/government/publications/electrical-safety-approved-document-p"
+    },
+    {
+      "title": "GOV.UK: Approved Document F – ventilation",
+      "url": "https://www.gov.uk/government/publications/ventilation-approved-document-f"
+    },
+    {
+      "title": "GOV.UK: Approved Document H – drainage and waste disposal",
+      "url": "https://www.gov.uk/government/publications/drainage-and-waste-disposal-approved-document-h"
+    },
+    {
+      "title": "Gas Safe Register",
+      "url": "https://www.gassaferegister.co.uk/"
+    },
+    {
+      "title": "GOV.UK: Competent person schemes",
+      "url": "https://www.gov.uk/guidance/competent-person-scheme-current-schemes-and-how-schemes-are-authorised"
+    }
+  ]
+}

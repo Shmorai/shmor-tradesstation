@@ -1,0 +1,66 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/kitchen-layouts-explained",
+  "title": "Kitchen Layouts Explained: Galley, L, U and Island",
+  "description": "Galley, L-shaped, U-shaped, island or peninsula? The main kitchen layouts compared, with the spaces they suit and the practical points to plan for.",
+  "h1": "Kitchen layouts explained",
+  "eyebrow": "Kitchens · Design",
+  "intro": "The right layout makes a kitchen easier to cook in, clean and live with. Here are the five main options and the rooms they tend to suit.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1617228069096-4638a7ffc906",
+    "alt": "Modern kitchen with a central island and a large window",
+    "credit": "Cat Han",
+    "creditUrl": "https://unsplash.com/@figmentprints"
+  },
+  "keywords": [
+    "kitchen layouts",
+    "galley kitchen",
+    "l shaped kitchen",
+    "u shaped kitchen",
+    "kitchen island ideas",
+    "kitchen work triangle"
+  ],
+  "cardText": "Galley, L-shape, U-shape, island and peninsula layouts compared.",
+  "sections": [
+    {
+      "h2": "Start with how you use the kitchen",
+      "html": "<p>Before choosing a layout, think about how many people cook at once, whether you eat in the kitchen, and where the doors, windows, drains and gas supply are. Moving services is possible, but it adds work. Many designers use the idea of a <strong>work triangle</strong>: keeping the sink, hob and fridge reasonably close to each other without a walkway cutting through.</p>"
+    },
+    {
+      "h2": "Galley",
+      "html": "<ul><li>Units along one wall, or two parallel walls with a corridor between.</li><li>Suits narrow rooms and makes efficient use of space.</li><li>Leave enough room between runs for doors and drawers to open with someone standing there.</li></ul>"
+    },
+    {
+      "h2": "L-shaped",
+      "html": "<ul><li>Units along two adjoining walls.</li><li>Works in small and medium rooms and leaves space for a table.</li><li>Plan the corner carefully; corner storage solutions stop it becoming dead space.</li></ul>"
+    },
+    {
+      "h2": "U-shaped",
+      "html": "<ul><li>Units along three walls.</li><li>Lots of worktop and storage, and keeps through-traffic out of the cooking area.</li><li>Needs a reasonably wide room so it does not feel enclosed.</li></ul>"
+    },
+    {
+      "h2": "Island",
+      "html": "<ul><li>A free-standing block, often with seating, added to a galley, L or U layout.</li><li>Popular in kitchen-diners and extensions.</li><li>An island needs generous clearance on all sides. If it will have a sink or hob, plan the drainage, power and extraction early, as they run under the floor or through the ceiling.</li></ul>"
+    },
+    {
+      "h2": "Peninsula",
+      "html": "<ul><li>Like an island, but joined to a wall or run of units at one end.</li><li>Gives many of the benefits of an island in a smaller room.</li><li>Can act as a breakfast bar and a natural divider in open-plan spaces.</li></ul>"
+    },
+    {
+      "h2": "Next steps",
+      "html": "<p>Most kitchen showrooms and many independent designers will draw up a layout for you. Once you have a design, <a href=\"/kitchen-fitters/\">find kitchen fitters</a> to price the installation, and read <a href=\"/blog/kitchen-renovation-regulations/\">which kitchen jobs need approval</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the kitchen work triangle?",
+      "a": "A design rule of thumb that places the sink, hob and fridge at the three points of a triangle, close enough to move between easily, with no main walkway cutting through it."
+    },
+    {
+      "q": "Can I have an island in a small kitchen?",
+      "a": "Only if there is enough clearance around it to open doors and move comfortably. In smaller rooms, a peninsula often works better."
+    }
+  ]
+}
