@@ -1,0 +1,63 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/garage-conversion-guide",
+  "title": "Garage Conversions: Planning, Regs and Tips",
+  "description": "Turning your garage into a room? When a garage conversion needs planning permission, why it needs Building Regulations approval and what to plan for.",
+  "h1": "Garage conversions: planning, regulations and tips",
+  "eyebrow": "Builders · Conversions",
+  "intro": "An integral or attached garage can become a home office, playroom, bedroom or utility room without building an extension. Here is what permission you need and what the work involves.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1770756051811-1612ac8bedfa",
+    "alt": "Modern garage doors on a white house",
+    "credit": "GoodLifeConstruction",
+    "creditUrl": "https://unsplash.com/@goodlifeconstruction"
+  },
+  "keywords": [
+    "garage conversion",
+    "garage conversion planning permission",
+    "garage conversion building regulations",
+    "convert garage to room",
+    "integral garage conversion"
+  ],
+  "cardText": "When you need planning permission, the Building Regulations and what to plan for.",
+  "sections": [
+    {
+      "h2": "Planning permission",
+      "html": "<p>Converting a garage usually does <strong>not</strong> need planning permission, as long as the work is internal and does not enlarge the building. Check first if:</p><ul><li>your home is on a newer estate, where <strong>permitted development rights</strong> for garage conversions are sometimes removed by a planning condition;</li><li>you live in a <strong>conservation area</strong> or a <strong>listed building</strong>;</li><li>you want to create a <strong>separate home</strong>, such as an annexe to rent out; or</li><li>you live in a flat or maisonette.</li></ul>"
+    },
+    {
+      "h2": "Building Regulations",
+      "html": "<p>A garage conversion will normally need <strong>Building Regulations approval</strong>, because a garage is not built to the same standard as a habitable room. Typical areas include:</p><ul><li>Filling in the garage door opening with a new wall, with suitable foundations.</li><li>Insulating the floor, walls and ceiling, and dealing with damp.</li><li>Ventilation and windows.</li><li>Fire safety, including escape routes.</li><li>Electrics, heating and any drainage.</li></ul>"
+    },
+    {
+      "h2": "Things to plan for",
+      "html": "<ul><li><strong>Floor level:</strong> garage floors are often lower than the house, so the floor may need raising.</li><li><strong>Parking:</strong> some councils and estates have rules about keeping off-street parking. Check before you start.</li><li><strong>The front of the house:</strong> choose a new window and wall finish that matches the rest of the house.</li><li><strong>Storage:</strong> think about where bikes, tools and garden equipment will go.</li></ul>"
+    },
+    {
+      "h2": "Next steps",
+      "html": "<p>Ask a <a href=\"/builders/\">builder</a> who has done garage conversions before to look at your garage, and agree who will deal with Building Control. See also <a href=\"/blog/builder-contract-what-to-include/\">what to include in a builder contract</a>.</p><p><strong>Wales, Scotland and Northern Ireland have their own building rules.</strong> This guide covers England; elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need planning permission to convert my garage?",
+      "a": "Usually not, if the work is internal and does not enlarge the building. Check whether permitted development rights have been removed on your property, and whether it is listed or in a conservation area."
+    },
+    {
+      "q": "Does a garage conversion need Building Regulations approval?",
+      "a": "Yes, normally. Converting a garage into a habitable room involves the structure, insulation, ventilation, fire safety and electrics."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Garage conversion – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/garage-conversion/planning-permission"
+    },
+    {
+      "title": "Planning Portal: Garage conversion – building regulations",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/garage-conversion/building-regulations"
+    }
+  ]
+}

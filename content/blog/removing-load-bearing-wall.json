@@ -1,0 +1,71 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/removing-load-bearing-wall",
+  "title": "Knocking Through: Removing a Load-Bearing Wall",
+  "description": "Want an open-plan kitchen-diner? What removing a load-bearing wall involves: structural engineer, steel beams, Building Regulations approval and party walls.",
+  "h1": "Knocking through: removing a load-bearing wall",
+  "eyebrow": "Builders · Structural work",
+  "intro": "Opening up two rooms is one of the most popular renovations in UK homes. When the wall is load-bearing, it needs proper design, support and sign-off. Here is what is involved.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1634586648651-f1fb9ec10d90",
+    "alt": "Room under renovation with metal support props and building debris",
+    "credit": "Stefan Lehner",
+    "creditUrl": "https://unsplash.com/@st_lehner"
+  },
+  "keywords": [
+    "removing a load bearing wall",
+    "knocking through wall",
+    "steel beam rsj",
+    "structural engineer wall removal",
+    "open plan kitchen diner building regs"
+  ],
+  "cardText": "Structural engineer, steel beams, Building Control and party walls.",
+  "sections": [
+    {
+      "h2": "Is the wall load-bearing?",
+      "html": "<p>Load-bearing walls carry weight from the floors and roof above down to the foundations. You cannot always tell by looking or tapping. The Planning Portal recommends getting a <strong>structural engineer</strong> to confirm whether a wall is load-bearing before any work starts.</p>"
+    },
+    {
+      "h2": "What the work involves",
+      "html": "<ul><li>A structural engineer designs a <strong>beam</strong> (often steel, sometimes called an RSJ) and specifies what supports it at each end.</li><li>The builder puts in <strong>temporary supports</strong> (props) to hold up the structure above while the wall is removed.</li><li>The beam is installed on suitable bearings (padstones or posts), and sometimes the foundations beneath need checking.</li><li>The beam is usually boxed in and fire-protected, then plastered.</li></ul>"
+    },
+    {
+      "h2": "Building Regulations approval",
+      "html": "<p>Removing a load-bearing wall alters the structure of your home, so it <strong>needs Building Regulations approval</strong>. You will need the engineer’s calculations, and Building Control will inspect the work. Removing walls can also affect fire escape routes, particularly in homes with three or more storeys, as well as ventilation, drainage and electrics.</p><p>Removing a non-load-bearing wall is less likely to need approval, as long as it does not affect fire escape, ventilation, drainage or electrics.</p>"
+    },
+    {
+      "h2": "Planning and neighbours",
+      "html": "<ul><li>Internal walls do not normally need planning permission.</li><li><strong>Listed buildings</strong> need listed building consent for significant internal work.</li><li>If the beam will sit in a <strong>party wall</strong> shared with your neighbour, you will usually need to serve a party wall notice. See <a href=\"/blog/party-wall-notices-extensions-lofts/\">party wall notices</a>.</li></ul>"
+    },
+    {
+      "h2": "Who to hire",
+      "html": "<p>Use an experienced <a href=\"/builders/\">builder</a> who works from the engineer’s design and coordinates Building Control inspections. Get the completion certificate at the end, as you will need it when you sell.</p><p><strong>Wales, Scotland and Northern Ireland have their own building rules.</strong> This guide covers England; elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need Building Regulations approval to knock through a wall?",
+      "a": "Yes, if the wall is load-bearing. You will need a structural engineer’s calculations and Building Control approval. A non-load-bearing wall may not need approval, as long as it does not affect fire escape routes or services."
+    },
+    {
+      "q": "Do I need planning permission to remove an internal wall?",
+      "a": "Not usually, unless your home is a listed building, in which case you need listed building consent."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: What building regulations apply to internal walls?",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/internal-walls/what-building-regulations-apply-to-internal-walls/"
+    },
+    {
+      "title": "Planning Portal: Internal walls – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/internal-walls/internal-walls-planning-permission/"
+    },
+    {
+      "title": "GOV.UK: The Party Wall etc. Act 1996 – explanatory booklet",
+      "url": "https://www.gov.uk/government/publications/preventing-and-resolving-disputes-in-relation-to-party-walls/the-party-wall-etc-act-1996-explanatory-booklet"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/builder-contract-what-to-include",
+  "title": "Builder Contracts: What to Include Before Work Starts",
+  "description": "What a contract with your builder should cover: scope, price, payments, timings, changes, permissions and guarantees, plus ready-made contracts for homeowners.",
+  "h1": "Builder contracts: what to include before work starts",
+  "eyebrow": "Builders · Contracts",
+  "intro": "A clear written contract is the best protection for you and your builder. It sets expectations, reduces arguments and gives you something to point to if things go wrong.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1450101499163-c8848c66ca85",
+    "alt": "Person writing on a paper document at a desk",
+    "credit": "Scott Graham",
+    "creditUrl": "https://unsplash.com/@amstram"
+  },
+  "keywords": [
+    "builder contract",
+    "building contract for homeowners",
+    "jct homeowner contract",
+    "what to include in a builder contract",
+    "contract with builder uk"
+  ],
+  "cardText": "Scope, price, payments, timings, changes and guarantees, in writing.",
+  "sections": [
+    {
+      "h2": "Why put it in writing?",
+      "html": "<p>Most building disputes come from different expectations about what was agreed. A written contract records the job, the price and the rules for changes, so both sides know where they stand. For anything more than a small job, do not rely on a verbal agreement or a one-line quote.</p>"
+    },
+    {
+      "h2": "What the contract should cover",
+      "html": "<ul><li><strong>The parties:</strong> your name and the builder’s full business name and address.</li><li><strong>Scope of work:</strong> refer to the drawings and a written specification, including materials and finishes.</li><li><strong>Price:</strong> whether it is fixed or an estimate, whether VAT is included, and what is excluded (for example skips, making good, decorating).</li><li><strong>Payment stages:</strong> amounts linked to completed stages of work, with a sum held back until the end.</li><li><strong>Dates:</strong> start date, expected finish date and what happens if the work runs late.</li><li><strong>Changes (variations):</strong> how extra work or changes will be priced and agreed in writing before they happen.</li><li><strong>Permissions:</strong> who is responsible for planning, Building Regulations, party wall notices and certificates.</li><li><strong>Site rules:</strong> working hours, access, parking, toilet use, waste removal and tidying up.</li><li><strong>Insurance:</strong> the builder’s public liability and, for bigger jobs, contract works insurance.</li><li><strong>Guarantees and defects:</strong> how snagging and defects after completion will be dealt with.</li><li><strong>Disputes:</strong> how disagreements will be resolved, such as through a trade body or adjudication.</li></ul>"
+    },
+    {
+      "h2": "Ready-made contracts",
+      "html": "<p>You do not have to write a contract from scratch. The Joint Contracts Tribunal (JCT) publishes <strong>Home Owner contracts</strong> designed for homeowners in England and Wales hiring a builder for small domestic works such as extensions and alterations, with versions for when you have, or have not, appointed a consultant such as an architect. Some trade bodies also provide contracts for their members’ customers.</p>"
+    },
+    {
+      "h2": "Your rights still apply",
+      "html": "<p>Whatever the contract says, the Consumer Rights Act 2015 means a trader must carry out the work with reasonable care and skill. If the contract is agreed in your home rather than at the builder’s premises, you usually have a <strong>14-day right to cancel</strong>, and the builder must tell you about it in writing.</p>"
+    },
+    {
+      "h2": "Before you sign",
+      "html": "<ul><li>Read every page, including the small print.</li><li>Make sure the drawings and specification are attached or referenced.</li><li>Check the payment stages match the work, and avoid large upfront payments.</li><li>Keep a signed copy.</li></ul><p>See our <a href=\"/choosing-a-builder/\">guide to choosing a builder</a>, and <a href=\"/builders/\">compare local builders</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a written contract with my builder?",
+      "a": "It is not a legal requirement, but for anything more than a small job a written contract is strongly recommended. It protects both you and the builder."
+    },
+    {
+      "q": "What is a JCT Home Owner contract?",
+      "a": "A standard building contract published by the Joint Contracts Tribunal for homeowners in England and Wales carrying out small domestic works, such as extensions and alterations."
+    }
+  ],
+  "sources": [
+    {
+      "title": "JCT: Building Contract for a Home Owner/Occupier",
+      "url": "https://www.jctltd.co.uk/product/building-contract-for-a-home-owner-occupier"
+    },
+    {
+      "title": "Consumer Rights Act 2015, Part 1 Chapter 4 (services)",
+      "url": "https://www.legislation.gov.uk/ukpga/2015/15/part/1/chapter/4"
+    },
+    {
+      "title": "The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013",
+      "url": "https://www.legislation.gov.uk/uksi/2013/3134/contents"
+    }
+  ]
+}

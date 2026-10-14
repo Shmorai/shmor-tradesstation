@@ -1,0 +1,83 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/is-my-loft-suitable-for-conversion",
+  "title": "Is My Loft Suitable for a Conversion? 7 Checks",
+  "description": "Thinking about a loft conversion? Seven checks to see if your loft is suitable: head height, roof structure, stairs, walls, services and permissions.",
+  "h1": "Is my loft suitable for a conversion? 7 checks",
+  "eyebrow": "Loft conversions · Planning",
+  "intro": "Before you get quotes, it helps to know whether your loft has the basics for a conversion. These are the things a loft specialist or architect will look at first.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1711375211760-117f793d1f15",
+    "alt": "Person working on the floor of an attic space",
+    "credit": "Marketing Department",
+    "creditUrl": "https://unsplash.com/@simplifiedsafety"
+  },
+  "keywords": [
+    "is my loft suitable for conversion",
+    "loft conversion head height",
+    "trussed roof loft conversion",
+    "loft conversion survey",
+    "can i convert my loft"
+  ],
+  "cardText": "Head height, roof structure, stairs, walls, services, neighbours and permissions.",
+  "sections": [
+    {
+      "h2": "1. Head height",
+      "html": "<p>Measure from the top of the ceiling joists to the underside of the ridge at the highest point. Many loft specialists use around <strong>2.2 metres</strong> as a rule of thumb for a straightforward conversion; this is a practical guide, not a regulation. Lower lofts may still work with a dormer, a mansard, or by lowering ceilings below, but that adds cost.</p>"
+    },
+    {
+      "h2": "2. Roof structure",
+      "html": "<p>Older homes often have <strong>traditional rafters and purlins</strong>, which leave open space. Many homes built from the 1960s onwards have <strong>trussed rafters</strong> (W-shaped timbers), which need more structural work to remove and replace with steel or new timbers. Both can usually be converted with the right design.</p>"
+    },
+    {
+      "h2": "3. Room for stairs",
+      "html": "<p>A habitable loft needs a fixed staircase, with suitable headroom above it. Work out where it could land on the floor below, and what space you would lose. See <a href=\"/blog/staircase-regulations-replacement/\">staircase rules</a>.</p>"
+    },
+    {
+      "h2": "4. Walls and foundations",
+      "html": "<p>The new floor and any steel beams usually bear on existing walls. An engineer will check that the walls and foundations can take the extra load.</p>"
+    },
+    {
+      "h2": "5. Services in the loft",
+      "html": "<p>Water tanks, flues, chimney breasts and wiring may need moving or removing. Removing a chimney breast is structural work that needs proper support and sign-off.</p>"
+    },
+    {
+      "h2": "6. Neighbours",
+      "html": "<p>In semi-detached and terraced homes, steel beams often go into the party wall, which usually means a <a href=\"/blog/party-wall-notices-extensions-lofts/\">party wall notice</a>.</p>"
+    },
+    {
+      "h2": "7. Planning and protected areas",
+      "html": "<p>Many loft conversions are permitted development, but not in conservation areas, for flats or listed buildings. See <a href=\"/blog/loft-conversion-permitted-development/\">loft conversion planning rules</a> and <a href=\"/blog/loft-conversion-types/\">loft conversion types</a>.</p><p>When you are ready, <a href=\"/loft-conversions/\">compare loft conversion specialists</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What head height do I need for a loft conversion?",
+      "a": "There is no single legal minimum for the loft itself, but many specialists use around 2.2 metres (from the top of the ceiling joists to the underside of the ridge) as a rule of thumb for a straightforward conversion."
+    },
+    {
+      "q": "Can a loft with trussed rafters be converted?",
+      "a": "Usually yes, but it needs more structural work, often with steel beams, to replace the trusses. An engineer will design the new structure."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Loft conversion – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/planning-permission"
+    },
+    {
+      "title": "Planning Portal: Loft conversion – building regulations, stairs",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/building-regulations-stairs/"
+    },
+    {
+      "title": "Planning Portal: Loft conversion – existing walls and foundations",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/building-regulations-existing-walls-and-foundations/"
+    },
+    {
+      "title": "GOV.UK: The Party Wall etc. Act 1996 – explanatory booklet",
+      "url": "https://www.gov.uk/government/publications/preventing-and-resolving-disputes-in-relation-to-party-walls/the-party-wall-etc-act-1996-explanatory-booklet"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/loft-conversion-step-by-step",
+  "title": "Loft Conversion Step by Step: What Happens When",
+  "description": "What happens during a loft conversion, from survey and design to steelwork, dormers, stairs, fire safety and sign-off, and how to prepare your home.",
+  "h1": "Loft conversion step by step",
+  "eyebrow": "Loft conversions · The process",
+  "intro": "Knowing the order of work helps you plan, live through the build and keep track of progress. Here is how a typical loft conversion runs.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1768080315797-892a70ce05ee",
+    "alt": "Converted attic bedroom with a bed and a roof window",
+    "credit": "Kirsten Miles",
+    "creditUrl": "https://unsplash.com/@sirole"
+  },
+  "keywords": [
+    "loft conversion process",
+    "loft conversion step by step",
+    "loft conversion timeline",
+    "what happens during a loft conversion",
+    "living through a loft conversion"
+  ],
+  "cardText": "From survey and design to steelwork, stairs, fire safety and sign-off.",
+  "sections": [
+    {
+      "h2": "1. Survey, design and quotes",
+      "html": "<p>A loft specialist or architect surveys the loft, then drawings are produced. Get several quotes for the same design. See <a href=\"/blog/is-my-loft-suitable-for-conversion/\">is my loft suitable?</a></p>"
+    },
+    {
+      "h2": "2. Permissions",
+      "html": "<ul><li>Planning permission or a lawful development certificate, if needed. See <a href=\"/blog/loft-conversion-permitted-development/\">loft planning rules</a>.</li><li><strong>Building Regulations</strong> approval, with structural calculations.</li><li>Party wall notices to neighbours, where the work affects a shared wall.</li></ul>"
+    },
+    {
+      "h2": "3. Scaffolding and access",
+      "html": "<p>Scaffolding usually goes up first. Many loft conversions are built mostly from outside, through the roof, which reduces disruption inside.</p>"
+    },
+    {
+      "h2": "4. Structure",
+      "html": "<p>New floor joists go in, steel beams are installed, and the roof is altered for a dormer, hip-to-gable or mansard. Building Control will inspect key stages.</p>"
+    },
+    {
+      "h2": "5. Windows, roof and weatherproofing",
+      "html": "<p>Roof windows or dormer windows are fitted and the roof is made watertight.</p>"
+    },
+    {
+      "h2": "6. Stairs and the break-through",
+      "html": "<p>The new staircase is fitted, and the opening to the floor below is formed. This is usually the most disruptive stage inside the house.</p>"
+    },
+    {
+      "h2": "7. Insulation, first fix and plastering",
+      "html": "<p>Insulation goes into the roof and walls, electricians and plumbers run cables and pipes, then walls and ceilings are boarded and plastered.</p>"
+    },
+    {
+      "h2": "8. Fire safety",
+      "html": "<p>Fire-resisting doors are fitted onto the stairway on each level and interlinked smoke alarms are installed, so there is a protected escape route. See <a href=\"/blog/fire-doors-in-homes/\">fire doors in homes</a>.</p>"
+    },
+    {
+      "h2": "9. Second fix, decorating and sign-off",
+      "html": "<p>Sockets, lights, radiators and any en suite are connected, the room is decorated, and scaffolding comes down. Make sure you receive the Building Control <strong>completion certificate</strong>, electrical certificates and any guarantees.</p><p>How long it takes depends on the type of conversion and the size of the job, so ask your specialist for a programme. <a href=\"/loft-conversions/\">Compare loft conversion specialists</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I stay at home during a loft conversion?",
+      "a": "Many people do, because much of the work is done from outside through the roof. Expect more disruption when the staircase is installed and the opening to the floor below is formed."
+    },
+    {
+      "q": "What certificates should I get after a loft conversion?",
+      "a": "A Building Control completion certificate, electrical installation certificates, and any guarantees for windows, roofing or the overall work. Keep them safe for when you sell."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Loft conversion – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/planning-permission"
+    },
+    {
+      "title": "Planning Portal: Loft conversion – building regulations, fire safety",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/building-regulations-fire-safety"
+    },
+    {
+      "title": "Planning Portal: Loft conversion – building regulations, stairs",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/building-regulations-stairs/"
+    }
+  ]
+}

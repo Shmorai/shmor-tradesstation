@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/vat-on-building-work",
+  "title": "VAT on Building Work: Standard, 5% and 0% Rates",
+  "description": "When building work is charged at 20%, 5% or 0% VAT: extensions, empty homes, conversions and energy-saving materials, with what to check with your builder.",
+  "h1": "VAT on building work: when the rate is 20%, 5% or 0%",
+  "eyebrow": "Builders · Money",
+  "intro": "VAT can add a fifth to the cost of a project, so it is worth knowing when lower rates apply. Here is a plain-English summary of the main rules for homeowners.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1648201637025-1c77b9be3013",
+    "alt": "Calculator and pen on a sheet of paper",
+    "credit": "Aaron Lefler",
+    "creditUrl": "https://unsplash.com/@alefler"
+  },
+  "keywords": [
+    "vat on building work",
+    "vat on extensions",
+    "vat empty property renovation",
+    "zero rate vat energy saving materials",
+    "vat on solar panels",
+    "builder vat registered"
+  ],
+  "cardText": "Extensions, empty homes, conversions and energy-saving materials.",
+  "sections": [
+    {
+      "h2": "Most work on existing homes: standard rate",
+      "html": "<p>Work to an existing building, including most extensions, renovations and repairs, is normally charged at the <strong>standard rate</strong> of VAT, if your builder is VAT-registered. Ask whether quotes include or exclude VAT, so you can compare them properly.</p>"
+    },
+    {
+      "h2": "Reduced rate (5%)",
+      "html": "<ul><li><strong>Renovating empty homes:</strong> renovation or alteration of a home that has not been lived in for <strong>2 years or more</strong> can qualify for the 5% rate. Your builder will need evidence, such as a council tax letter confirming how long it has been empty.</li><li><strong>Changing the number of homes:</strong> converting a building into a different number of dwellings (for example a house into flats, or flats back into a house) can qualify for 5% on the work that relates to the conversion.</li></ul>"
+    },
+    {
+      "h2": "Zero rate (0%)",
+      "html": "<ul><li><strong>New homes:</strong> building a new dwelling can be zero-rated, subject to conditions.</li><li><strong>Energy-saving materials:</strong> installing listed energy-saving materials in homes, including insulation, draught stripping, heating controls, solar panels, heat pumps and (since February 2024) batteries, is zero-rated <strong>until 31 March 2027</strong>. From 1 April 2027 the rate is due to return to 5%.</li><li>The relief applies to the installation and materials supplied by the installer, not materials you buy separately.</li></ul>"
+    },
+    {
+      "h2": "Practical tips",
+      "html": "<ul><li>Check whether your builder is VAT-registered, and ask for VAT to be shown separately on quotes and invoices.</li><li>If you think a reduced or zero rate applies, raise it before the work starts. It is the builder who charges the correct rate.</li><li>The rules have conditions and exceptions. For anything significant, check the HMRC guidance or speak to an accountant.</li></ul>"
+    },
+    {
+      "h2": "Next steps",
+      "html": "<p><a href=\"/builders/\">Compare local builders</a>, and read <a href=\"/blog/builder-contract-what-to-include/\">what to include in your contract</a>, including how VAT is shown.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I pay VAT on an extension?",
+      "a": "Usually yes, at the standard rate, if your builder is VAT-registered. Extensions to an existing home do not normally qualify for a reduced rate."
+    },
+    {
+      "q": "Is there VAT on solar panels and insulation?",
+      "a": "Installing qualifying energy-saving materials in homes, including solar panels and insulation, is zero-rated until 31 March 2027, after which it is due to return to 5%."
+    },
+    {
+      "q": "Can I get reduced VAT on renovating an empty house?",
+      "a": "Renovation of a home that has been empty for 2 years or more can qualify for the 5% rate. Your builder will need evidence of how long it has been empty."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Buildings and construction (VAT Notice 708)",
+      "url": "https://www.gov.uk/guidance/buildings-and-construction-vat-notice-708"
+    },
+    {
+      "title": "GOV.UK: VAT on energy-saving materials and heating equipment (VAT Notice 708/6)",
+      "url": "https://www.gov.uk/guidance/vat-on-energy-saving-materials-and-heating-equipment-notice-7086"
+    }
+  ]
+}

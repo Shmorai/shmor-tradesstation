@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/problems-with-your-builder",
+  "title": "Problems With Your Builder? Your Rights and Options",
+  "description": "Unhappy with your builder’s work? Your rights under the Consumer Rights Act, how to complain, trade body schemes and small claims as a last resort.",
+  "h1": "Problems with your builder? Your rights and options",
+  "eyebrow": "Builders · Disputes",
+  "intro": "Most building jobs go well, but if something goes wrong, there is a clear path to follow. Here is how to raise a complaint, what the law says and where to go for help.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1681505531034-8d67054e07f6",
+    "alt": "Two people shaking hands over a paper document",
+    "credit": "Amina Atar",
+    "creditUrl": "https://unsplash.com/@minaslens"
+  },
+  "keywords": [
+    "problems with builder",
+    "complain about builder",
+    "builder bad work rights",
+    "consumer rights act builder",
+    "small claims builder",
+    "builder walked off job"
+  ],
+  "cardText": "Your rights, how to complain, trade body schemes and small claims.",
+  "sections": [
+    {
+      "h2": "Your rights",
+      "html": "<ul><li>Under the <strong>Consumer Rights Act 2015</strong>, a trader must carry out a service with <strong>reasonable care and skill</strong>.</li><li>If no price or time was agreed, they must charge a reasonable price and finish within a reasonable time.</li><li>What the builder told you, and you relied on, can form part of the contract.</li></ul>"
+    },
+    {
+      "h2": "What you can ask for",
+      "html": "<p>If the work is not up to standard, you can ask the builder to <strong>put it right</strong> (repeat the work) within a reasonable time, at their cost and without significant inconvenience to you. If that is impossible, or they do not do it in a reasonable time, you can ask for a <strong>price reduction</strong>, which in some cases can be the full price.</p>"
+    },
+    {
+      "h2": "Steps to take",
+      "html": "<ul><li><strong>Keep records:</strong> the contract, quotes, invoices, messages and dated photos.</li><li><strong>Raise it early</strong> and in writing, explaining what is wrong and what you want done, with a reasonable deadline.</li><li><strong>Withhold only what is fair:</strong> it can be reasonable to hold back a proportionate amount while defects are fixed, but take advice before withholding large sums.</li><li><strong>Use a scheme:</strong> if the builder belongs to a trade body or TrustMark, use its complaints or dispute resolution process.</li><li><strong>Get advice:</strong> Citizens Advice can explain your options, and pass details to Trading Standards.</li></ul>"
+    },
+    {
+      "h2": "Going to court",
+      "html": "<p>If nothing else works, you can make a claim for money through the county court in England and Wales; claims for smaller amounts are usually dealt with on the <strong>small claims track</strong>. Mediation can be quicker and cheaper, and the court will expect you to have tried to resolve things first. Scotland and Northern Ireland have different processes.</p>"
+    },
+    {
+      "h2": "Avoiding problems next time",
+      "html": "<p>Most disputes can be avoided with a clear <a href=\"/blog/builder-contract-what-to-include/\">written contract</a>, stage payments, and proper checks before you hire. See our <a href=\"/choosing-a-builder/\">guide to choosing a builder</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What can I do if my builder’s work is poor?",
+      "a": "Ask them in writing to put it right within a reasonable time. Under the Consumer Rights Act, if they cannot or do not, you can ask for a price reduction. Use a trade body scheme if they belong to one, and get advice from Citizens Advice."
+    },
+    {
+      "q": "Can I take my builder to court?",
+      "a": "Yes, as a last resort. In England and Wales you can make a money claim through the county court, often on the small claims track. Try to resolve the dispute or use mediation first."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Consumer Rights Act 2015, Part 1 Chapter 4 (services)",
+      "url": "https://www.legislation.gov.uk/ukpga/2015/15/part/1/chapter/4"
+    },
+    {
+      "title": "GOV.UK: Make a court claim for money",
+      "url": "https://www.gov.uk/make-court-claim-for-money"
+    },
+    {
+      "title": "Citizens Advice: consumer rights",
+      "url": "https://www.citizensadvice.org.uk/consumer/"
+    },
+    {
+      "title": "TrustMark",
+      "url": "https://www.trustmark.org.uk/"
+    }
+  ]
+}
