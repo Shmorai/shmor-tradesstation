@@ -1,0 +1,68 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/staircase-regulations-replacement",
+  "title": "Staircase Rules: Replacing or Adding Stairs",
+  "description": "Replacing a staircase or adding one in a loft? The Approved Document K basics for homes: rise, going, pitch, headroom, handrails and balustrade gaps.",
+  "h1": "Staircase rules: replacing or adding stairs",
+  "eyebrow": "Carpentry · Stairs",
+  "intro": "A new staircase changes how a home looks and feels, but it also has to be safe. Here are the main rules for stairs in houses, and when you need Building Regulations approval.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1634212926670-026e0b5df7bc",
+    "alt": "Wooden staircase with a pendant light above",
+    "credit": "Erik Mclean",
+    "creditUrl": "https://unsplash.com/@introspectivedsgn"
+  },
+  "keywords": [
+    "staircase regulations",
+    "stair building regulations uk",
+    "replacing a staircase",
+    "stair rise and going",
+    "balustrade regulations",
+    "loft stairs regulations"
+  ],
+  "cardText": "Rise, going, pitch, headroom, handrails and balustrades explained.",
+  "sections": [
+    {
+      "h2": "Like-for-like or new stairs?",
+      "html": "<p>Replacing treads, handrails or spindles is usually a repair. Fitting a <strong>new staircase</strong> in a different position, or adding stairs for a loft conversion, normally needs Building Regulations approval. A replacement staircase should meet current safety guidance even if the old one did not.</p>"
+    },
+    {
+      "h2": "The key measurements",
+      "html": "<p>Approved Document K sets out guidance for stairs. For stairs in a private home, the main figures are:</p><ul><li><strong>Rise</strong> (height of each step): maximum <strong>220mm</strong>.</li><li><strong>Going</strong> (depth of each tread): minimum <strong>220mm</strong>.</li><li><strong>Pitch</strong>: no steeper than <strong>42 degrees</strong>.</li><li><strong>Headroom</strong>: normally <strong>2 metres</strong>, with some reduction allowed in loft conversions where the ceiling slopes.</li><li>All the risers and goings in a flight should be consistent.</li></ul>"
+    },
+    {
+      "h2": "Handrails and balustrades",
+      "html": "<ul><li>A handrail is needed on at least one side of a flight, and on both sides if the stair is wider than 1 metre.</li><li>Handrails in homes are usually set between 900mm and 1000mm above the pitch line.</li><li>Balustrades and guarding in homes likely to be used by children should not have gaps that a 100mm sphere could pass through, and should not be easy to climb.</li></ul>"
+    },
+    {
+      "h2": "Loft conversion stairs",
+      "html": "<p>A converted loft needs a proper fixed staircase; retractable loft ladders are not normally acceptable for a habitable room. Where space is tight, alternating-tread or space-saving stairs may be accepted in some situations. Agree the design with Building Control before ordering. See <a href=\"/blog/building-regulations-extensions-lofts/\">Building Regulations for extensions and lofts</a>.</p>"
+    },
+    {
+      "h2": "Choosing a stair maker",
+      "html": "<p>Many staircases are made to measure by joiners. Ask for drawings with the rise, going and headroom marked, and confirm who is dealing with Building Control. <a href=\"/carpenters-joiners/\">Compare local carpenters and joiners</a>.</p><p><strong>Wales, Scotland and Northern Ireland have their own building rules.</strong> This guide covers England; elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the maximum step height for stairs in a house?",
+      "a": "Approved Document K gives a maximum rise of 220mm for private stairs, with a minimum going of 220mm and a maximum pitch of 42 degrees."
+    },
+    {
+      "q": "Do I need Building Regulations approval to replace my stairs?",
+      "a": "Repairs such as new spindles or treads usually do not. A new staircase, particularly in a new position or for a loft conversion, normally does. Check with your Building Control body."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Approved Document K – protection from falling, collision and impact",
+      "url": "https://www.gov.uk/government/publications/protection-from-falling-collision-and-impact-approved-document-k"
+    },
+    {
+      "title": "Planning Portal: Loft conversion – building regulations, stairs",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/building-regulations-stairs/"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/exterior-house-painting-guide",
+  "title": "Painting the Outside of Your House: A Guide",
+  "description": "Planning to paint your render, walls, windows or front door? Weather, preparation, masonry paint, access and the questions to ask an exterior decorator.",
+  "h1": "Painting the outside of your house",
+  "eyebrow": "Decorating · Exterior",
+  "intro": "Fresh exterior paint protects your home and transforms how it looks from the street. Here is how to plan the job, what affects how long it lasts, and what to ask your decorator.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1574359411659-15573a27fd0c",
+    "alt": "Two decorators on ladders working on an exterior wall",
+    "credit": "Ricky Singh",
+    "creditUrl": "https://unsplash.com/@rickysinghy"
+  },
+  "keywords": [
+    "painting outside of house",
+    "exterior painting",
+    "masonry paint",
+    "painting render",
+    "exterior decorator",
+    "painting window frames"
+  ],
+  "cardText": "Weather, preparation, masonry paint, access and what to ask.",
+  "sections": [
+    {
+      "h2": "Timing and weather",
+      "html": "<p>Exterior painting needs dry weather and surfaces, and temperatures within the range on the paint tin. In the UK that usually means late spring to early autumn. Avoid painting in direct strong sun, if rain is forecast before the paint is dry, or when there is likely to be dew or frost overnight.</p>"
+    },
+    {
+      "h2": "Preparation",
+      "html": "<ul><li>Repair cracks in render and brickwork, and treat any algae or mould.</li><li>Wash down and let surfaces dry fully.</li><li>Scrape loose paint from woodwork, fill and prime bare wood. In older homes, take care with old paint that may contain lead; see <a href=\"/blog/lead-paint-older-homes/\">lead paint in older homes</a>.</li><li>Check for and fix the cause of any damp first, such as leaking gutters.</li></ul>"
+    },
+    {
+      "h2": "Choosing paint",
+      "html": "<ul><li><strong>Masonry paint</strong> for render and painted brick. Smooth and textured versions are available.</li><li><strong>Exterior wood paint or stain</strong> for windows, doors, fascias and cladding.</li><li>Some older homes with solid walls benefit from <strong>breathable</strong> paints such as mineral or lime-based finishes. Ask your decorator.</li><li>Painting bare brick for the first time is a big decision: once painted, it is hard to go back.</li></ul>"
+    },
+    {
+      "h2": "Access and permissions",
+      "html": "<ul><li>Ask how your decorator will reach high areas: ladders, towers or scaffolding, and whether that is in the price.</li><li>Scaffolding on the pavement or road usually needs a council licence, which the scaffolding company normally arranges.</li><li>If your home is listed or in a conservation area, changing external colours or materials may need consent. Check with your council first.</li></ul>"
+    },
+    {
+      "h2": "Questions to ask your decorator",
+      "html": "<ul><li>What preparation is included, and how many coats?</li><li>Which paint will you use, and what does the manufacturer say about how long it lasts?</li><li>How will you protect windows, plants and paths?</li><li>What happens if the weather turns?</li></ul><p><a href=\"/painters-decorators/\">Compare local painters and decorators</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "When is the best time to paint the outside of a house in the UK?",
+      "a": "Usually late spring to early autumn, on dry days within the temperature range on the paint tin, avoiding strong direct sun, rain, dew and frost."
+    },
+    {
+      "q": "Do I need permission to paint the outside of my house?",
+      "a": "Usually not. Listed buildings, conservation areas with Article 4 directions, and some leasehold or estate rules can restrict changes, so check if any apply."
+    }
+  ]
+}

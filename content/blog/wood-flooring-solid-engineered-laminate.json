@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/wood-flooring-solid-engineered-laminate",
+  "title": "Solid, Engineered or Laminate Flooring?",
+  "description": "Solid wood, engineered wood or laminate? How they differ, where each works best, including kitchens and underfloor heating, and what to ask your fitter.",
+  "h1": "Solid wood, engineered wood or laminate flooring?",
+  "eyebrow": "Carpentry · Flooring",
+  "intro": "Wood-effect floors come in three main types that look similar but behave very differently. Here is how to choose the right one for each room.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642942552674-8302b1123460",
+    "alt": "Close-up of a patterned wooden floor",
+    "credit": "Denis GeoModule",
+    "creditUrl": "https://unsplash.com/@geomodule"
+  },
+  "keywords": [
+    "solid vs engineered wood flooring",
+    "engineered wood flooring",
+    "laminate flooring",
+    "wood flooring underfloor heating",
+    "flooring fitter",
+    "parquet flooring"
+  ],
+  "cardText": "How the three types differ and where each works best.",
+  "sections": [
+    {
+      "h2": "Solid wood",
+      "html": "<ul><li>Each board is a single piece of timber.</li><li>Can be sanded and refinished many times over its life.</li><li>Moves with changes in humidity and temperature, so it is less suited to kitchens, bathrooms, conservatories and many underfloor heating systems.</li><li>Often nailed or glued to a suitable subfloor.</li></ul>"
+    },
+    {
+      "h2": "Engineered wood",
+      "html": "<ul><li>A real wood top layer bonded to layers of plywood or softwood beneath.</li><li>More stable than solid wood, so it is often recommended over underfloor heating and in rooms with more variation in temperature (check the manufacturer’s guidance).</li><li>Can be sanded, but how many times depends on the thickness of the top layer.</li></ul>"
+    },
+    {
+      "h2": "Laminate",
+      "html": "<ul><li>A printed image of wood under a hard-wearing clear layer, on a fibreboard core.</li><li>Usually the most budget-friendly, and resistant to scratches.</li><li>Cannot be sanded. Standard laminate does not like standing water; water-resistant versions exist.</li></ul>"
+    },
+    {
+      "h2": "Fitting matters",
+      "html": "<ul><li><strong>Subfloor:</strong> must be flat, dry and sound. New screeds need to be dry before wood goes down.</li><li><strong>Acclimatisation:</strong> many products need to sit in the room before fitting; follow the manufacturer’s instructions.</li><li><strong>Expansion gaps:</strong> wood floors need gaps at the edges, hidden under skirting or beading.</li><li><strong>Underlay:</strong> the right underlay helps with sound, warmth and moisture. In flats, check your lease for any sound insulation requirements before laying hard floors.</li></ul>"
+    },
+    {
+      "h2": "Find a fitter",
+      "html": "<p>Ask your fitter what is included: removing old flooring, preparing the subfloor, underlay, door bars, and refitting or replacing skirting. <a href=\"/carpenters-joiners/\">Compare local carpenters and flooring fitters</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which wood flooring is best with underfloor heating?",
+      "a": "Engineered wood is usually the better choice, as it is more stable than solid wood. Always check the manufacturer confirms the product is suitable for your heating system."
+    },
+    {
+      "q": "Can I put wood flooring in a kitchen?",
+      "a": "Engineered wood and water-resistant laminate are often used in kitchens. Solid wood is more sensitive to moisture and spills, so it needs more care."
+    },
+    {
+      "q": "Can I lay laminate in my flat?",
+      "a": "Check your lease first. Many leases require carpets or specific sound-insulating underlay to reduce noise for neighbours below."
+    }
+  ]
+}

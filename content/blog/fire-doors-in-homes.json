@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/fire-doors-in-homes",
+  "title": "Fire Doors in Homes: When You Need Them",
+  "description": "When homes need fire doors: loft conversions, integral garages and flats. What FD20 and FD30 mean, self-closers, and why fitting matters as much as the door.",
+  "h1": "Fire doors in homes: when do you need them?",
+  "eyebrow": "Carpentry · Fire safety",
+  "intro": "Most homes do not need fire doors throughout, but some projects and layouts do. Here is when they are required, what the ratings mean and why a fire door only works if it is fitted properly.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1664797523026-f6e277258f0c",
+    "alt": "Hallway with an internal door and windows",
+    "credit": "Peter Herrmann",
+    "creditUrl": "https://unsplash.com/@tama66"
+  },
+  "keywords": [
+    "fire doors in houses",
+    "fd30 fire door",
+    "fd20 fire door",
+    "loft conversion fire doors",
+    "integral garage fire door",
+    "fire door regulations"
+  ],
+  "cardText": "Loft conversions, integral garages and flats: ratings, closers and fitting.",
+  "sections": [
+    {
+      "h2": "What the ratings mean",
+      "html": "<p>Fire doors are rated by how long they are designed to resist fire in tests. <strong>FD20</strong> (also written E20) means 20 minutes; <strong>FD30</strong> (E30) means 30 minutes. An “S” (for example FD30S) means the door also has smoke seals. The rating applies to the complete door set: door, frame, hinges, seals and gaps, not just the door leaf.</p>"
+    },
+    {
+      "h2": "Loft conversions and three-storey homes",
+      "html": "<p>When a loft conversion turns a two-storey house into three storeys, the usual approach is a <strong>protected stairway</strong> from the top floor down to an exit. That typically means fire-resisting doors onto the stairs on every level, along with fire-resisting partitions and interlinked smoke alarms. Existing doors may need upgrading or replacing. Your Building Control body will confirm what your layout needs. See <a href=\"/blog/building-regulations-extensions-lofts/\">Building Regulations for extensions and lofts</a>.</p>"
+    },
+    {
+      "h2": "Integral and attached garages",
+      "html": "<p>A door between a house and an integral garage is normally expected to be a <strong>self-closing fire door with smoke seals</strong>, because garages hold fuel and vehicles. Most other fire doors inside a single house do not need self-closers, but this one does. Check with Building Control if you are converting a garage or adding a new connecting door.</p>"
+    },
+    {
+      "h2": "Flats",
+      "html": "<ul><li>Flat front doors that open onto shared corridors or stairs are usually fire doors and play a key part in the building’s fire safety.</li><li>In England, in blocks with storeys over 11 metres, the responsible person (often the building owner or managing agent) must check communal fire doors every three months and make best-endeavour annual checks of flat entrance doors.</li><li>Do not change or replace a flat front door without checking with the freeholder or managing agent first.</li></ul>"
+    },
+    {
+      "h2": "Fitting matters",
+      "html": "<ul><li>Fire doors should be installed in line with the manufacturer’s instructions, with the right frame, hinges, intumescent seals and gaps.</li><li>Do not cut down a fire door, add letterboxes or glazing, or swap the hardware without checking it is compatible with the certification.</li><li>Never wedge self-closing fire doors open.</li></ul><p>Use a <a href=\"/carpenters-joiners/\">carpenter or joiner</a> experienced in fitting certified fire door sets, and ask for the door’s certification details.</p><p><strong>Wales, Scotland and Northern Ireland have their own building rules.</strong> This guide covers England; elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need fire doors in my house?",
+      "a": "Not usually in a typical two-storey house. Fire doors are commonly needed when a loft conversion creates a third storey, between a house and an integral garage, and for flat front doors."
+    },
+    {
+      "q": "Do fire doors in a house need self-closers?",
+      "a": "Doors onto a protected stairway in a single house usually do not, but the door between a house and an integral garage normally should be self-closing."
+    },
+    {
+      "q": "Can I cut down a fire door to fit?",
+      "a": "Only within the limits the manufacturer allows. Trimming too much, or adding glazing or letterboxes, can stop the door performing as tested."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Approved Document B – fire safety",
+      "url": "https://www.gov.uk/government/publications/fire-safety-approved-document-b"
+    },
+    {
+      "title": "Planning Portal: Loft conversion – building regulations, fire safety",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/building-regulations-fire-safety"
+    },
+    {
+      "title": "GOV.UK: Fire Safety (England) Regulations 2022 – fact sheet: fire doors",
+      "url": "https://www.gov.uk/government/publications/fire-safety-england-regulations-2022/fact-sheet-fire-doors-regulation-10"
+    }
+  ]
+}

@@ -3,12 +3,12 @@
   "slug": "blog",
   "type": "blog",
   "title": "Home Improvement Guides & Blog | TradesStation",
-  "description": "Plain-English UK home improvement guides: extensions, lofts, kitchens, bathrooms, roofing, electrics, gardens and plastering, checked against official sources.",
+  "description": "Plain-English UK home improvement guides for every trade: building, lofts, kitchens, bathrooms, roofing, electrics, gardens, carpentry and decorating.",
   "nav": "Blog",
   "navOrder": 7,
   "eyebrow": "Building · Interiors · Roofs · Electrics · Gardens",
   "h1": "Home improvement guides",
-  "intro": "Extensions, lofts, kitchens, bathrooms, roofing, electrics, gardens and plastering: the rules, design choices and practical steps, explained clearly and checked against official sources.",
+  "intro": "Extensions, lofts, kitchens, bathrooms, roofing, electrics, gardens, plastering, carpentry and decorating: the rules, design choices and practical steps, explained clearly and checked against official sources.",
   "image": {
     "src": "https://images.unsplash.com/photo-1672627170267-fca17bb54156",
     "alt": "House under construction with plywood walls and new windows stacked inside",
@@ -27,7 +27,9 @@
     "roofing blog",
     "electrics guide",
     "landscaping guide",
-    "plastering guide"
+    "plastering guide",
+    "carpentry guide",
+    "decorating guide"
   ],
-  "cardText": "Guides to extensions, lofts, kitchens, bathrooms, roofing, electrics, gardens and plastering."
+  "cardText": "Guides for every trade, from extensions and lofts to carpentry and decorating."
 }

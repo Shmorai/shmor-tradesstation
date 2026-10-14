@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/lead-paint-older-homes",
+  "title": "Lead Paint in Older Homes: Safe Decorating",
+  "description": "Homes with original pre-1960s paintwork may have lead paint. When it is a risk, why you should never dry sand it, and how to decorate safely or hire help.",
+  "h1": "Lead paint in older homes: how to decorate safely",
+  "eyebrow": "Decorating · Safety",
+  "intro": "Lead was used in some paints until the mid-1960s, especially on windows, doors and other woodwork. It is usually harmless when sealed under newer paint, but can be dangerous when disturbed.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1485642356117-9518036521d2",
+    "alt": "Old four-panel window with a weathered grey wooden frame",
+    "credit": "Brandon Mowinkel",
+    "creditUrl": "https://unsplash.com/@bmowinkel"
+  },
+  "keywords": [
+    "lead paint",
+    "lead paint older homes",
+    "how to remove lead paint",
+    "lead paint test",
+    "sanding old paint",
+    "period property decorating"
+  ],
+  "cardText": "When old paint is a risk, what not to do, and how to decorate safely.",
+  "sections": [
+    {
+      "h2": "Which homes may have lead paint?",
+      "html": "<p>If your home was built before the 1960s and still has <strong>original coats of paint</strong>, particularly on windows, doors, skirting and other woodwork, some layers may contain lead. If the woodwork has been repainted more recently and is in good condition, the old paint is sealed in and poses little risk.</p>"
+    },
+    {
+      "h2": "When it becomes a risk",
+      "html": "<p>Lead paint is a hazard when it is <strong>disturbed</strong>: flaking, chipped, sanded or burned. That creates dust and fumes that can be breathed in or swallowed. <strong>Young children and pregnant women are most at risk.</strong></p>"
+    },
+    {
+      "h2": "What not to do",
+      "html": "<ul><li><strong>Never dry sand</strong> old paintwork that may contain lead.</li><li>Do not burn it off with a blowtorch. If using a hot-air gun, keep it at a low setting, just enough to soften the paint without burning it.</li><li>Avoid any method that creates lots of dust or fumes.</li></ul>"
+    },
+    {
+      "h2": "Safer approaches",
+      "html": "<ul><li>If the paint is sound, <strong>overpaint it</strong> with a modern paint to seal it in.</li><li>If it must come off, use a chemical or water-based paint stripper (following the safety instructions) and <strong>wet abrasive paper</strong> rather than dry sandpaper.</li><li>Wear protective clothing, gloves and a properly fitted mask with a P3 filter; seal off the room and keep children and pregnant women away.</li><li>Cover or remove furniture and carpets, clean up with water and detergent, and wash work clothes separately.</li></ul>"
+    },
+    {
+      "h2": "Hiring a decorator",
+      "html": "<p>For larger jobs, or if you are unsure, use a professional decorator who knows how to deal with old paint safely. The Painting and Decorating Association can help you find a member. Ask how they will test for and handle lead paint. <a href=\"/painters-decorators/\">Compare local painters and decorators</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I know if my paint contains lead?",
+      "a": "Homes built before the 1960s with original paintwork may contain lead. Lead test kits are available, or a professional decorator can advise. If in doubt, treat old paint as if it contains lead."
+    },
+    {
+      "q": "Can I paint over lead paint?",
+      "a": "Yes, if it is in good condition. Overpainting sound paintwork with modern paint seals the old layers in and is generally the lowest-risk approach."
+    },
+    {
+      "q": "Is it safe to sand old paint?",
+      "a": "Not if it may contain lead. Never dry sand it. Use a chemical stripper and wet abrasive paper, with proper protection, or hire a professional."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Cambridge City Council: Lead paint in your home",
+      "url": "https://www.cambridge.gov.uk/lead-paint-in-your-home"
+    },
+    {
+      "title": "Painting and Decorating Association",
+      "url": "https://paintingdecoratingassociation.co.uk/"
+    }
+  ]
+}

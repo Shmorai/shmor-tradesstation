@@ -1,0 +1,62 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/paint-finishes-explained",
+  "title": "Paint Finishes Explained: Matt to Gloss",
+  "description": "Matt, eggshell, satin or gloss? The main paint finishes explained, where each works best, and the questions to ask your decorator before work starts.",
+  "h1": "Paint finishes explained: matt, eggshell, satin and gloss",
+  "eyebrow": "Decorating · Choosing paint",
+  "intro": "The finish of a paint changes how it looks, how it hides marks and how easy it is to clean. Here is a quick guide to choosing the right one for each surface.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1456086272160-b28b0645b729",
+    "alt": "Tins of paint in assorted colours",
+    "credit": "russn_fckr",
+    "creditUrl": "https://unsplash.com/@russn_fckr"
+  },
+  "keywords": [
+    "paint finishes",
+    "matt vs eggshell",
+    "satin vs gloss",
+    "best paint for woodwork",
+    "kitchen paint finish",
+    "bathroom paint"
+  ],
+  "cardText": "Matt, eggshell, satin and gloss: where each works best.",
+  "sections": [
+    {
+      "h2": "Matt (and flat matt)",
+      "html": "<ul><li>Low sheen, so it hides lumps and bumps in walls and ceilings well.</li><li>The usual choice for ceilings and living room or bedroom walls.</li><li>Standard matt can mark more easily; durable or washable matt paints are made for busier rooms.</li></ul>"
+    },
+    {
+      "h2": "Eggshell",
+      "html": "<ul><li>A soft low sheen, slightly more durable and wipeable than matt.</li><li>Popular on walls in hallways and kitchens, and on woodwork for a modern, less shiny look.</li></ul>"
+    },
+    {
+      "h2": "Satin (and silk)",
+      "html": "<ul><li>A mid sheen that is hard-wearing and easy to wipe.</li><li>Common on doors, skirting and window frames. Silk emulsion on walls shows imperfections more than matt.</li></ul>"
+    },
+    {
+      "h2": "Gloss",
+      "html": "<ul><li>High shine and very durable.</li><li>Traditional for woodwork and metalwork, inside and out.</li><li>Shows every imperfection, so good preparation is essential.</li></ul>"
+    },
+    {
+      "h2": "Special paints",
+      "html": "<ul><li><strong>Kitchen and bathroom paints</strong> are designed to resist moisture and mould.</li><li><strong>Masonry paint</strong> is for exterior walls; see <a href=\"/blog/exterior-house-painting-guide/\">painting the outside of your house</a>.</li><li><strong>New plaster</strong> needs a mist coat first; see <a href=\"/blog/painting-new-plaster/\">how to paint new plaster</a>.</li><li><strong>Old woodwork</strong> in pre-1960s homes may have lead paint underneath; see <a href=\"/blog/lead-paint-older-homes/\">lead paint in older homes</a>.</li></ul>"
+    },
+    {
+      "h2": "Agree it with your decorator",
+      "html": "<p>Before work starts, agree the brand, colour and finish for each surface, how many coats are included, and who is buying the paint. <a href=\"/painters-decorators/\">Compare local painters and decorators</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What paint finish is best for walls?",
+      "a": "Matt is the most popular for living rooms, bedrooms and ceilings, as it hides imperfections. Durable matt, eggshell or kitchen and bathroom paints are better in busy or humid rooms."
+    },
+    {
+      "q": "What finish should I use on skirting boards and doors?",
+      "a": "Satin and gloss are the most common, as they are hard-wearing and easy to clean. Eggshell gives a more modern, lower-sheen look."
+    }
+  ]
+}
