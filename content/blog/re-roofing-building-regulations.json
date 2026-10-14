@@ -1,0 +1,71 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/re-roofing-building-regulations",
+  "title": "Roof Repair or Re-Roof: When You Need Approval",
+  "description": "Repairing or replacing your roof? When re-roofing needs Building Regulations approval in England, what the 25% and 50% limits mean and what to ask your roofer.",
+  "h1": "Roof repair or re-roof: when do you need approval?",
+  "eyebrow": "Roofing · Regulations",
+  "intro": "Most roof repairs need no paperwork. Bigger re-roofing jobs, heavier tiles and structural changes do. Here is where the lines are drawn.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1726589004565-bedfba94d3a2",
+    "alt": "Roofer working on a pitched house roof",
+    "credit": "Christer Lässman",
+    "creditUrl": "https://unsplash.com/@lassman"
+  },
+  "keywords": [
+    "re-roofing building regulations",
+    "do i need building regs to replace my roof",
+    "roof replacement rules",
+    "roof repair or replace",
+    "replacing roof tiles regulations"
+  ],
+  "cardText": "The 25% and 50% limits, heavier coverings, structure and what to ask your roofer.",
+  "sections": [
+    {
+      "h2": "Repairs: usually no application",
+      "html": "<p>Fixing slipped or broken tiles, replacing flashing or patching a section of flat roof is normally just a repair. According to the Planning Portal, you normally won’t need a Building Regulations application to repair or re-cover a pitched or flat roof if <strong>less than 25%</strong> of the whole building envelope (walls, floor, roof, windows and doors) is affected <strong>and</strong> <strong>less than 50%</strong> of the roof is affected.</p>"
+    },
+    {
+      "h2": "When you do need approval",
+      "html": "<ul><li>The work goes beyond those 25% or 50% limits.</li><li>The work includes <strong>structural alterations</strong>, such as changing rafters or removing parts of the roof structure.</li><li>The new covering is <strong>15% or more heavier</strong> than the old one, for example swapping lightweight tiles for heavy concrete tiles or slate, which may need the structure checking.</li><li>The new covering would perform <strong>significantly differently in a fire</strong>.</li></ul>"
+    },
+    {
+      "h2": "Insulation on bigger jobs",
+      "html": "<p>When most of a roof is renewed, Building Regulations can also require the insulation to be brought up to a better standard, where that is practical. That can change the price, so ask your roofer to include it in the quote if it is likely to apply.</p>"
+    },
+    {
+      "h2": "How sign-off works",
+      "html": "<p>Where approval is needed, either your roofer is registered with a <strong>competent person scheme</strong> that lets them self-certify roofing work, or an application is made to your local authority or a registered private building control approver. Either way, you should receive a certificate at the end. Keep it with your house documents.</p>"
+    },
+    {
+      "h2": "Questions to ask your roofer",
+      "html": "<ul><li>Is this a repair, or does more than half the roof need re-covering?</li><li>Will the job need Building Regulations approval, and who will arrange it?</li><li>Are you registered with a competent person scheme for roofing?</li><li>What written guarantee do you give, and is it insurance-backed?</li><li>How will you access the roof safely, and is scaffolding included?</li></ul><p>Compare quotes from <a href=\"/roofers/\">local roofers</a>, and read how to <a href=\"/blog/doorstep-roofers-rogue-traders/\">spot a rogue doorstep roofer</a>.</p><p><strong>Wales, Scotland and Northern Ireland have their own building rules.</strong> This guide covers England; elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need Building Regulations to replace my roof?",
+      "a": "Often, yes. In England, re-covering more than 50% of the roof, or more than 25% of the whole building envelope, normally needs approval, as do structural changes and heavier coverings."
+    },
+    {
+      "q": "Do I need planning permission to re-roof?",
+      "a": "Re-roofing with similar materials does not usually need planning permission. Listed buildings, conservation areas and changes to the roof shape are different, so check with your council."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Roof – building regulations for work to an existing roof",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/roof/building-regulations-work-to-an-existing-roof/"
+    },
+    {
+      "title": "GOV.UK: Building regulations approval",
+      "url": "https://www.gov.uk/building-regulations-approval"
+    },
+    {
+      "title": "GOV.UK: Competent person schemes",
+      "url": "https://www.gov.uk/guidance/competent-person-scheme-current-schemes-and-how-schemes-are-authorised"
+    }
+  ]
+}

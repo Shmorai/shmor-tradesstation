@@ -74,8 +74,10 @@
   "related": [
     "kitchen-fitters",
     "bathroom-fitters",
-    "builders",
-    "loft-conversions"
+    "blog/eicr-electrical-safety-check",
+    "blog/consumer-unit-upgrade-rewire-signs",
+    "blog/home-ev-charger-installation",
+    "builders"
   ],
   "relatedTitle": "Related trades and guides",
   "ctaTitle": "What job do you need doing?"

@@ -1,0 +1,64 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/flat-roof-types-felt-epdm-grp",
+  "title": "Flat Roof Types Compared: Felt, EPDM and GRP",
+  "description": "Replacing a flat roof on an extension, garage or dormer? Felt, EPDM rubber and GRP fibreglass compared, with what to check and what to ask your roofer.",
+  "h1": "Flat roof types compared: felt, EPDM and GRP",
+  "eyebrow": "Roofing · Materials",
+  "intro": "Flat roofs are common on extensions, garages and dormers. The covering you choose affects how it is installed, how it looks and how it is maintained. Here are the three main options.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1635424824849-1b09bdcc55b1",
+    "alt": "Roofer using a power drill on a roof",
+    "credit": "Raze Solar",
+    "creditUrl": "https://unsplash.com/@razesolar"
+  },
+  "keywords": [
+    "flat roof types",
+    "felt vs epdm vs grp",
+    "epdm rubber roof",
+    "grp fibreglass roof",
+    "torch on felt roof",
+    "flat roof replacement"
+  ],
+  "cardText": "Felt, EPDM rubber and GRP fibreglass compared for extensions, garages and dormers.",
+  "sections": [
+    {
+      "h2": "Built-up felt",
+      "html": "<ul><li>Layers of modern reinforced bitumen membrane, bonded together. Often called torch-on felt when heat-applied.</li><li>A long-established system that many roofers install.</li><li>Ask whether the roofer uses heat (a torch) and how they manage fire risk; cold-applied and self-adhesive systems also exist.</li></ul>"
+    },
+    {
+      "h2": "EPDM (rubber)",
+      "html": "<ul><li>A single sheet of synthetic rubber membrane, bonded to the deck.</li><li>Often laid in one piece on smaller roofs, so there are few or no joins.</li><li>Usually installed cold, with adhesive, so no flame is needed.</li></ul>"
+    },
+    {
+      "h2": "GRP (fibreglass)",
+      "html": "<ul><li>Glass-reinforced plastic laid as a liquid resin with glass matting, which cures to a hard, seamless surface.</li><li>Can be shaped around details and finished in different colours.</li><li>Needs dry conditions and suitable temperatures to cure properly, so timing matters.</li></ul>"
+    },
+    {
+      "h2": "Whatever the covering",
+      "html": "<ul><li><strong>The deck matters:</strong> a covering is only as good as the boards beneath it. Ask whether the deck will be replaced.</li><li><strong>Falls:</strong> a flat roof still needs a slight slope so water drains off rather than pooling.</li><li><strong>Insulation and condensation:</strong> warm-roof construction, with insulation above the deck, is common in new and replacement flat roofs. Ask your roofer how they will avoid condensation.</li><li><strong>Guarantee:</strong> ask what the manufacturer and the installer each guarantee, and for how long.</li></ul>"
+    },
+    {
+      "h2": "Next steps",
+      "html": "<p>Replacing a large flat roof may need <a href=\"/blog/re-roofing-building-regulations/\">Building Regulations approval</a>. Get itemised quotes from <a href=\"/roofers/\">local roofers</a> for the same specification so you can compare like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which flat roof is best?",
+      "a": "There is no single best option. Felt, EPDM and GRP can all perform well when correctly installed on a sound deck with proper falls. The installer’s experience with the system matters as much as the material."
+    },
+    {
+      "q": "Can you go over an old flat roof?",
+      "a": "Sometimes a new covering can be laid over an existing one, but often the old layers and any damaged decking need removing. A roofer should inspect the deck before advising."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Roof – building regulations for work to an existing roof",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/roof/building-regulations-work-to-an-existing-roof/"
+    }
+  ]
+}

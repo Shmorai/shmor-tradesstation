@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/eicr-electrical-safety-check",
+  "title": "EICR Explained: Electrical Safety Checks for Homes",
+  "description": "What an Electrical Installation Condition Report (EICR) is, what the C1, C2, C3 and FI codes mean, and the rules for landlords in England.",
+  "h1": "EICR explained: electrical safety checks for homes",
+  "eyebrow": "Electrics · Safety",
+  "intro": "An Electrical Installation Condition Report checks the wiring in your home is safe. Landlords must have one. Homeowners and buyers often find one useful too. Here is what it involves and how to read it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1660330589693-99889d60181e",
+    "alt": "Electrician using a screwdriver on an electrical panel",
+    "credit": "Raze Solar",
+    "creditUrl": "https://unsplash.com/@razesolar"
+  },
+  "keywords": [
+    "eicr",
+    "electrical installation condition report",
+    "eicr codes",
+    "c1 c2 c3 fi",
+    "landlord electrical safety certificate",
+    "electrical safety check"
+  ],
+  "cardText": "What an EICR checks, what C1, C2, C3 and FI mean, and the landlord rules.",
+  "sections": [
+    {
+      "h2": "What an EICR is",
+      "html": "<p>An Electrical Installation Condition Report (EICR) is a report on the condition of the fixed electrical installation: the consumer unit, wiring, sockets, switches and fixed fittings. A qualified electrician inspects and tests the installation and records anything that does not meet the current wiring standard. It is a check of what is already there, not a certificate for new work.</p>"
+    },
+    {
+      "h2": "What the codes mean",
+      "html": "<ul><li><strong>C1 – danger present:</strong> a risk of injury that needs immediate action. The electrician may make it safe before leaving.</li><li><strong>C2 – potentially dangerous:</strong> needs fixing urgently.</li><li><strong>FI – further investigation:</strong> something needs looking at more closely to find out whether there is a problem.</li><li><strong>C3 – improvement recommended:</strong> not dangerous, but would improve safety.</li></ul><p>A report with any C1, C2 or FI observation is <strong>unsatisfactory</strong>. A report with only C3s, or no observations, is satisfactory. The report also recommends when the next inspection should be.</p>"
+    },
+    {
+      "h2": "The rules for landlords in England",
+      "html": "<ul><li>The electrical installation must be inspected and tested by a qualified and competent person at least <strong>every 5 years</strong>, or sooner if the report says so.</li><li>Give existing tenants a copy within <strong>28 days</strong> of the inspection, and new tenants a copy before they move in.</li><li>Give the local council a copy within 7 days if they ask for it.</li><li>Where the report requires remedial work or further investigation, it must be done within <strong>28 days</strong> (or sooner if specified), with written confirmation to tenants and the council.</li><li>Councils can impose a financial penalty of up to <strong>£30,000</strong> for breaches.</li></ul><p>The rules were extended to the social rented sector in 2025.</p>"
+    },
+    {
+      "h2": "For homeowners and buyers",
+      "html": "<p>There is no legal requirement for owner-occupiers to have an EICR, but it is a sensible check if your wiring is old, if you are buying a home, or before major renovation work. Follow the recommended date on your last report.</p>"
+    },
+    {
+      "h2": "Choosing an electrician",
+      "html": "<p>Use an electrician who is qualified to carry out inspection and testing; registration with a competent person scheme such as NICEIC or NAPIT is a good sign. Ask for the full report, not just a summary. <a href=\"/electricians/\">Find local electricians</a>, and see <a href=\"/blog/consumer-unit-upgrade-rewire-signs/\">fuse box upgrades and signs you need a rewire</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How often do landlords need an EICR?",
+      "a": "In England, at least every five years, or more often if the previous report recommends it. Tenants must receive a copy within 28 days of the inspection."
+    },
+    {
+      "q": "What does an unsatisfactory EICR mean?",
+      "a": "The report found at least one C1 (danger present), C2 (potentially dangerous) or FI (further investigation needed) observation. Those issues need to be put right."
+    },
+    {
+      "q": "Do homeowners need an EICR?",
+      "a": "It is not a legal requirement for owner-occupiers, but it is a good idea if your wiring is old, before buying a property or before major renovation work."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Electrical Safety Standards in the Private Rented Sector (England) Regulations 2020",
+      "url": "https://www.legislation.gov.uk/uksi/2020/312/made"
+    },
+    {
+      "title": "GOV.UK: Electrical safety standards in the rented sector – guidance",
+      "url": "https://www.gov.uk/government/publications/electrical-safety-standards-in-the-private-rented-sector-guidance-for-landlords-tenants-and-local-authorities"
+    },
+    {
+      "title": "ECA: EICRs and coding guide",
+      "url": "https://www.eca.co.uk/getattachment/473fa30b-c9ea-4c94-b06b-5cee706d6f1e/EICRS-and-Coding.pdf"
+    }
+  ]
+}

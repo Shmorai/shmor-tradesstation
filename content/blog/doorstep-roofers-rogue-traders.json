@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/doorstep-roofers-rogue-traders",
+  "title": "Doorstep Roofers: How to Spot a Rogue Trader",
+  "description": "A roofer knocks and says your roof needs urgent work? The warning signs of rogue doorstep traders, your 14-day cancellation rights and who to report them to.",
+  "h1": "Doorstep roofers: how to spot a rogue trader",
+  "eyebrow": "Roofing · Consumer advice",
+  "intro": "“I was passing and noticed some loose tiles.” Roofing and gutter work is one of the most common doorstep scams. Here is how to protect yourself, and what to do if you have already agreed.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1564783679669-f5391270417b",
+    "alt": "Moss growing on old roof tiles",
+    "credit": "Barb McMahon",
+    "creditUrl": "https://unsplash.com/@barbmcmahon"
+  },
+  "keywords": [
+    "rogue roofers",
+    "doorstep roofer scam",
+    "rogue traders",
+    "cold calling builders",
+    "cancel doorstep contract",
+    "bogus roofer"
+  ],
+  "cardText": "Warning signs, your cancellation rights and who to report rogue traders to.",
+  "sections": [
+    {
+      "h2": "Common warning signs",
+      "html": "<ul><li>They knock uninvited and say they have spotted a problem with your roof, chimney or gutters.</li><li>A small job quickly turns into a big one, often with photos of “rotten timbers” or “wet insulation” you cannot check yourself.</li><li>You are pressured to decide today, or offered a big discount for starting immediately.</li><li>They ask for cash, or a large payment upfront.</li><li>There is no written quote, no landline and no business address.</li></ul>"
+    },
+    {
+      "h2": "What to do at the door",
+      "html": "<ul><li>You do not have to let anyone in or onto your roof. It is fine to say no and close the door.</li><li>Ask yourself: <strong>would I have had this done if they had not knocked?</strong></li><li>If you think there is a problem, get at least three written quotes from roofers you have chosen and checked yourself.</li><li>Never go to the bank or a cash machine with a trader.</li></ul>"
+    },
+    {
+      "h2": "Your right to cancel",
+      "html": "<p>If you agree a contract at home with a trader who visits you, the Consumer Contracts Regulations usually give you <strong>14 days to cancel</strong>. The trader must give you written information about this right. Work should not start during the cancellation period unless you ask for it to; if you do, you may still have to pay for work already done. If you were never told about the right to cancel, get advice quickly.</p>"
+    },
+    {
+      "h2": "Where to get help and report",
+      "html": "<ul><li><strong>Citizens Advice consumer service:</strong> advice on your rights, and they pass reports to Trading Standards.</li><li><strong>Report Fraud</strong> (reportfraud.police.uk, which replaced Action Fraud in December 2025): report fraud and scams.</li><li><strong>Police:</strong> call 999 if you feel threatened or someone will not leave.</li></ul>"
+    },
+    {
+      "h2": "Finding a roofer you can trust",
+      "html": "<p>Choose a roofer yourself rather than responding to a knock on the door. Check trade body membership (for example the NFRC or TrustMark) on the organisation’s own website, look for independent reviews, and get a written contract. Our <a href=\"/choosing-a-builder/\">hiring guide</a> covers the checks, and you can <a href=\"/roofers/\">compare local roofers</a> here.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I cancel work I agreed to on the doorstep?",
+      "a": "Usually, yes. Contracts made at your home with a visiting trader normally come with a 14-day right to cancel, and the trader must tell you about it in writing. Contact Citizens Advice for help."
+    },
+    {
+      "q": "Are all doorstep traders rogue traders?",
+      "a": "Not all, but uninvited offers of urgent roof or gutter work are a common scam. It is safest to get independent quotes before agreeing to anything."
+    }
+  ],
+  "sources": [
+    {
+      "title": "The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013",
+      "url": "https://www.legislation.gov.uk/uksi/2013/3134/contents"
+    },
+    {
+      "title": "Citizens Advice: consumer rights",
+      "url": "https://www.citizensadvice.org.uk/consumer/"
+    },
+    {
+      "title": "Report Fraud (City of London Police): report fraud and cyber crime",
+      "url": "https://www.reportfraud.police.uk/"
+    }
+  ]
+}

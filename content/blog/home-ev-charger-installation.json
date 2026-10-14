@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/home-ev-charger-installation",
+  "title": "Home EV Charger Installation: Grants and Rules",
+  "description": "Getting a home EV charger? What the installation involves, the government grant for renters and flat owners, smart charger rules and what to ask your installer.",
+  "h1": "Home EV charger installation: grants and rules",
+  "eyebrow": "Electrics · EV charging",
+  "intro": "A home charger is the cheapest and most convenient way to charge an electric car. Here is what installation involves, the rules it has to meet, and the grant available to renters and flat owners.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1704475336842-0ab3798abf0e",
+    "alt": "Hand plugging a charging cable into an electric car",
+    "credit": "Zaptec",
+    "creditUrl": "https://unsplash.com/@zaptec"
+  },
+  "keywords": [
+    "ev charger installation",
+    "home ev charger",
+    "ev charger grant",
+    "ozev grant",
+    "electric car charger at home",
+    "smart charger regulations"
+  ],
+  "cardText": "What installation involves, smart charger rules and the grant for renters and flat owners.",
+  "sections": [
+    {
+      "h2": "What installation involves",
+      "html": "<ul><li>A survey of your supply, consumer unit and earthing arrangements.</li><li>A <strong>dedicated new circuit</strong> from the consumer unit to the charger, which is notifiable electrical work in England.</li><li>Mounting the charger near where you park, with cable runs inside or outside the house.</li><li>Sometimes an upgrade to the consumer unit, or a request to your network operator if the supply needs checking.</li></ul>"
+    },
+    {
+      "h2": "Smart charger rules",
+      "html": "<p>Home chargers sold and installed in Great Britain must be <strong>smart</strong> under the Electric Vehicles (Smart Charge Points) Regulations 2021. They must be able to send and receive information, and come with features such as default off-peak charging hours that you can change, and a randomised delay to help balance demand on the grid.</p>"
+    },
+    {
+      "h2": "Grant for renters and flat owners",
+      "html": "<p>The government’s <strong>EV chargepoint grant</strong> gives <strong>75% off</strong> the cost of buying and installing a socket, up to a maximum of <strong>£500</strong>. It is for people who:</p><ul><li>own and live in a flat, or rent and live in any residential property;</li><li>have their own private off-street parking; and</li><li>own, lease or have ordered an eligible electric vehicle.</li></ul><p>The installer applies for the grant on your behalf, so use an installer authorised for the scheme. Check the GOV.UK page for the latest eligibility and dates before you book.</p>"
+    },
+    {
+      "h2": "Questions to ask your installer",
+      "html": "<ul><li>Are you authorised for the government chargepoint grant (if you are eligible)?</li><li>Are you registered with a competent person scheme for electrical work?</li><li>Does my consumer unit or supply need upgrading?</li><li>Where will the cable run, and how will it be protected?</li><li>What certificates and warranty will I get?</li></ul>"
+    },
+    {
+      "h2": "Next steps",
+      "html": "<p>Compare quotes from <a href=\"/electricians/\">local electricians</a> who install chargers. If your consumer unit is old, read <a href=\"/blog/consumer-unit-upgrade-rewire-signs/\">fuse box upgrades and signs you need a rewire</a> first. If your home is listed or in a conservation area, check with your council before fitting a charger to the outside wall.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is there a grant for home EV chargers?",
+      "a": "Yes, for renters and flat owners with private off-street parking: 75% off the cost of buying and installing a socket, up to £500. Homeowners in houses are not eligible for this grant."
+    },
+    {
+      "q": "Does an EV charger need to be smart?",
+      "a": "Yes. Home chargers sold and installed in Great Britain must meet the Electric Vehicles (Smart Charge Points) Regulations 2021."
+    },
+    {
+      "q": "Do I need a qualified electrician to fit an EV charger?",
+      "a": "Yes. It needs a new dedicated circuit, which is notifiable electrical work in England. Use a registered electrician who can certify it."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Electric vehicle chargepoint grant for renters or flat owners",
+      "url": "https://www.gov.uk/electric-vehicle-chargepoint-grant-household"
+    },
+    {
+      "title": "GOV.UK: EV chargepoint grant – what you can get",
+      "url": "https://www.gov.uk/electric-vehicle-chargepoint-grant-household/what-you-can-get"
+    },
+    {
+      "title": "The Electric Vehicles (Smart Charge Points) Regulations 2021",
+      "url": "https://www.legislation.gov.uk/uksi/2021/1467/contents"
+    },
+    {
+      "title": "Planning Portal: Electrics – building regulations",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/electrics/building-regulations-general-information"
+    }
+  ]
+}

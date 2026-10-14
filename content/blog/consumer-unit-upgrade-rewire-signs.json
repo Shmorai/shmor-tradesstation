@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/consumer-unit-upgrade-rewire-signs",
+  "title": "Fuse Box Upgrades and Signs You Need a Rewire",
+  "description": "Old fuse box or tired wiring? When to upgrade your consumer unit, warning signs your home may need a rewire, and the certificates you should get afterwards.",
+  "h1": "Fuse box upgrades and signs you need a rewire",
+  "eyebrow": "Electrics · Upgrades",
+  "intro": "Your consumer unit (fuse box) is the heart of your home’s electrics. Here is when it is worth upgrading, the signs your wiring may need replacing, and how to make sure the work is certified.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1635335874521-7987db781153",
+    "alt": "Wires connected inside an electrical switch box",
+    "credit": "mostafa mahmoudi",
+    "creditUrl": "https://unsplash.com/@mostafa_mahmoudi24"
+  },
+  "keywords": [
+    "consumer unit upgrade",
+    "fuse box replacement",
+    "signs you need a rewire",
+    "house rewire",
+    "rcd protection",
+    "old fuse box"
+  ],
+  "cardText": "When to upgrade your consumer unit, rewire warning signs and the certificates to get.",
+  "sections": [
+    {
+      "h2": "Why consumer units get upgraded",
+      "html": "<ul><li><strong>Old rewireable fuses</strong> (with fuse wire) or a wooden-backed board are signs of an old installation.</li><li><strong>RCD protection:</strong> modern consumer units include residual current devices that cut the power quickly if there is an earth fault, reducing the risk of a fatal electric shock. Older boards often have limited or no RCD protection.</li><li><strong>Fire safety:</strong> current wiring standards require consumer units in homes to have a non-combustible enclosure, typically metal.</li><li><strong>New circuits:</strong> an EV charger, electric shower or extension may need spare capacity or a new board.</li></ul>"
+    },
+    {
+      "h2": "Signs you may need a rewire",
+      "html": "<ul><li>Old cable types, such as rubber or fabric-insulated cable, or lead-sheathed cable.</li><li>Round-pin sockets, or sockets and switches mounted on skirting boards.</li><li>Frequent trips or blown fuses, flickering lights, or scorch marks and burning smells at sockets.</li><li>Not enough sockets, with extension leads everywhere.</li><li>An EICR that recommends significant remedial work.</li></ul><p>Only an electrician can tell you for sure. An <a href=\"/blog/eicr-electrical-safety-check/\">EICR</a> is the usual starting point.</p>"
+    },
+    {
+      "h2": "The rules",
+      "html": "<p>In England, replacing a consumer unit and installing new circuits are <strong>notifiable</strong> under Part P of the Building Regulations. Use an electrician registered with a <strong>competent person scheme</strong> so they can self-certify; otherwise the work must be inspected by Building Control or a third-party certifier.</p>"
+    },
+    {
+      "h2": "What you should receive",
+      "html": "<ul><li>An <strong>Electrical Installation Certificate</strong> for the new consumer unit or rewire.</li><li>A <strong>Building Regulations compliance certificate</strong> through the electrician’s scheme (or from Building Control).</li><li>Clear labelling of circuits on the consumer unit.</li></ul>"
+    },
+    {
+      "h2": "Planning a rewire",
+      "html": "<p>A full rewire usually means lifting floorboards and chasing cables into walls, so it is best done before decorating, ideally alongside other renovation work. Budget for <a href=\"/plasterers/\">plastering</a> and making good afterwards. <a href=\"/electricians/\">Compare local electricians</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is it a legal requirement to upgrade an old fuse box?",
+      "a": "Not for owner-occupiers in itself, but an old board may be coded as needing improvement or as potentially dangerous on an EICR. Landlords must act on C1, C2 and FI observations."
+    },
+    {
+      "q": "Does replacing a consumer unit need Building Regulations approval?",
+      "a": "Yes, it is notifiable work in England. A registered competent person can self-certify it, and you should receive a certificate."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Electrics – building regulations",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/electrics/building-regulations-general-information"
+    },
+    {
+      "title": "GOV.UK: Approved Document P – electrical safety in dwellings",
+      "url": "https://www.gov.uk/government/publications/electrical-safety-approved-document-p"
+    },
+    {
+      "title": "GOV.UK: Competent person schemes",
+      "url": "https://www.gov.uk/guidance/competent-person-scheme-current-schemes-and-how-schemes-are-authorised"
+    }
+  ]
+}
