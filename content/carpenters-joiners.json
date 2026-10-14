@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-14",
+  "slug": "carpenters-joiners",
+  "nav": "Carpenters & joiners",
+  "title": "Carpenters and Joiners Near You | Compare Free Quotes",
+  "description": "Find local carpenters and joiners for doors, staircases, flooring, fitted wardrobes, flooring and timber work. Compare free quotes before you hire.",
+  "keywords": [
+    "carpenter near me",
+    "joiner near me",
+    "fitted wardrobes",
+    "door fitting",
+    "staircase",
+    "flooring fitter"
+  ],
+  "cardText": "Doors, stairs, flooring, fitted furniture and timber frames",
+  "eyebrow": "Carpentry & joinery",
+  "h1": "Find a carpenter or joiner near you",
+  "intro": "From hanging a door to building fitted wardrobes, carpenters and joiners bring precision to every timber job. Find skilled local carpenters and compare quotes.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1595844730298-b960ff98fee0",
+    "alt": "Carpenter wearing a leather tool belt in a workshop",
+    "credit": "Callum Hill",
+    "creditUrl": "https://unsplash.com/@inkyhills"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local carpenters & joiners. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from carpenters & joiners",
+  "sections": [
+    {
+      "h2": "What a carpenter or joiner can help with",
+      "html": "<ul><li>Hanging internal and external doors</li><li>Fitted wardrobes, alcove units and shelving</li><li>Wooden flooring and skirting</li><li>Staircases and balustrades</li><li>Roof timbers, stud walls and first-fix carpentry on building projects</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>You want made-to-measure storage or furniture</li><li>You are renovating and need doors, skirting and architrave fitted</li><li>You are building an extension or converting a loft</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Fire doors</strong> (for example in loft conversions or flats) must be installed correctly to work; ask about experience with certified fire door sets.</li><li><strong>Look at a portfolio</strong> of finished work, especially bespoke pieces.</li><li><strong>Agree materials</strong>: solid timber, MDF or veneered board.</li><li><strong>Membership</strong> of a body such as the Institute of Carpenters is a good sign.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Bespoke versus off-the-shelf items</li><li>Materials and finishes</li><li>Size and complexity of the job</li><li>Painting or finishing included</li><li>Removal of old fittings</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between a carpenter and a joiner?",
+      "a": "In the UK, joiners traditionally make timber items such as windows, doors and stairs in a workshop, while carpenters fit and build on site. Many tradespeople do both."
+    },
+    {
+      "q": "Can a carpenter fit a fire door?",
+      "a": "Yes, if they are experienced with fire doors. The door, frame, hinges, seals and gaps all need to be correct for the door to perform in a fire."
+    },
+    {
+      "q": "Do carpenters do flooring?",
+      "a": "Many carpenters fit wooden and laminate flooring. Ask whether the price includes underlay, skirting and removing old flooring."
+    }
+  ],
+  "related": [
+    "builders",
+    "loft-conversions",
+    "painters-decorators",
+    "kitchen-fitters"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}

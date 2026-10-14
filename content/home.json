@@ -1,15 +1,186 @@
 {
+  "updated": "2026-10-14",
   "slug": "",
-  "title": "BuildersUK: Find trusted local builders and tradespeople acr",
-  "description": "Find trusted local builders and tradespeople across the UK: extensions, lofts, kitchens, roofing, electrics and more. Free to use, part of the Shmor.ai network.",
-  "eyebrow": "Part of the Shmor.ai network",
-  "h1": "BuildersUK",
-  "intro": "Find trusted local builders and tradespeople across the UK: extensions, lofts, kitchens, roofing, electrics and more.",
-  "related": [],
+  "title": "BuildersUK: Find Trusted Local Builders & Tradespeople",
+  "description": "Find trusted local builders and tradespeople across the UK. Compare free quotes for extensions, lofts, kitchens, bathrooms, roofing, electrics and gardens.",
+  "eyebrow": "Builders & tradespeople across the UK",
+  "h1": "Find trusted local builders and tradespeople",
+  "h1Html": "Find trusted local <span class=\"hl\">builders &amp; trades</span>",
+  "intro": "Extensions, lofts, kitchens, roofs, rewires and gardens. Compare free, no-obligation quotes from local tradespeople and know exactly what to check before you hire.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1701850009190-2859ba2aeea6",
+    "alt": "Builder laying mortar on a new brick wall",
+    "credit": "Solømen",
+    "creditUrl": "https://unsplash.com/@solomen"
+  },
+  "searchPlaceholder": "What job do you need doing? e.g. roofer, extension…",
+  "chips": [
+    {
+      "label": "Builders",
+      "slug": "builders"
+    },
+    {
+      "label": "Extensions",
+      "slug": "house-extensions"
+    },
+    {
+      "label": "Roofers",
+      "slug": "roofers"
+    },
+    {
+      "label": "Electricians",
+      "slug": "electricians"
+    },
+    {
+      "label": "Kitchens",
+      "slug": "kitchen-fitters"
+    },
+    {
+      "label": "Landscapers",
+      "slug": "landscapers"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "strip",
+      "position": "top",
+      "items": [
+        {
+          "icon": "check",
+          "title": "Free to use",
+          "text": "for homeowners"
+        },
+        {
+          "icon": "users",
+          "title": "Compare quotes",
+          "text": "from local trades"
+        },
+        {
+          "icon": "shield",
+          "title": "Hiring checks",
+          "text": "for every trade"
+        },
+        {
+          "icon": "pin",
+          "title": "UK-wide",
+          "text": "England, Scotland, Wales & NI"
+        }
+      ]
+    },
+    {
+      "type": "tiles",
+      "position": "top",
+      "title": "Popular trades",
+      "intro": "Pick a trade to see what they do, what to check and what affects the price.",
+      "more": {
+        "title": "See all trades",
+        "slug": "trades"
+      },
+      "items": [
+        {
+          "slug": "builders"
+        },
+        {
+          "slug": "house-extensions"
+        },
+        {
+          "slug": "kitchen-fitters"
+        },
+        {
+          "slug": "roofers"
+        },
+        {
+          "slug": "electricians"
+        },
+        {
+          "slug": "bathroom-fitters"
+        },
+        {
+          "slug": "landscapers"
+        },
+        {
+          "slug": "loft-conversions"
+        },
+        {
+          "slug": "plasterers"
+        }
+      ]
+    },
+    {
+      "type": "steps",
+      "title": "How it works",
+      "items": [
+        {
+          "icon": "search",
+          "title": "Tell us the job",
+          "text": "Choose your trade and describe the work once."
+        },
+        {
+          "icon": "message",
+          "title": "Get quotes",
+          "text": "Hear back from local tradespeople through our partner platforms."
+        },
+        {
+          "icon": "check",
+          "title": "Check and hire",
+          "text": "Compare reviews, insurance and price, then hire with confidence."
+        }
+      ]
+    }
+  ],
+  "highlightsTitle": "Why homeowners start here",
+  "highlights": [
+    {
+      "title": "Free, no obligation",
+      "text": "Requesting quotes costs nothing and you only hire if it is the right fit."
+    },
+    {
+      "title": "Every trade in one place",
+      "text": "From builders and roofers to electricians, plasterers and landscapers."
+    },
+    {
+      "title": "Know what to check",
+      "text": "Every trade page lists the registrations, permissions and questions that matter."
+    },
+    {
+      "title": "Plain-English guidance",
+      "text": "Planning, Building Regulations, party walls and payments explained simply."
+    }
+  ],
   "sections": [
     {
-      "h2": "Why use BuildersUK?",
-      "html": "<p>Find trusted local builders and tradespeople across the UK: extensions, lofts, kitchens, roofing, electrics and more.</p>"
+      "h2": "Find a tradesperson for any job",
+      "html": "<ul><li><strong>Building and extending:</strong> <a href=\"/builders/\">builders</a>, <a href=\"/house-extensions/\">house extensions</a> and <a href=\"/loft-conversions/\">loft conversions</a>.</li><li><strong>Kitchens and bathrooms:</strong> <a href=\"/kitchen-fitters/\">kitchen fitters</a> and <a href=\"/bathroom-fitters/\">bathroom fitters</a>.</li><li><strong>Outside the house:</strong> <a href=\"/roofers/\">roofers</a> and <a href=\"/landscapers/\">landscapers</a> for patios, driveways and fencing.</li><li><strong>Inside the house:</strong> <a href=\"/electricians/\">electricians</a>, <a href=\"/plasterers/\">plasterers</a>, <a href=\"/painters-decorators/\">painters and decorators</a> and <a href=\"/carpenters-joiners/\">carpenters and joiners</a>.</li></ul>"
+    },
+    {
+      "h2": "Hire with confidence",
+      "html": "<ul><li><strong>Get three written quotes</strong> for the same job.</li><li><strong>Check registrations</strong> where the law requires them: Gas Safe for gas work, competent person schemes for electrics.</li><li><strong>Look for trade body membership</strong> such as the FMB or TrustMark, and check it on their website.</li><li><strong>Agree a written contract</strong> and pay in stages, never a large sum upfront.</li></ul><p>Read our full <a href=\"/choosing-a-builder/\">guide to choosing a builder</a>.</p>"
     }
-  ]
+  ],
+  "faqs": [
+    {
+      "q": "Is BuildersUK free to use?",
+      "a": "Yes. BuildersUK is free for homeowners, and requesting quotes through our partners comes with no obligation to hire."
+    },
+    {
+      "q": "How does BuildersUK make money?",
+      "a": "Some links are referral links. When we introduce you to a partner platform, the partner may pay us a fee. This never changes what you pay."
+    },
+    {
+      "q": "Does BuildersUK vet tradespeople?",
+      "a": "No. Tradespeople are independent businesses listed with our partner platforms. Always check registrations, insurance, reviews and references before you hire. Our hiring guide shows you how."
+    },
+    {
+      "q": "Which areas do you cover?",
+      "a": "The whole of the UK. Some rules, such as planning and Building Regulations, differ between England, Wales, Scotland and Northern Ireland, and our guides point this out."
+    }
+  ],
+  "related": [
+    "choosing-a-builder",
+    "plasterers",
+    "painters-decorators",
+    "carpenters-joiners"
+  ],
+  "relatedTitle": "More trades and guides",
+  "ctaTitle": "What job do you need doing?"
 }

@@ -1,0 +1,83 @@
+{
+  "updated": "2026-10-14",
+  "slug": "landscapers",
+  "nav": "Landscapers",
+  "navOrder": 6,
+  "title": "Landscapers Near You | Patios, Driveways & Gardens",
+  "description": "Find local landscapers for garden design, patios, paving, driveways, fencing, decking and turfing. Compare free quotes and learn what to check before you hire.",
+  "keywords": [
+    "landscaper near me",
+    "landscaping",
+    "patio installation",
+    "driveway",
+    "fencing",
+    "decking",
+    "block paving"
+  ],
+  "cardText": "Patios, driveways, fencing, decking, turf and planting",
+  "eyebrow": "Gardens & landscaping",
+  "h1": "Find a landscaper for your garden",
+  "intro": "Whether it is a new patio, a driveway or a full garden makeover, the right landscaper turns outdoor space into somewhere you want to be. Compare local landscapers and paving specialists.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1700689807667-82630348b301",
+    "alt": "Brick garden path lined with flowers and trees",
+    "credit": "Annie Tray-Gavin",
+    "creditUrl": "https://unsplash.com/@annietraygavin"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local landscapers. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from landscapers",
+  "sections": [
+    {
+      "h2": "What a landscaper can help with",
+      "html": "<ul><li>Garden design and planting</li><li>Patios and paving</li><li>Driveways (block paving, resin, gravel, tarmac)</li><li>Fencing, gates and garden walls</li><li>Decking, turfing and drainage</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>You want to make better use of your garden</li><li>You need off-street parking or a new driveway</li><li>Fences, walls or paths are damaged</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Driveway drainage:</strong> in England, a new or replacement front driveway over 5 square metres generally needs planning permission unless it uses permeable surfacing or drains to a lawn or border.</li><li><strong>Dropped kerbs</strong> need permission from your local council.</li><li><strong>Membership</strong> of a body such as the Association of Professional Landscapers (APL) is a good sign.</li><li><strong>Ask about groundwork</strong>: sub-base depth and drainage decide how long a patio or driveway lasts.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Size of the area and amount of digging out</li><li>Materials (porcelain, natural stone, block paving, resin)</li><li>Drainage and sub-base</li><li>Access for machinery and waste removal</li><li>Planting, lighting and finishing touches</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need planning permission for a driveway?",
+      "a": "In England, if you are paving over more than 5 square metres of front garden with an impermeable surface that drains to the road, you generally need planning permission. Permeable surfaces usually do not. Check with your council."
+    },
+    {
+      "q": "Do I need permission for a dropped kerb?",
+      "a": "Yes. Dropped kerbs (vehicle crossovers) need approval from your local highways authority, which usually carries out or approves the work."
+    },
+    {
+      "q": "What questions should I ask a landscaper?",
+      "a": "Ask about the sub-base and drainage, materials, how long the job will take, waste removal and what guarantee they offer."
+    }
+  ],
+  "related": [
+    "builders",
+    "carpenters-joiners",
+    "painters-decorators",
+    "roofers"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}

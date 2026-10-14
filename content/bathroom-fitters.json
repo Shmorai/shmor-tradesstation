@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-14",
+  "slug": "bathroom-fitters",
+  "nav": "Bathroom fitters",
+  "title": "Bathroom Fitters Near You | Compare Free Quotes",
+  "description": "Find local bathroom fitters for full bathroom refits, shower rooms, wet rooms and en suites. Compare free quotes and know what to check before you hire.",
+  "keywords": [
+    "bathroom fitter",
+    "bathroom fitters near me",
+    "bathroom renovation",
+    "wet room installation",
+    "shower installation"
+  ],
+  "cardText": "Full refits, shower rooms, wet rooms and en suites",
+  "eyebrow": "Bathrooms",
+  "h1": "Find a bathroom fitter near you",
+  "intro": "A bathroom refit brings together plumbing, tiling, electrics and joinery in a small space. Find fitters who can manage it all and leave you with a room that is watertight and built to last.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a",
+    "alt": "Modern bathroom with a walk-in shower and vanity unit",
+    "credit": "Lotus Design N Print",
+    "creditUrl": "https://unsplash.com/@lotusdnp"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local bathroom fitters. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from bathroom fitters",
+  "sections": [
+    {
+      "h2": "What a bathroom fitter can help with",
+      "html": "<ul><li>Full bathroom refits</li><li>Shower rooms, wet rooms and walk-in showers</li><li>En suites (often as part of a loft conversion or extension)</li><li>Tiling, waterproofing and flooring</li><li>Accessible and adapted bathrooms</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>Your bathroom is dated, leaking or hard to keep clean</li><li>You are adding an en suite or a downstairs shower room</li><li>You need an accessible bathroom with level-access showering</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Electrics in bathrooms</strong> are a special location under the wiring regulations; lighting, extractor fans and electric showers should be installed by a qualified electrician.</li><li><strong>Waterproofing</strong>: ask how they will tank or waterproof showers and wet rooms.</li><li><strong>Who supplies what</strong>: suite, tiles, brassware and waste removal.</li><li><strong>Photos and references</strong> of recent bathroom installs.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Moving the toilet, bath or shower (and the waste pipes)</li><li>Wet room or tanking work</li><li>Tile choice and the area to be tiled</li><li>Electrical work such as an electric shower or underfloor heating</li><li>The suite, brassware and fittings you choose</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a bathroom fitter do the plumbing and tiling?",
+      "a": "Many bathroom fitters handle plumbing, tiling and basic joinery themselves and bring in an electrician for the electrical work. Ask exactly what is included in the quote."
+    },
+    {
+      "q": "Can I use my bathroom during the work?",
+      "a": "Usually not for at least part of the job. Ask your fitter for a timetable so you can plan around it."
+    },
+    {
+      "q": "Do I need permission for a new bathroom?",
+      "a": "Replacing a bathroom like for like does not normally need approval. Adding a new bathroom may involve Building Regulations for drainage, ventilation and electrics, so check with your fitter or Building Control."
+    }
+  ],
+  "related": [
+    "kitchen-fitters",
+    "electricians",
+    "plasterers",
+    "loft-conversions"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}

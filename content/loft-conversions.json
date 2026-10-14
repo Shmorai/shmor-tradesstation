@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-14",
+  "slug": "loft-conversions",
+  "nav": "Loft conversions",
+  "title": "Loft Conversion Specialists | Compare Local Quotes",
+  "description": "Turn your loft into a bedroom, office or en suite. Compare local loft conversion specialists and learn what permissions and regulations apply first.",
+  "keywords": [
+    "loft conversion",
+    "loft conversion companies",
+    "dormer loft conversion",
+    "velux loft conversion",
+    "hip to gable"
+  ],
+  "cardText": "Dormer, Velux, hip-to-gable and mansard conversions",
+  "eyebrow": "Loft conversions",
+  "h1": "Find loft conversion specialists near you",
+  "intro": "A loft conversion can add a bedroom, office or en suite without losing any garden. Find specialists who handle the structure, stairs, fire safety and sign-off.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1787504543471-c95423873995",
+    "alt": "Dark tiled roof with several dormer windows against a blue sky",
+    "credit": "Dániel Ács-Kurucz",
+    "creditUrl": "https://unsplash.com/@acskuruczdaniel"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local loft conversion specialists. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from loft conversion specialists",
+  "sections": [
+    {
+      "h2": "What loft conversion specialists can help with",
+      "html": "<ul><li>Roof-light (Velux-style) conversions</li><li>Dormer conversions</li><li>Hip-to-gable conversions</li><li>Mansard conversions</li><li>Adding an en suite, stairs and storage</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>Your loft has enough head height (measure from the top of the floor joist to the underside of the ridge)</li><li>You want more space without extending outwards</li><li>You are happy for work to run over several weeks</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Building Regulations approval is required</strong> for a loft conversion into a habitable room, covering structure, stairs, fire safety and insulation.</li><li><strong>Planning:</strong> many loft conversions in England fall under permitted development, within volume and design limits. Conservation areas, listed buildings and flats are different, so check with your council.</li><li><strong>Party wall notice</strong> may be needed in semi-detached and terraced homes.</li><li><strong>Ask for a completion certificate</strong> from Building Control when the work is signed off; you will need it when you sell.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Type of conversion (roof-light is usually simplest; mansard is the most involved)</li><li>Steel beams and structural work</li><li>Stairs, en suite and windows</li><li>Insulation and fire safety upgrades</li><li>Design and Building Control fees</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a loft conversion need planning permission?",
+      "a": "Many do not, because they fall under permitted development rights in England, but there are limits on volume and design. Mansard and front-facing dormers often need permission. Always check with your local council."
+    },
+    {
+      "q": "Does a loft conversion need Building Regulations approval?",
+      "a": "Yes, if the loft becomes a habitable room. Regulations cover the floor structure, stairs, fire escape routes, insulation and ventilation."
+    },
+    {
+      "q": "Can every loft be converted?",
+      "a": "Not every loft is suitable. Head height, roof structure and the space for a staircase are the main factors. A loft conversion specialist or architect can assess yours."
+    }
+  ],
+  "related": [
+    "house-extensions",
+    "builders",
+    "carpenters-joiners",
+    "electricians"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}

@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-14",
+  "slug": "builders",
+  "nav": "Builders",
+  "navOrder": 2,
+  "title": "Find a Local Builder Near You | Compare Free Quotes",
+  "description": "Find trusted local builders across the UK for extensions, renovations, structural work and repairs. Compare free quotes and check builders before you hire.",
+  "keywords": [
+    "builder near me",
+    "local builders",
+    "find a builder",
+    "general builder",
+    "building contractor uk"
+  ],
+  "cardText": "Renovations, structural work, repairs and full projects",
+  "eyebrow": "General building",
+  "h1": "Find a trusted local builder",
+  "intro": "From knocking through a wall to managing a whole renovation, a good general builder keeps your project on time, on budget and up to standard. Tell us about your job and compare local builders.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1587582423116-ec07293f0395",
+    "alt": "Builder in a hard hat working on a timber house frame",
+    "credit": "Josh Olalde",
+    "creditUrl": "https://unsplash.com/@josholalde"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local builders. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from builders",
+  "sections": [
+    {
+      "h2": "What a builder can help with",
+      "html": "<ul><li>Renovations and refurbishments</li><li>Knocking through and removing internal walls (with the right structural support)</li><li>Brickwork, blockwork and repointing</li><li>Extensions, garage conversions and outbuildings</li><li>Foundations, groundworks and drainage</li><li>Managing other trades (electricians, plumbers, plasterers) on bigger projects</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>You have a project that involves more than one trade</li><li>The work is structural or needs Building Regulations approval</li><li>You want one person responsible for the whole job, start to finish</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Membership of a trade body</strong> such as the Federation of Master Builders (FMB), or registration with TrustMark, the government-endorsed quality scheme. Check membership on the scheme's own website.</li><li><strong>Public liability insurance</strong>, and ask to see the certificate.</li><li><strong>Recent, similar jobs</strong> you can see or a past customer you can speak to.</li><li><strong>A written contract</strong> with the scope, price, payment stages and timescale.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Size and complexity of the job</li><li>Whether structural work, steels or an engineer are needed</li><li>Materials and finishes you choose</li><li>Access to the property and waste removal</li><li>Where in the UK you live and the time of year</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many quotes should I get from builders?",
+      "a": "Aim for at least three written quotes based on the same drawings or scope of work, so you can compare them like for like."
+    },
+    {
+      "q": "Should I pay a builder upfront?",
+      "a": "Be wary of large upfront payments. A common approach is to agree stage payments that are paid as each stage of work is completed and checked, with a final amount held back until the job is finished."
+    },
+    {
+      "q": "Does my builder need to be registered?",
+      "a": "There is no single legal register for general builders in the UK, which is why it pays to check trade body membership, insurance, reviews and past work. Some work, such as gas and many electrical jobs, must be done or certified by registered people."
+    }
+  ],
+  "related": [
+    "house-extensions",
+    "loft-conversions",
+    "choosing-a-builder",
+    "plasterers"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}

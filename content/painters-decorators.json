@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-14",
+  "slug": "painters-decorators",
+  "nav": "Painters & decorators",
+  "title": "Painters and Decorators Near You | Free Quotes",
+  "description": "Find local painters and decorators for interior and exterior painting, wallpapering and woodwork. Compare free quotes and know what to agree before work starts.",
+  "keywords": [
+    "painter and decorator",
+    "painters near me",
+    "decorators near me",
+    "exterior painting",
+    "wallpaper hanging"
+  ],
+  "cardText": "Interior and exterior painting, wallpapering and woodwork",
+  "eyebrow": "Decorating",
+  "h1": "Find a local painter and decorator",
+  "intro": "A fresh coat of paint transforms a room. Find painters and decorators for single rooms, whole houses, exteriors and wallpapering, and compare quotes in one go.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1562259949-e8e7689d7828",
+    "alt": "Paint roller applying blue paint to a white wall",
+    "credit": "Theme Photos",
+    "creditUrl": "https://unsplash.com/@themephotos"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local painters & decorators. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from painters & decorators",
+  "sections": [
+    {
+      "h2": "What a painter and decorator can help with",
+      "html": "<ul><li>Interior walls, ceilings and woodwork</li><li>Exterior masonry, windows and doors</li><li>Wallpaper hanging and removal</li><li>Feature walls and specialist finishes</li><li>Preparation: filling, sanding and priming</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>You are moving in or getting ready to sell</li><li>You have had plastering or building work done</li><li>Exterior paintwork is peeling or weathered</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Agree the preparation</strong>: much of a good finish comes from filling, sanding and priming.</li><li><strong>Who buys the paint</strong>, which brand, and how many coats are included.</li><li><strong>Membership</strong> of a trade body such as the Painting and Decorating Association (PDA) is a good sign.</li><li><strong>Protection</strong> of floors and furniture, and clearing up each day.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Number and size of rooms</li><li>Condition of surfaces and amount of preparation</li><li>Woodwork, doors and ceilings included</li><li>Exterior access and scaffolding</li><li>Paint and wallpaper quality</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do decorators supply the paint?",
+      "a": "Some include it in the price, others ask you to buy it. Agree the brand, colour and finish in writing before work starts."
+    },
+    {
+      "q": "How long should I wait to paint new plaster?",
+      "a": "New plaster needs to dry fully and usually needs a mist coat (thinned paint) first. Ask your plasterer and decorator for advice on your walls."
+    },
+    {
+      "q": "Can a decorator paint the outside of my house?",
+      "a": "Yes, many do. For work at height they will need ladders, towers or scaffolding, which can affect the price."
+    }
+  ],
+  "related": [
+    "plasterers",
+    "carpenters-joiners",
+    "builders",
+    "landscapers"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}

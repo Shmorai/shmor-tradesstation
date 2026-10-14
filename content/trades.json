@@ -1,0 +1,85 @@
+{
+  "updated": "2026-10-14",
+  "slug": "trades",
+  "nav": "All trades",
+  "navOrder": 1,
+  "title": "All Trades: Builders, Roofers, Electricians & More",
+  "description": "Browse every trade on BuildersUK: builders, extensions, loft conversions, kitchens, bathrooms, roofers, electricians, plasterers, decorators and landscapers.",
+  "keywords": [
+    "find a tradesman",
+    "local tradesmen",
+    "tradespeople near me",
+    "trades directory uk"
+  ],
+  "cardText": "Every trade in one place, from builders to landscapers",
+  "eyebrow": "Trades directory",
+  "h1": "Find the right tradesperson for every job",
+  "intro": "Pick a trade to see what they do, the checks to make before you hire and what affects the price, then compare quotes from local tradespeople.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1426927308491-6380b6a9936f",
+    "alt": "Rack of hand tools on a workshop wall",
+    "credit": "Barn Images",
+    "creditUrl": "https://unsplash.com/@barnimages"
+  },
+  "searchPlaceholder": "Search trades, e.g. “plasterer”",
+  "blocks": [
+    {
+      "type": "tiles",
+      "position": "top",
+      "title": "Browse trades",
+      "feature": false,
+      "items": [
+        {
+          "slug": "builders"
+        },
+        {
+          "slug": "house-extensions"
+        },
+        {
+          "slug": "loft-conversions"
+        },
+        {
+          "slug": "kitchen-fitters"
+        },
+        {
+          "slug": "bathroom-fitters"
+        },
+        {
+          "slug": "roofers"
+        },
+        {
+          "slug": "electricians"
+        },
+        {
+          "slug": "plasterers"
+        },
+        {
+          "slug": "painters-decorators"
+        },
+        {
+          "slug": "landscapers"
+        },
+        {
+          "slug": "carpenters-joiners"
+        },
+        {
+          "slug": "choosing-a-builder",
+          "title": "Hiring guide",
+          "badge": "Guide"
+        }
+      ]
+    }
+  ],
+  "sections": [
+    {
+      "h2": "Not sure which trade you need?",
+      "html": "<ul><li><strong>More than one trade involved?</strong> Start with a <a href=\"/builders/\">general builder</a> who can manage the project.</li><li><strong>Adding space?</strong> See <a href=\"/house-extensions/\">extensions</a> and <a href=\"/loft-conversions/\">loft conversions</a>.</li><li><strong>New kitchen or bathroom?</strong> Talk to <a href=\"/kitchen-fitters/\">kitchen fitters</a> or <a href=\"/bathroom-fitters/\">bathroom fitters</a>, who will bring in an electrician or gas engineer where needed.</li><li><strong>Leak or storm damage?</strong> Call a <a href=\"/roofers/\">roofer</a>.</li><li><strong>Finishing touches?</strong> <a href=\"/plasterers/\">Plasterers</a>, <a href=\"/painters-decorators/\">decorators</a> and <a href=\"/carpenters-joiners/\">carpenters</a>.</li></ul>"
+    }
+  ],
+  "related": [
+    "choosing-a-builder",
+    "how-it-works"
+  ],
+  "relatedTitle": "Before you hire",
+  "ctaTitle": "What job do you need doing?"
+}

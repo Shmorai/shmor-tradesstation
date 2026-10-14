@@ -1,0 +1,80 @@
+{
+  "updated": "2026-10-14",
+  "slug": "kitchen-fitters",
+  "nav": "Kitchen fitters",
+  "title": "Kitchen Fitters Near You | Compare Free Quotes",
+  "description": "Find local kitchen fitters to install units, worktops and appliances. Compare free quotes and see which jobs need a registered electrician or gas engineer.",
+  "keywords": [
+    "kitchen fitter",
+    "kitchen fitters near me",
+    "kitchen installation",
+    "fit a kitchen",
+    "kitchen fitting"
+  ],
+  "cardText": "Units, worktops, appliances and full kitchen refits",
+  "eyebrow": "Kitchens",
+  "h1": "Find a kitchen fitter you can trust",
+  "intro": "Whether you have bought a kitchen and need it installed, or want a full refit managed for you, a good kitchen fitter makes the difference between a kitchen that looks right and one that lasts.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1602028915047-37269d1a73f7",
+    "alt": "Modern kitchen with grey cabinets, a white island and pendant lights",
+    "credit": "Lotus Design N Print",
+    "creditUrl": "https://unsplash.com/@lotusdnp"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local kitchen fitters. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from kitchen fitters",
+  "sections": [
+    {
+      "h2": "What a kitchen fitter can help with",
+      "html": "<ul><li>Removing and disposing of the old kitchen</li><li>Fitting units, doors, handles and worktops</li><li>Installing integrated appliances, sinks and taps</li><li>Coordinating plastering, tiling and flooring</li><li>Arranging electrical and gas work by registered people</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>You have bought a kitchen and need it installed</li><li>You want a full kitchen refit managed for you</li><li>You are extending and need the kitchen fitted as part of the project</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Gas work</strong> (such as connecting a gas hob) must be carried out by a Gas Safe registered engineer. Check the register online.</li><li><strong>New electrical circuits</strong> and many kitchen electrical jobs in England and Wales must meet Part P of the Building Regulations; use an electrician registered with a competent person scheme.</li><li><strong>Ask what is included</strong>: removal, plumbing, electrics, tiling, worktop cutting and waste.</li><li><strong>Look at photos</strong> of recent kitchens the fitter has installed.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Number of units and layout changes</li><li>Worktop material (laminate, wood, quartz, stone)</li><li>Moving plumbing, gas or electrics</li><li>Whether plastering, tiling and flooring are included</li><li>Removal of the old kitchen</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can a kitchen fitter connect my gas hob?",
+      "a": "Only if they are Gas Safe registered. It is illegal for anyone else to carry out gas work. You can check a Gas Safe ID card and the register online."
+    },
+    {
+      "q": "Does my kitchen fitter need to be an electrician?",
+      "a": "Not necessarily, but electrical work such as new circuits must be done or certified by a qualified electrician, ideally one registered with a competent person scheme such as NICEIC or NAPIT."
+    },
+    {
+      "q": "Should I buy the kitchen myself?",
+      "a": "You can. Some fitters supply kitchens, others install ones you buy. Make sure everyone agrees who is responsible for measuring, ordering and any missing parts."
+    }
+  ],
+  "related": [
+    "bathroom-fitters",
+    "electricians",
+    "plasterers",
+    "house-extensions"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}

@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-14",
+  "slug": "plasterers",
+  "nav": "Plasterers",
+  "title": "Find a Local Plasterer | Skimming, Rendering & More",
+  "description": "Find local plasterers for skimming, re-plastering, boarding ceilings and external rendering. Compare free quotes and learn what affects the cost of plastering.",
+  "keywords": [
+    "plasterer near me",
+    "plastering",
+    "skimming",
+    "rendering",
+    "replastering",
+    "artex removal"
+  ],
+  "cardText": "Skimming, re-plastering, ceilings and rendering",
+  "eyebrow": "Plastering",
+  "h1": "Find a skilled local plasterer",
+  "intro": "Smooth walls and ceilings make every room look better. Find plasterers for skimming, patch repairs, re-boarding ceilings and external rendering.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1768839725085-829e6ac7ac26",
+    "alt": "Plasterer applying plaster to a wall with two trowels",
+    "credit": "Sasun Bughdaryan",
+    "creditUrl": "https://unsplash.com/@sasun1990"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local plasterers. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from plasterers",
+  "sections": [
+    {
+      "h2": "What a plasterer can help with",
+      "html": "<ul><li>Skimming over existing walls and ceilings</li><li>Hacking off and re-plastering</li><li>Plasterboarding and dry lining</li><li>Patch repairs after electrical or plumbing work</li><li>External rendering</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>Walls are cracked, uneven or blown</li><li>You have had rewiring, plumbing or structural work done</li><li>You want to cover textured ceilings</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Textured coatings</strong> (often called Artex) applied before 2000 can contain asbestos. Have them tested before sanding or removing.</li><li><strong>Ask about preparation</strong>, protection of floors and furniture, and cleaning up.</li><li><strong>Look at finished work</strong> in good light: a good skim is flat and smooth.</li><li><strong>Drying times</strong>: ask how long before you can paint.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Area of walls and ceilings</li><li>Whether old plaster needs hacking off</li><li>Ceiling work and access (high ceilings, stairwells)</li><li>Internal plastering or external render</li><li>Making good around sockets, coving and fittings</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How long does new plaster take to dry?",
+      "a": "It depends on thickness, the type of plaster, temperature and ventilation. Your plasterer can advise, but a fresh skim typically needs days, not hours, before decorating."
+    },
+    {
+      "q": "Can I plaster over Artex?",
+      "a": "Often yes, but older textured coatings may contain asbestos. Get it tested first and avoid sanding or scraping it."
+    },
+    {
+      "q": "Do I need a plasterer after rewiring?",
+      "a": "Usually some making good is needed after chasing cables into walls. Ask your electrician whether this is included or whether you need a plasterer."
+    }
+  ],
+  "related": [
+    "painters-decorators",
+    "electricians",
+    "builders",
+    "carpenters-joiners"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}

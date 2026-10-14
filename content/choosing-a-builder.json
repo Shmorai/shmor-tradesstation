@@ -1,0 +1,78 @@
+{
+  "updated": "2026-10-14",
+  "slug": "choosing-a-builder",
+  "nav": "Hiring guide",
+  "navOrder": 7,
+  "title": "How to Choose a Builder: 10 Checks Before You Hire",
+  "description": "How to find and choose a good builder or tradesperson in the UK: checks, quotes, contracts, stage payments and your consumer rights, explained in plain English.",
+  "keywords": [
+    "how to choose a builder",
+    "hiring a builder",
+    "how to find a good builder",
+    "checking a tradesman",
+    "rogue traders"
+  ],
+  "cardText": "Quotes, contracts, payments and your rights, in plain English",
+  "eyebrow": "Hiring guide",
+  "h1": "How to choose a builder you can trust",
+  "intro": "Most building work goes well when you do a little homework first. Here are the checks that matter, from the first quote to the final payment.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1503387762-592deb58ef4e",
+    "alt": "Architect drawing a building plan with a pencil and ruler",
+    "credit": "Daniel McCullough",
+    "creditUrl": "https://unsplash.com/@d_mccullough"
+  },
+  "search": false,
+  "sections": [
+    {
+      "h2": "Be clear about the job first",
+      "html": "<p>Write down what you want done, and for bigger projects get drawings and a specification. Builders can only give comparable quotes if they are all pricing the same thing.</p>"
+    },
+    {
+      "h2": "Get at least three written quotes",
+      "html": "<p>Ask for a written, itemised <strong>quote</strong> (a fixed price) rather than an <strong>estimate</strong> (a rough guide that can change). Check what is included: materials, waste removal, VAT, making good and clearing up. A much lower price than the others is worth questioning.</p>"
+    },
+    {
+      "h2": "Check the tradesperson",
+      "html": "<ul><li><strong>Trade body or scheme membership:</strong> for example the Federation of Master Builders (FMB) or TrustMark. Check membership on the organisation's own website, not just a logo on a van.</li><li><strong>Registration where the law requires it:</strong> gas work must be done by a <a href=\"https://www.gassaferegister.co.uk/\" rel=\"noopener\" target=\"_blank\">Gas Safe registered</a> engineer; electricians should be registered with a competent person scheme.</li><li><strong>Insurance:</strong> ask to see public liability insurance.</li><li><strong>Reviews and references:</strong> read independent reviews and, for big jobs, speak to past customers or visit a finished project.</li><li><strong>A real address and landline or company details</strong>, not just a mobile number.</li></ul>"
+    },
+    {
+      "h2": "Agree a written contract",
+      "html": "<p>For anything beyond a small job, put the agreement in writing. It should cover:</p><ul><li>The scope of work and specification</li><li>The price, and what happens if changes are needed</li><li>Payment stages</li><li>Start and finish dates</li><li>Who obtains planning permission and Building Regulations approval</li><li>Waste removal, working hours and site tidiness</li><li>Guarantees and how problems will be put right</li></ul>"
+    },
+    {
+      "h2": "Pay in stages, not upfront",
+      "html": "<p>Avoid paying a large sum upfront. Agree stage payments linked to completed work, and keep back a final amount until the job is finished and signed off. Paying larger amounts by credit card can give extra protection under Section 75 of the Consumer Credit Act, where it applies.</p>"
+    },
+    {
+      "h2": "Know your rights",
+      "html": "<ul><li>Under the <strong>Consumer Rights Act 2015</strong>, a trader must carry out a service with reasonable care and skill, within a reasonable time if no time is agreed, and for a reasonable price if no price is agreed.</li><li>If you agree a contract in your home or away from the trader's premises, you usually have a <strong>14-day right to cancel</strong> under the Consumer Contracts Regulations.</li><li>Beware of <strong>doorstep traders</strong> who pressure you to agree to work on the spot. Take your time and get other quotes.</li></ul><p>For free advice on a dispute, contact <a href=\"https://www.citizensadvice.org.uk/consumer/\" rel=\"noopener\" target=\"_blank\">Citizens Advice</a>.</p>"
+    },
+    {
+      "h2": "Permissions and sign-off",
+      "html": "<p>Larger jobs may need <strong>planning permission</strong>, <strong>Building Regulations approval</strong> or a <strong>party wall</strong> notice. Agree who is responsible for each, and keep every certificate (Building Control completion certificate, electrical and gas certificates, guarantees). You will need them when you sell your home. Rules differ between England, Wales, Scotland and Northern Ireland, so check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between a quote and an estimate?",
+      "a": "A quote is a fixed price for an agreed job. An estimate is an educated guess that can change. For building work, ask for a written quote."
+    },
+    {
+      "q": "How much deposit should I pay a builder?",
+      "a": "There is no fixed rule, but avoid paying large sums upfront. A small deposit for materials ordered specially for your job can be reasonable; after that, pay in stages as work is completed."
+    },
+    {
+      "q": "What should I do if something goes wrong?",
+      "a": "Raise it with the trader in writing first and give them a chance to put it right. If they are a member of a trade body or TrustMark, use its complaints process. Citizens Advice can help you understand your options."
+    }
+  ],
+  "related": [
+    "builders",
+    "house-extensions",
+    "how-it-works",
+    "trades"
+  ],
+  "relatedTitle": "Keep exploring",
+  "ctaTitle": "Ready to find a tradesperson?"
+}

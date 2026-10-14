@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-14",
+  "slug": "roofers",
+  "nav": "Roofers",
+  "navOrder": 4,
+  "title": "Find a Local Roofer | Roof Repairs & Replacements",
+  "description": "Find local roofers for leaks, slipped tiles, flat roofs, chimneys, guttering and full roof replacements. Compare free quotes and check roofers before you hire.",
+  "keywords": [
+    "roofer near me",
+    "roof repair",
+    "roofers",
+    "flat roof",
+    "roof replacement",
+    "chimney repair"
+  ],
+  "cardText": "Repairs, re-roofs, flat roofs, chimneys and guttering",
+  "eyebrow": "Roofing",
+  "h1": "Find a reliable local roofer",
+  "intro": "Roof problems get worse the longer they wait. Find roofers for leaks, storm damage, flat roofs and full replacements, and know the checks that separate the pros from the cold-callers.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1643225523483-e2c434191bba",
+    "alt": "Roofer carrying a bundle of shingles across a house roof",
+    "credit": "Zohair Mirza",
+    "creditUrl": "https://unsplash.com/@zamclicks"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local roofers. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from roofers",
+  "sections": [
+    {
+      "h2": "What a roofer can help with",
+      "html": "<ul><li>Leaks and slipped or broken tiles and slates</li><li>Full re-roofs and roof replacements</li><li>Flat roofs (felt, EPDM rubber, GRP fibreglass)</li><li>Chimney repairs, flashing and leadwork</li><li>Fascias, soffits and guttering</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>You have a leak, damp patches on the ceiling or missing tiles</li><li>Your roof covering is reaching the end of its life</li><li>You are extending and need a new roof</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Be cautious about cold-callers</strong> who knock on the door claiming your roof needs urgent work. Get independent quotes.</li><li><strong>Membership</strong> of a trade body such as the National Federation of Roofing Contractors (NFRC), or TrustMark registration.</li><li><strong>Scaffolding and safety</strong>: ask how they will work safely at height.</li><li><strong>Guarantees</strong>: ask what written guarantee comes with the work and whether it is insurance-backed.</li><li><strong>Building Regulations</strong> may apply when replacing more than a quarter of a roof's covering.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Size, pitch and access to the roof</li><li>Scaffolding requirements</li><li>Roofing material (concrete or clay tiles, slate, flat roof systems)</li><li>Condition of the timbers and battens underneath</li><li>Leadwork, chimneys and guttering</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I hire a roofer who knocks on my door?",
+      "a": "Be very cautious. Doorstep roofing offers are a common source of complaints. Take time to get independent quotes from roofers you have checked."
+    },
+    {
+      "q": "Do I need Building Regulations approval to replace my roof?",
+      "a": "Repairs usually do not. Replacing a significant part of the roof covering generally does, because of rules on insulation and structure. Your roofer or local Building Control can confirm."
+    },
+    {
+      "q": "How do I know if my roof needs repair or replacement?",
+      "a": "A roofer can inspect it and tell you. Ask for photos of any problems they find, and get a second opinion for large jobs."
+    }
+  ],
+  "related": [
+    "builders",
+    "house-extensions",
+    "loft-conversions",
+    "carpenters-joiners"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}

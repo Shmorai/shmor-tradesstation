@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-14",
+  "slug": "electricians",
+  "nav": "Electricians",
+  "navOrder": 5,
+  "title": "Find a Registered Electrician Near You | Free Quotes",
+  "description": "Find local electricians for rewires, consumer units, sockets, lighting, EV chargers and safety checks. Learn why competent person scheme registration matters.",
+  "keywords": [
+    "electrician near me",
+    "local electrician",
+    "rewire",
+    "consumer unit replacement",
+    "eicr",
+    "ev charger installation"
+  ],
+  "cardText": "Rewires, consumer units, lighting, EV chargers and EICRs",
+  "eyebrow": "Electrical",
+  "h1": "Find a registered electrician near you",
+  "intro": "Electrical work has to be safe and certified. Find qualified local electricians for everything from extra sockets to full rewires and EV chargers, and know how to check their registration.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e",
+    "alt": "Electrician in a yellow hard hat installing wiring",
+    "credit": "Emmanuel Ikwuegbu",
+    "creditUrl": "https://unsplash.com/@emmages"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local electricians. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from electricians",
+  "sections": [
+    {
+      "h2": "What an electrician can help with",
+      "html": "<ul><li>Full and partial rewires</li><li>Consumer unit (fuse box) upgrades</li><li>Extra sockets, lighting and outdoor power</li><li>EV charger installation</li><li>Electrical Installation Condition Reports (EICRs) for homeowners and landlords</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>Your wiring is old, or you have an old fuse box</li><li>You are renovating, extending or fitting a new kitchen or bathroom</li><li>You are a landlord and need an electrical safety check</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Competent person scheme registration</strong> (for example NICEIC or NAPIT) means the electrician can self-certify that work complies with Part P of the Building Regulations in England and Wales. Check the scheme's online register.</li><li><strong>Certificates</strong>: you should receive an Electrical Installation Certificate or a Minor Electrical Installation Works Certificate after the job.</li><li><strong>Building Regulations compliance certificate</strong> for notifiable work, issued through the scheme.</li><li><strong>Insurance</strong> and recent reviews.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Size of the property and how much wiring needs replacing</li><li>Making good plaster and decoration afterwards</li><li>Consumer unit and protection devices required</li><li>Access (floorboards, ceilings, lofts)</li><li>Testing and certification</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a competent person scheme?",
+      "a": "A government-authorised scheme that lets registered electricians self-certify that their work meets Building Regulations, instead of you having to apply to Building Control separately."
+    },
+    {
+      "q": "What certificate should I get from my electrician?",
+      "a": "For new installations or new circuits, an Electrical Installation Certificate (EIC). For smaller additions, a Minor Electrical Installation Works Certificate. For notifiable work you should also get a Building Regulations compliance certificate."
+    },
+    {
+      "q": "How often should landlords get an EICR?",
+      "a": "In England, private landlords must have the electrical installation inspected and tested at least every five years, and give a copy of the report to tenants."
+    }
+  ],
+  "related": [
+    "kitchen-fitters",
+    "bathroom-fitters",
+    "builders",
+    "loft-conversions"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}

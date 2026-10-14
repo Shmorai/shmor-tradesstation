@@ -1,0 +1,81 @@
+{
+  "updated": "2026-10-14",
+  "slug": "house-extensions",
+  "nav": "Extensions",
+  "navOrder": 3,
+  "title": "House Extension Builders | Compare Local Quotes",
+  "description": "Planning a rear, side-return or two-storey extension? Compare local extension builders, learn about planning permission and Building Regulations first.",
+  "keywords": [
+    "house extension builders",
+    "extension builders near me",
+    "rear extension",
+    "side return extension",
+    "kitchen extension"
+  ],
+  "cardText": "Rear, side-return, wrap-around and two-storey extensions",
+  "eyebrow": "Extensions",
+  "h1": "Find builders for your house extension",
+  "intro": "An extension is one of the best ways to add space and value to your home. Find experienced extension builders, understand the permissions you need and compare quotes with confidence.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1754063257992-bb9eabdbdd86",
+    "alt": "Modern single-storey home extension with large glazed windows",
+    "credit": "Brett Jordan",
+    "creditUrl": "https://unsplash.com/@brett_jordan"
+  },
+  "searchPlaceholder": "Search trades, e.g. “roofer” or “loft”",
+  "highlights": [
+    {
+      "title": "Free to request",
+      "text": "Describe your job once and hear back from local extension builders. It costs nothing to ask."
+    },
+    {
+      "title": "Compare quotes",
+      "text": "Compare experience, reviews, availability and price side by side before you decide."
+    },
+    {
+      "title": "No obligation",
+      "text": "Only hire if the fit is right. You agree the job and price directly with the tradesperson."
+    }
+  ],
+  "partnersTitle": "Get free quotes from extension builders",
+  "sections": [
+    {
+      "h2": "What extension builders can help with",
+      "html": "<ul><li>Single-storey rear and kitchen extensions</li><li>Side-return and wrap-around extensions</li><li>Two-storey extensions</li><li>Orangeries and garden rooms</li><li>Garage conversions</li></ul>"
+    },
+    {
+      "h2": "When do you need one?",
+      "html": "<ul><li>You have drawings (or need an architect or designer to produce them)</li><li>You know whether you need planning permission or can use permitted development</li><li>You are ready to get quotes against a clear specification</li></ul>"
+    },
+    {
+      "h2": "Checks before you hire",
+      "html": "<ul><li><strong>Planning:</strong> many single-storey rear extensions in England fall under permitted development rights, but limits apply and flats, maisonettes, listed buildings and conservation areas are treated differently. Check with your local council or the government's Planning Portal.</li><li><strong>Building Regulations</strong> approval is needed for most extensions, whether or not planning permission is required.</li><li><strong>Party Wall etc. Act 1996:</strong> if you build on or near a shared wall or boundary, you may need to notify your neighbours.</li><li><strong>Experience:</strong> ask to see extensions the builder has completed, and check insurance and trade body membership.</li></ul>"
+    },
+    {
+      "h2": "What affects the cost?",
+      "html": "<p>Prices vary from job to job. The main factors are:</p><ul><li>Size, number of storeys and shape of the extension</li><li>Foundations and ground conditions</li><li>Glazing, roof type and kitchen or bathroom fit-out</li><li>Professional fees: architect, structural engineer, Building Control</li><li>Party wall surveyor fees, if needed</li></ul><p>Every job is different, so the only reliable way to know the price for your home is to get at least three written, itemised quotes for the same scope of work and compare them like for like.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need planning permission for an extension?",
+      "a": "Not always. Many smaller single-storey extensions in England can be built under permitted development rights, but there are size and design limits, and the rules differ in Wales, Scotland and Northern Ireland. Check with your local council before you start."
+    },
+    {
+      "q": "Do I need Building Regulations approval?",
+      "a": "In most cases, yes. Building Regulations cover things like structure, fire safety, insulation and drainage, and apply even when planning permission is not needed."
+    },
+    {
+      "q": "Will I need a party wall agreement?",
+      "a": "If your extension involves work on a shared wall, building on the boundary, or digging foundations close to a neighbour's, the Party Wall etc. Act 1996 (England and Wales) may require you to serve notice on them."
+    }
+  ],
+  "related": [
+    "builders",
+    "loft-conversions",
+    "kitchen-fitters",
+    "choosing-a-builder"
+  ],
+  "relatedTitle": "Related trades and guides",
+  "ctaTitle": "What job do you need doing?"
+}
