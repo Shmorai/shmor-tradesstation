@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/extension-planning-permission-rules",
+  "title": "Do You Need Planning Permission for an Extension?",
+  "description": "Permitted development rules for house extensions in England explained: rear, side and two-storey limits, prior approval for larger extensions and when to apply.",
+  "h1": "Do you need planning permission for a house extension?",
+  "eyebrow": "Extensions · Planning",
+  "intro": "Many extensions in England can be built without a full planning application, thanks to permitted development rights. Here is how the limits work, and when you do need to apply.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1779819710461-f6034c3585f9",
+    "alt": "Modern glass extension built onto a traditional stone house",
+    "credit": "Samuel Isaacs",
+    "creditUrl": "https://unsplash.com/@sisacreative"
+  },
+  "keywords": [
+    "do i need planning permission for an extension",
+    "permitted development extension",
+    "rear extension rules",
+    "side extension planning",
+    "larger home extension prior approval",
+    "extension without planning permission"
+  ],
+  "cardText": "Permitted development limits for rear, side and two-storey extensions, and when you must apply.",
+  "sections": [
+    {
+      "h2": "What permitted development means",
+      "html": "<p>Permitted development rights let you make certain changes to a house without a full planning application, as long as you stay within set limits. They apply to <strong>houses</strong>, not flats or maisonettes, and they can be removed or restricted in some areas (for example by an Article 4 direction), so it is always worth checking with your council first.</p><p>The limits are measured from the <strong>original house</strong>: the house as it was first built, or as it stood on 1 July 1948 if it is older. Previous extensions by you or earlier owners count towards the limits.</p>"
+    },
+    {
+      "h2": "Single-storey rear extensions",
+      "html": "<ul><li>Can extend up to <strong>4 metres</strong> beyond the original rear wall of a detached house, or <strong>3 metres</strong> for any other house.</li><li>Maximum height of <strong>4 metres</strong>.</li><li>Through the <strong>prior approval</strong> process (sometimes called the larger home extension scheme), you can go up to <strong>8 metres</strong> (detached) or <strong>6 metres</strong> (other houses). Your council notifies your neighbours and considers any objections before deciding.</li><li>The prior approval option is not available on designated land, such as conservation areas, National Parks or Areas of Outstanding Natural Beauty.</li></ul>"
+    },
+    {
+      "h2": "Side extensions",
+      "html": "<ul><li>Single storey only, with a maximum height of <strong>4 metres</strong>.</li><li>Width no more than <strong>half the width</strong> of the original house.</li><li>On designated land, side extensions always need planning permission.</li></ul>"
+    },
+    {
+      "h2": "Two-storey extensions",
+      "html": "<ul><li>No more than <strong>3 metres</strong> beyond the original rear wall.</li><li>Must be at least <strong>7 metres</strong> from the boundary opposite the rear wall.</li><li>Roof pitch should match the existing house as far as practicable.</li><li>Upper-floor windows in a side wall must be obscure-glazed and non-opening unless the opening part is more than 1.7 metres above the floor.</li><li>Side extensions of more than one storey always need planning permission.</li></ul>"
+    },
+    {
+      "h2": "Rules that apply to every extension",
+      "html": "<ul><li>No higher than the highest part of the existing roof, and the eaves no higher than the existing eaves.</li><li>Within 2 metres of a boundary, the eaves can be no higher than <strong>3 metres</strong>.</li><li>Extensions and other buildings must not cover more than <strong>half the land</strong> around the original house.</li><li>No extension forward of the principal elevation, or of a side elevation that fronts a road.</li><li>Materials should be similar in appearance to the existing house.</li><li>Verandas, balconies and raised platforms are not permitted development.</li></ul>"
+    },
+    {
+      "h2": "When you need to apply",
+      "html": "<ul><li>Your extension goes beyond any of the limits above.</li><li>You live in a flat or maisonette.</li><li>The house is a listed building (you will also need listed building consent).</li><li>Your permitted development rights have been removed by a planning condition or Article 4 direction.</li></ul><p>Even if you do not need permission, you can apply for a <strong>lawful development certificate</strong> to confirm that your extension is lawful. It is optional, but useful proof when you come to sell.</p>"
+    },
+    {
+      "h2": "Planning is only half the story",
+      "html": "<p>Whether or not you need planning permission, most extensions still need <a href=\"/blog/building-regulations-extensions-lofts/\">Building Regulations approval</a>, and work near a shared wall or boundary may need a <a href=\"/blog/party-wall-notices-extensions-lofts/\">party wall notice</a>.</p><p><strong>Wales, Scotland and Northern Ireland have their own rules.</strong> This guide covers England. If you live elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How far can I extend without planning permission?",
+      "a": "For a single-storey rear extension in England, up to 3 metres on a semi-detached or terraced house and 4 metres on a detached house. Through the prior approval process, up to 6 or 8 metres, outside designated areas."
+    },
+    {
+      "q": "Does a previous extension count towards permitted development?",
+      "a": "Yes. The limits are measured from the original house, so earlier extensions by you or a previous owner count towards them."
+    },
+    {
+      "q": "Do I still need Building Regulations if I don’t need planning permission?",
+      "a": "Usually, yes. Planning permission and Building Regulations approval are separate, and most extensions need Building Regulations approval."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Extensions – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/extensions/planning-permission"
+    },
+    {
+      "title": "GOV.UK: Permitted development rights for householders – technical guidance",
+      "url": "https://www.gov.uk/government/publications/permitted-development-rights-for-householders-technical-guidance"
+    },
+    {
+      "title": "The Town and Country Planning (General Permitted Development) (England) Order 2015, Schedule 2",
+      "url": "https://www.legislation.gov.uk/uksi/2015/596/schedule/2"
+    },
+    {
+      "title": "Planning Portal: Lawful development certificates",
+      "url": "https://www.planningportal.co.uk/planning/planning-applications/consent-types/lawful-development-certificate/"
+    }
+  ]
+}

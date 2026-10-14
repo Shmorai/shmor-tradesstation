@@ -1,0 +1,87 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/how-to-plan-a-house-extension",
+  "title": "How to Plan a House Extension: Step by Step",
+  "description": "Planning a house extension? A step-by-step guide from first ideas to sign-off: design, planning, Building Regulations, party walls, quotes and builders.",
+  "h1": "How to plan a house extension, step by step",
+  "eyebrow": "Extensions · Planning your project",
+  "intro": "A well-planned extension runs smoother, costs less in surprises and is easier to sell later. Here is the order most successful projects follow.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1542621334-a254cf47733d",
+    "alt": "Pencil resting on a printed architectural drawing",
+    "credit": "Sven Mieke",
+    "creditUrl": "https://unsplash.com/@sxoxm"
+  },
+  "keywords": [
+    "how to plan an extension",
+    "house extension process",
+    "extension step by step",
+    "planning a kitchen extension",
+    "extension timeline"
+  ],
+  "cardText": "From first ideas to final sign-off: the order successful extension projects follow.",
+  "sections": [
+    {
+      "h2": "1. Decide what you need the space for",
+      "html": "<p>Start with how you want to live, not the size of the box. A bigger kitchen-diner, a downstairs bedroom and a home office lead to very different designs. Note what must stay (light, garden, access) and set a realistic budget with a contingency for the unexpected.</p>"
+    },
+    {
+      "h2": "2. Get a design",
+      "html": "<p>An architect, architectural technologist or experienced designer can turn your brief into drawings. Ask early whether the design is likely to fall under <a href=\"/blog/extension-planning-permission-rules/\">permitted development</a> or will need a planning application, because that can shape the design.</p>"
+    },
+    {
+      "h2": "3. Sort out planning",
+      "html": "<ul><li><strong>Permitted development:</strong> no application needed, but consider a lawful development certificate for peace of mind.</li><li><strong>Prior approval:</strong> for larger single-storey rear extensions, your council must approve the extension before you build.</li><li><strong>Planning application:</strong> needed for anything outside the limits, and for flats, listed buildings and some protected areas.</li></ul>"
+    },
+    {
+      "h2": "4. Plan for Building Regulations",
+      "html": "<p>Most extensions need <a href=\"/blog/building-regulations-extensions-lofts/\">Building Regulations approval</a>. Structural calculations from an engineer are often needed for steels, beams and foundations. Decide who will deal with Building Control: you, your designer or your builder.</p>"
+    },
+    {
+      "h2": "5. Talk to your neighbours",
+      "html": "<p>If you will be working on a shared wall, building on the boundary or digging foundations close to a neighbour’s, you may need to serve a <a href=\"/blog/party-wall-notices-extensions-lofts/\">party wall notice</a>. Talking to neighbours early often makes the formal process easier.</p>"
+    },
+    {
+      "h2": "6. Get quotes from builders",
+      "html": "<p>Send the same drawings and specification to at least three builders so their quotes are comparable. Check membership of a trade body, insurance and recent similar work. Our <a href=\"/choosing-a-builder/\">guide to choosing a builder</a> covers what to look for, and you can <a href=\"/house-extensions/\">find extension builders</a> here.</p>"
+    },
+    {
+      "h2": "7. Agree a contract and payment stages",
+      "html": "<p>Put the scope, price, timescale and stage payments in writing. Avoid paying large sums upfront, and keep a final amount back until the work is complete and signed off.</p>"
+    },
+    {
+      "h2": "8. Build, inspect and sign off",
+      "html": "<p>Building Control will inspect at key stages, such as foundations and drainage. At the end, make sure you receive a <strong>completion certificate</strong>, plus electrical and gas certificates and any guarantees. Keep them safe: buyers’ solicitors will ask for them.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need an architect for an extension?",
+      "a": "Not legally, but you will need accurate drawings for planning and Building Regulations. An architect, architectural technologist or experienced designer can produce them."
+    },
+    {
+      "q": "Who applies for Building Regulations approval?",
+      "a": "It is ultimately the homeowner’s responsibility to make sure the work complies, but your designer or builder often submits the application. Agree who will do it before work starts."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Extensions – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/extensions/planning-permission"
+    },
+    {
+      "title": "GOV.UK: Permitted development rights for householders – technical guidance",
+      "url": "https://www.gov.uk/government/publications/permitted-development-rights-for-householders-technical-guidance"
+    },
+    {
+      "title": "GOV.UK: Building regulations approval",
+      "url": "https://www.gov.uk/building-regulations-approval"
+    },
+    {
+      "title": "GOV.UK: The Party Wall etc. Act 1996 – explanatory booklet",
+      "url": "https://www.gov.uk/government/publications/preventing-and-resolving-disputes-in-relation-to-party-walls/the-party-wall-etc-act-1996-explanatory-booklet"
+    }
+  ]
+}

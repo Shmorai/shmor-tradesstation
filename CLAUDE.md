@@ -1,6 +1,6 @@
-# BuildersUK (buildersuk.shmor.ai)
+# TradesStation (tradesstation.shmor.ai)
 
-A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. Find trusted local builders and tradespeople across the UK: extensions, lofts, kitchens, roofing, electrics and more. Repo: `Shmorai/shmor-buildersuk` (private until launch). Status: **building**.
+A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design and SEO. The UK’s one-stop place to find trusted tradesmen and builders: extensions, lofts, kitchens, roofing, electrics and more. Renamed from BuildersUK on 2026-10-14 (the user asked for a "TraderStation"-style one-stop brand; "TradesStation" was chosen to stay clear of the TradeStation trading-platform trademark). Repo: `Shmorai/shmor-tradesstation` (private until launch). Status: **building**.
 
 ## Where things are
 | What | Where |
@@ -13,20 +13,20 @@ A Shmor marketplace (shared rules in `../../CLAUDE.md`): its own brand, design a
 
 Replaced the planned "Shmor Pros" card on shmor.ai (UK tradespeople; plumbing stays with LocalPlumbers, business services with ProFinders).
 
-## Pages (15)
-Home · trades (directory hub, photo tiles) · builders · house-extensions · loft-conversions · kitchen-fitters · bathroom-fitters · roofers · electricians · plasterers · painters-decorators · landscapers · carpenters-joiners · choosing-a-builder (hiring guide: quotes, contracts, stage payments, Consumer Rights Act, 14-day cancellation) · how-it-works.
+## Pages (22)
+Home · trades (directory hub, photo tiles) · builders · house-extensions · loft-conversions · kitchen-fitters · bathroom-fitters · roofers · electricians · plasterers · painters-decorators · landscapers · carpenters-joiners · choosing-a-builder (hiring guide: quotes, contracts, stage payments, Consumer Rights Act, 14-day cancellation) · how-it-works · blog + 6 posts (extension planning rules, how to plan an extension, loft conversion types, loft permitted development, Building Regulations for extensions/lofts, party wall notices), each with official GOV.UK / Planning Portal / legislation.gov.uk sources. Home shows the 3 latest posts; the extensions and lofts pages link to the relevant posts.
 Each trade page: what they help with, when you need one, checks before you hire (Gas Safe, competent person schemes/Part P, FMB, TrustMark, NFRC, party wall, planning/Building Regs where relevant), what affects the cost (factors only, no prices), 3 FAQs, "Free / Compare / No obligation" highlights, related trades.
-Top menu (`navOrder`): All trades, Builders, Extensions, Roofers, Electricians, Landscapers, Hiring guide, How it works.
-Home blocks: trust strip (charcoal) → "Popular trades" photo mosaic (9 tiles, first is the 2×2 feature) → highlights → "How it works" steps. Tile counts are chosen so the 4-column grid has no gaps (home 9 with feature, hub 12 without).
+Top menu (`navOrder`): All trades, Builders, Extensions, Roofers, Electricians, Landscapers, Hiring guide, Blog (How it works is footer-only).
+Home blocks: trust strip (navy) → "Popular trades" photo mosaic (9 tiles, first is the 2×2 feature) → highlights → "How it works" steps. Tile counts are chosen so the 4-column grid has no gaps (home 9 with feature, hub 12 without).
 
 ## Design
-"Site hoarding": warm concrete page #F6F4EF, white surfaces, charcoal #1B1E22 (top bar, strip, footer), hi-vis yellow #FFC20E for buttons/fills (hover #E5A800), brick orange #C2410C for links and text accents (yellow is never used as text on white). Fonts: Barlow Condensed 800 uppercase headings + Inter body. Hazard-stripe trims under the header, above the footer and on the yellow bottom CTA panel. Every hero is a photo with a dark left-to-right gradient and a white search panel. Bullet lists use yellow check boxes. Logo = yellow rounded square with a charcoal roof + brick courses, wordmark BUILDERS + "UK" badge.
+"Professional trade station": cool light page #F4F6F9, white surfaces, deep navy #0E2238 / #16304D (top bar, trust strip, hero overlay, CTA panel, footer), amber #FFB300 for buttons and highlights (hover #E6A100), burnt amber #B45309 for links and the "Station" half of the wordmark (amber is never text on white). Fonts: Archivo 800 headings in sentence case + Inter body. Small amber rule above section headings; navy check bullets. Every hero is a photo with a navy left-to-right gradient and a white search panel. Logo = navy rounded square, amber roof chevron, white brick courses + "Trades**Station**" wordmark.
 **Photos:** free-licence Unsplash images (not Unsplash+), credited, in each page's `"image"`. All 29 checked loading. Mobile checked at 375px (no horizontal scroll).
 
 ## Commands (run here)
 ```bash
 node tools/build.js           # rebuild after ANY change to content/, templates/ or shmor-site.json
-node tools/serve.js <port>    # local preview (see the "buildersuk" preview config)
+node tools/serve.js <port>    # local preview (see the "tradesstation" preview config)
 ```
 After changing `shmor-site.json`, also run `node tools/sync-network.js` in `../../shmor-ai`.
 

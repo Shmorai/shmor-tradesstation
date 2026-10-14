@@ -1,12 +1,12 @@
 {
   "updated": "2026-10-14",
   "slug": "",
-  "title": "BuildersUK: Find Trusted Local Builders & Tradespeople",
-  "description": "Find trusted local builders and tradespeople across the UK. Compare free quotes for extensions, lofts, kitchens, bathrooms, roofing, electrics and gardens.",
-  "eyebrow": "Builders & tradespeople across the UK",
-  "h1": "Find trusted local builders and tradespeople",
-  "h1Html": "Find trusted local <span class=\"hl\">builders &amp; trades</span>",
-  "intro": "Extensions, lofts, kitchens, roofs, rewires and gardens. Compare free, no-obligation quotes from local tradespeople and know exactly what to check before you hire.",
+  "title": "TradesStation: Find Trusted UK Tradesmen & Builders",
+  "description": "TradesStation is your one-stop place to find trusted UK tradesmen and builders. Compare free quotes for extensions, lofts, kitchens, roofing and more.",
+  "eyebrow": "The UK’s one-stop station for trades",
+  "h1": "Every trade you need, in one place",
+  "h1Html": "Every trade you need, <span class=\"hl\">in one place</span>",
+  "intro": "Builders, roofers, electricians, kitchen fitters, landscapers and more. Find trusted local tradespeople, compare free quotes and know exactly what to check before you hire.",
   "image": {
     "src": "https://images.unsplash.com/photo-1701850009190-2859ba2aeea6",
     "alt": "Builder laying mortar on a new brick wall",
@@ -128,15 +128,15 @@
       ]
     }
   ],
-  "highlightsTitle": "Why homeowners start here",
+  "highlightsTitle": "Why people start at TradesStation",
   "highlights": [
     {
       "title": "Free, no obligation",
       "text": "Requesting quotes costs nothing and you only hire if it is the right fit."
     },
     {
-      "title": "Every trade in one place",
-      "text": "From builders and roofers to electricians, plasterers and landscapers."
+      "title": "One stop for every trade",
+      "text": "Builders, roofers, electricians, plasterers, decorators, landscapers and more, all in one place."
     },
     {
       "title": "Know what to check",
@@ -159,15 +159,15 @@
   ],
   "faqs": [
     {
-      "q": "Is BuildersUK free to use?",
-      "a": "Yes. BuildersUK is free for homeowners, and requesting quotes through our partners comes with no obligation to hire."
+      "q": "Is TradesStation free to use?",
+      "a": "Yes. TradesStation is free for homeowners, and requesting quotes through our partners comes with no obligation to hire."
     },
     {
-      "q": "How does BuildersUK make money?",
+      "q": "How does TradesStation make money?",
       "a": "Some links are referral links. When we introduce you to a partner platform, the partner may pay us a fee. This never changes what you pay."
     },
     {
-      "q": "Does BuildersUK vet tradespeople?",
+      "q": "Does TradesStation vet tradespeople?",
       "a": "No. Tradespeople are independent businesses listed with our partner platforms. Always check registrations, insurance, reviews and references before you hire. Our hiring guide shows you how."
     },
     {
@@ -182,5 +182,7 @@
     "carpenters-joiners"
   ],
   "relatedTitle": "More trades and guides",
-  "ctaTitle": "What job do you need doing?"
+  "ctaTitle": "What job do you need doing?",
+  "latestPosts": 3,
+  "latestTitle": "Latest extension and loft guides"
 }

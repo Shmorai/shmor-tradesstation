@@ -1,0 +1,27 @@
+{
+  "updated": "2026-10-14",
+  "slug": "blog",
+  "type": "blog",
+  "title": "Extension and Loft Conversion Blog | TradesStation",
+  "description": "Plain-English guides to house extensions and loft conversions in the UK: planning rules, Building Regulations, party walls, design choices and hiring builders.",
+  "nav": "Blog",
+  "navOrder": 7,
+  "eyebrow": "Extensions · Lofts · Guides",
+  "h1": "Extension and loft conversion guides",
+  "intro": "Planning permission, Building Regulations, party walls and design choices, explained clearly and checked against official sources.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1672627170267-fca17bb54156",
+    "alt": "House under construction with plywood walls and new windows stacked inside",
+    "credit": "Ernie Journeys",
+    "creditUrl": "https://unsplash.com/@erniejourneys"
+  },
+  "search": false,
+  "listTitle": "Latest guides",
+  "keywords": [
+    "extension blog",
+    "loft conversion blog",
+    "home improvement guides uk",
+    "building guides"
+  ],
+  "cardText": "Planning, regulations and design guides for extensions and loft conversions."
+}

@@ -1,0 +1,88 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/building-regulations-extensions-lofts",
+  "title": "Building Regulations for Extensions and Lofts",
+  "description": "What Building Regulations cover for extensions and loft conversions: structure, fire safety, stairs and insulation, how approval works and why it matters.",
+  "h1": "Building Regulations for extensions and loft conversions",
+  "eyebrow": "Extensions & lofts · Regulations",
+  "intro": "Planning permission decides whether you can build. Building Regulations decide how it must be built, so it is safe, healthy and energy efficient. Here is what that means for your project.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1503387837-b154d5074bd2",
+    "alt": "Person drafting a building plan on a blueprint",
+    "credit": "Daniel McCullough",
+    "creditUrl": "https://unsplash.com/@d_mccullough"
+  },
+  "keywords": [
+    "building regulations extension",
+    "building regulations loft conversion",
+    "building control",
+    "completion certificate",
+    "loft conversion fire safety",
+    "loft conversion stairs regulations"
+  ],
+  "cardText": "Structure, fire safety, stairs and insulation, plus how approval and sign-off work.",
+  "sections": [
+    {
+      "h2": "Planning and Building Regulations are separate",
+      "html": "<p>You may need both, one or neither. Most extensions and every loft conversion into a habitable room need Building Regulations approval, <strong>even when planning permission is not required</strong>.</p>"
+    },
+    {
+      "h2": "What gets checked",
+      "html": "<ul><li><strong>Structure:</strong> foundations, walls, beams and steels, usually backed by an engineer’s calculations.</li><li><strong>Fire safety:</strong> escape routes, fire-resisting construction and smoke alarms.</li><li><strong>Insulation and energy efficiency:</strong> walls, roofs, floors and glazing.</li><li><strong>Ventilation</strong> and preventing condensation.</li><li><strong>Drainage</strong>, especially if you build near or over drains.</li><li><strong>Stairs</strong>, guarding and headroom.</li><li><strong>Electrics</strong>: new circuits and work in kitchens and bathrooms.</li></ul>"
+    },
+    {
+      "h2": "Loft conversions: fire safety",
+      "html": "<p>Converting a loft in a two-storey house creates a third storey, and escaping through windows above first floor level is considered too dangerous. So the regulations focus on a <strong>protected escape route</strong> down the stairs to an exit. This typically means:</p><ul><li>New fire-resisting doors, and sometimes partitions, to protect the stairway.</li><li>Mains-powered, interlinked smoke alarms in the stairway at each level.</li><li>Upgrading fire protection to parts of the structure, such as floors, where needed.</li></ul><p>Open-plan layouts can make a protected route difficult; alternative approaches, such as sprinkler systems, may be accepted. Discuss this with Building Control early.</p>"
+    },
+    {
+      "h2": "Loft conversions: stairs",
+      "html": "<p>A new loft room needs a proper staircase; retractable ladders and loft ladders are not normally acceptable for a habitable room. Stairs must meet Approved Document K, which sets out pitch, step sizes, handrails and headroom, and allows some reduced headroom where a loft has sloping ceilings. Where space is tight, a space-saving stair may be an option.</p>"
+    },
+    {
+      "h2": "How approval works",
+      "html": "<ul><li><strong>Building control body:</strong> apply to your local authority’s building control team or a registered private building control approver. They check the plans and inspect the work at key stages.</li><li><strong>Competent person schemes:</strong> some work, such as electrics or replacement windows, can be self-certified by a tradesperson registered with an authorised scheme, so you do not need a separate application for that part.</li></ul>"
+    },
+    {
+      "h2": "Why sign-off matters",
+      "html": "<p>When the work is complete and compliant, you should receive a <strong>completion certificate</strong> (or final certificate). Without the right certificates, you may struggle when you sell. If work does not comply, the person who carried it out can be prosecuted and fined, and you may be required to put faulty work right.</p><p><strong>Wales, Scotland and Northern Ireland have their own rules.</strong> This guide covers England. If you live elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need Building Regulations approval for a loft conversion?",
+      "a": "Yes, if the loft is being converted into a habitable room such as a bedroom or office. The rules cover structure, fire safety, stairs, insulation and ventilation."
+    },
+    {
+      "q": "Can I use a loft ladder for a converted loft?",
+      "a": "Not normally for a habitable room. Retractable ladders and stairs are generally not acceptable; a fixed staircase (sometimes a space-saving design) is needed."
+    },
+    {
+      "q": "What happens if I build without Building Regulations approval?",
+      "a": "You could be asked to correct or remove the work, and you may not have the certificates you need to sell. The person who carried out the work can also be prosecuted."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Building regulations approval",
+      "url": "https://www.gov.uk/building-regulations-approval"
+    },
+    {
+      "title": "Planning Portal: Loft conversion – building regulations, fire safety",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/building-regulations-fire-safety"
+    },
+    {
+      "title": "Planning Portal: Loft conversion – building regulations, stairs",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/building-regulations-stairs/"
+    },
+    {
+      "title": "GOV.UK: Approved Document K – protection from falling, collision and impact",
+      "url": "https://www.gov.uk/government/publications/protection-from-falling-collision-and-impact-approved-document-k"
+    },
+    {
+      "title": "GOV.UK: Competent person schemes",
+      "url": "https://www.gov.uk/guidance/competent-person-scheme-current-schemes-and-how-schemes-are-authorised"
+    }
+  ]
+}

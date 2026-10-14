@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /search/
 
-Sitemap: https://buildersuk.shmor.ai/sitemap.xml
+Sitemap: https://tradesstation.shmor.ai/sitemap.xml

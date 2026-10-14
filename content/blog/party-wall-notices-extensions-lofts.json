@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/party-wall-notices-extensions-lofts",
+  "title": "Party Wall Notices for Extensions and Lofts",
+  "description": "When an extension or loft conversion needs a party wall notice in England and Wales: the three notice types, notice periods, replies, surveyors and awards.",
+  "h1": "Party wall notices for extensions and loft conversions",
+  "eyebrow": "Extensions & lofts · Neighbours",
+  "intro": "If your extension or loft conversion affects a shared wall, sits on the boundary or needs deep foundations near a neighbour, the Party Wall etc. Act 1996 probably applies. Here is how it works.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1593786267440-550458cc882a",
+    "alt": "Brick terraced building with scaffolding during building work",
+    "credit": "Brett Jordan",
+    "creditUrl": "https://unsplash.com/@brett_jordan"
+  },
+  "keywords": [
+    "party wall notice",
+    "party wall agreement",
+    "party wall act extension",
+    "party wall loft conversion",
+    "party wall surveyor",
+    "party wall award"
+  ],
+  "cardText": "The three notice types, notice periods, replies, surveyors and awards.",
+  "sections": [
+    {
+      "h2": "Where the Act applies",
+      "html": "<p>The Party Wall etc. Act 1996 applies in <strong>England and Wales</strong>. It does not apply in Scotland or Northern Ireland. It covers three kinds of work, each with its own notice.</p>"
+    },
+    {
+      "h2": "The three types of notice",
+      "html": "<ul><li><strong>Party structure notice:</strong> for work to an existing shared wall, such as cutting in steel beams for a loft conversion or raising the wall. Give at least <strong>two months’</strong> notice.</li><li><strong>Line of junction notice:</strong> for building a new wall on or up to the boundary, common with side-return and rear extensions. Give at least <strong>one month’s</strong> notice.</li><li><strong>Notice of adjacent excavation:</strong> for digging foundations within 3 metres (or 6 metres in some cases) of a neighbouring building and deeper than its foundations. Give at least <strong>one month’s</strong> notice.</li></ul>"
+    },
+    {
+      "h2": "How your neighbour can reply",
+      "html": "<ul><li>Your neighbour has <strong>14 days</strong> to reply in writing. If they consent, work can go ahead as described.</li><li>For party structure and excavation notices, if they object <strong>or do not reply</strong>, a dispute is treated as having arisen and surveyors are appointed.</li><li>Your neighbour can also serve a counter-notice asking for additional work.</li></ul>"
+    },
+    {
+      "h2": "Surveyors and the party wall award",
+      "html": "<p>In a dispute, both owners can agree on one <strong>agreed surveyor</strong>, or each appoints their own, and those two select a third if needed. Surveyors must act impartially, not for whoever appointed them.</p><p>They produce a <strong>party wall award</strong> setting out what work will be done, when and how, often with a record of the condition of the neighbour’s property beforehand. The person doing the work usually pays the surveyors’ costs where the work is only for their benefit. Either owner can appeal to the county court within 14 days of receiving the award.</p>"
+    },
+    {
+      "h2": "Tips for a smooth process",
+      "html": "<ul><li>Talk to your neighbours before you serve notice, and show them the plans.</li><li>Serve notice in good time; party structure notices need at least two months.</li><li>Use the example notices and letters published on GOV.UK, or ask your surveyor or designer to prepare them.</li><li>Party wall matters are separate from planning permission and Building Regulations.</li></ul><p>Planning your project? Read <a href=\"/blog/how-to-plan-a-house-extension/\">how to plan a house extension</a>, or <a href=\"/house-extensions/\">find extension builders</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a party wall agreement for a loft conversion?",
+      "a": "Often, yes, in semi-detached and terraced houses, because cutting steel beams into a shared wall is work to a party structure. That needs a party structure notice at least two months before work starts."
+    },
+    {
+      "q": "What happens if my neighbour doesn’t reply to a party wall notice?",
+      "a": "For party structure and excavation notices, no reply within 14 days means a dispute is treated as having arisen, and surveyors are appointed to agree a party wall award."
+    },
+    {
+      "q": "Who pays for the party wall surveyor?",
+      "a": "Usually the building owner, where the work is solely for their benefit."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: The Party Wall etc. Act 1996 – explanatory booklet",
+      "url": "https://www.gov.uk/government/publications/preventing-and-resolving-disputes-in-relation-to-party-walls/the-party-wall-etc-act-1996-explanatory-booklet"
+    },
+    {
+      "title": "GOV.UK: Party Wall etc. Act 1996 – guidance and example letters",
+      "url": "https://www.gov.uk/guidance/party-wall-etc-act-1996-guidance"
+    }
+  ]
+}

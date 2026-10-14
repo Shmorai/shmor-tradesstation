@@ -1,4 +1,4 @@
-# BuildersUK  (buildersuk.shmor.ai)
+# TradesStation  (tradesstation.shmor.ai)
 
 Part of the Shmor.ai network: its own brand, design and SEO, listed on shmor.ai via `shmor-site.json`.
 
@@ -23,8 +23,8 @@ After changing `shmor-site.json`, also run `node tools/sync-network.js` in `Shmo
 
 ## Referral links in pages
 List link slugs in a page's `"partners"`, or add `"offers"` in `shmor-site.json` (optional `"pages": ["slug"]`).
-Links are written into the HTML as `https://shmor.ai/go/?to=<slug>&src=buildersuk-<page>` with `rel="sponsored nofollow"`.
+Links are written into the HTML as `https://shmor.ai/go/?to=<slug>&src=tradesstation-<page>` with `rel="sponsored nofollow"`.
 
 ## Deploy (only at launch; keep private until then)
-GitHub repo `Shmorai/shmor-buildersuk` → Settings → Pages → branch `main`, root. Custom domain `buildersuk.shmor.ai`.
-DNS at GoDaddy: `CNAME  buildersuk  shmorai.github.io`
+GitHub repo `Shmorai/shmor-tradesstation` → Settings → Pages → branch `main`, root. Custom domain `tradesstation.shmor.ai`.
+DNS at GoDaddy: `CNAME  tradesstation  shmorai.github.io`

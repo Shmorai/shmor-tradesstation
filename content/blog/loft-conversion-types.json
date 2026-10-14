@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/loft-conversion-types",
+  "title": "Loft Conversion Types Explained: Which Suits Your Home?",
+  "description": "Rooflight, dormer, hip-to-gable or mansard? The main types of loft conversion explained, with what each involves and the homes they usually suit.",
+  "h1": "Loft conversion types explained",
+  "eyebrow": "Lofts · Design",
+  "intro": "The type of loft conversion that suits you depends on your roof shape, head height and how much space you want. Here are the four main options.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1642799829852-4049c0a74d97",
+    "alt": "Row of chimneys and pitched roofs on brick terraced houses",
+    "credit": "Richard Bell",
+    "creditUrl": "https://unsplash.com/@maplerockdesign"
+  },
+  "keywords": [
+    "loft conversion types",
+    "dormer loft conversion",
+    "velux loft conversion",
+    "hip to gable loft conversion",
+    "mansard loft conversion",
+    "rooflight conversion"
+  ],
+  "cardText": "Rooflight, dormer, hip-to-gable and mansard conversions compared.",
+  "sections": [
+    {
+      "h2": "Check your loft first",
+      "html": "<p>Before choosing a type, check the basics: the <strong>head height</strong> (measure from the top of the ceiling joists to the underside of the ridge), the <strong>roof structure</strong> (traditional rafters or modern trussed rafters, which need more structural work) and where a <strong>staircase</strong> could go. A loft conversion specialist or architect can assess all three.</p>"
+    },
+    {
+      "h2": "Rooflight (Velux-style) conversion",
+      "html": "<ul><li>The roof shape stays the same; windows are fitted in the existing slope.</li><li>Usually the least disruptive option, as there is little change to the structure outside.</li><li>Best for lofts that already have good head height.</li></ul>"
+    },
+    {
+      "h2": "Dormer conversion",
+      "html": "<ul><li>A box-shaped extension projects from the roof slope, usually at the back, creating more full-height floor space.</li><li>One of the most popular types in the UK, and suitable for many house styles.</li><li>Rear dormers often fall within permitted development; front-facing dormers usually need planning permission.</li></ul>"
+    },
+    {
+      "h2": "Hip-to-gable conversion",
+      "html": "<ul><li>For houses with a sloping (hipped) side roof, typically semi-detached and detached homes.</li><li>The sloping side is built up into a vertical gable wall, making space for a staircase and more room.</li><li>Often combined with a rear dormer.</li></ul>"
+    },
+    {
+      "h2": "Mansard conversion",
+      "html": "<ul><li>The roof slope is rebuilt at a much steeper angle, almost vertical, with windows set into small dormers.</li><li>Creates the most space, but is the most involved structurally.</li><li>Usually needs planning permission; common on terraced houses in towns and cities.</li></ul>"
+    },
+    {
+      "h2": "Whatever the type",
+      "html": "<p>Every conversion into a habitable room needs <a href=\"/blog/building-regulations-extensions-lofts/\">Building Regulations approval</a>, covering structure, fire safety, stairs and insulation. Whether you need planning permission depends on the design and where you live: see <a href=\"/blog/loft-conversion-permitted-development/\">loft conversions and permitted development</a>. When you are ready, <a href=\"/loft-conversions/\">find loft conversion specialists</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Which loft conversion is cheapest?",
+      "a": "A rooflight conversion usually involves the least structural work, so it is often the most affordable. The real cost depends on your loft, so compare itemised quotes."
+    },
+    {
+      "q": "Which loft conversion gives the most space?",
+      "a": "A mansard conversion generally creates the most usable space, followed by dormer and hip-to-gable conversions."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Loft conversion – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/planning-permission"
+    },
+    {
+      "title": "GOV.UK: Permitted development rights for householders – technical guidance",
+      "url": "https://www.gov.uk/government/publications/permitted-development-rights-for-householders-technical-guidance"
+    },
+    {
+      "title": "Planning Portal: Loft conversion – building regulations, stairs",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/building-regulations-stairs/"
+    }
+  ]
+}

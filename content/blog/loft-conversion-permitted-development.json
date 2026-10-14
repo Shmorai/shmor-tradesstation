@@ -1,0 +1,79 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/loft-conversion-permitted-development",
+  "title": "Loft Conversion Planning Permission: The Rules",
+  "description": "Does your loft conversion need planning permission? The permitted development rules for lofts in England: volume limits, dormers, windows and exceptions.",
+  "h1": "Loft conversions and planning permission: the rules",
+  "eyebrow": "Lofts · Planning",
+  "intro": "Many loft conversions in England do not need a planning application, because they fall under permitted development. These are the limits your design has to meet.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1732721176814-c0bc82db3971",
+    "alt": "Red brick house with white windows and a black front door",
+    "credit": "David Walker | Walker Design Co.",
+    "creditUrl": "https://unsplash.com/@walkerdesignco"
+  },
+  "keywords": [
+    "loft conversion planning permission",
+    "loft conversion permitted development",
+    "dormer planning permission",
+    "loft conversion volume limit",
+    "do i need planning permission for a loft conversion"
+  ],
+  "cardText": "Volume limits, dormers, windows and the homes that always need permission.",
+  "sections": [
+    {
+      "h2": "The volume limit",
+      "html": "<p>Under permitted development, the new roof space (including any previous roof enlargement) must not add more than <strong>40 cubic metres</strong> to the original roof space of a <strong>terraced</strong> house, or <strong>50 cubic metres</strong> for <strong>detached and semi-detached</strong> houses.</p>"
+    },
+    {
+      "h2": "Design limits",
+      "html": "<ul><li>No higher than the highest part of the existing roof.</li><li>No extension beyond the plane of the existing roof slope on the principal elevation facing a road. In practice, front dormers usually need planning permission.</li><li>Materials similar in appearance to the existing house.</li><li>Side-facing windows must be obscure-glazed, and any opening part must be at least 1.7 metres above the floor.</li><li>Roof enlargements (other than hip-to-gable) should be set back, as far as practicable, at least 20cm from the original eaves.</li><li>No verandas, balconies or raised platforms. A Juliet balcony with no platform would normally be acceptable.</li></ul>"
+    },
+    {
+      "h2": "When you always need permission",
+      "html": "<ul><li>Flats and maisonettes (permitted development rights for houses do not apply).</li><li>Houses on designated land, including conservation areas, National Parks, Areas of Outstanding Natural Beauty, the Broads and World Heritage Sites.</li><li>Listed buildings, which also need listed building consent.</li><li>Homes where permitted development rights have been removed by a planning condition or Article 4 direction.</li></ul>"
+    },
+    {
+      "h2": "Prove it with a certificate",
+      "html": "<p>If your loft conversion is permitted development, you can apply for an optional <strong>lawful development certificate</strong>. It confirms the work is lawful and can save questions when you sell.</p>"
+    },
+    {
+      "h2": "Building Regulations still apply",
+      "html": "<p>Permitted development is about planning only. Converting a loft into a habitable room always needs <a href=\"/blog/building-regulations-extensions-lofts/\">Building Regulations approval</a>, and terraced and semi-detached homes may need a <a href=\"/blog/party-wall-notices-extensions-lofts/\">party wall notice</a>.</p><p><strong>Wales, Scotland and Northern Ireland have their own rules.</strong> This guide covers England. If you live elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a dormer loft conversion need planning permission?",
+      "a": "A rear dormer often falls within permitted development if it meets the volume and design limits. Front-facing dormers on a roof slope facing a road usually need planning permission."
+    },
+    {
+      "q": "How is the 40 or 50 cubic metre limit measured?",
+      "a": "It is the additional volume created above the original roof, including any earlier roof extensions. Your designer can calculate it from the drawings."
+    },
+    {
+      "q": "Can I convert my loft if I live in a flat?",
+      "a": "Permitted development rights for loft conversions apply to houses only, so a flat will need a planning application, and usually the freeholder’s consent too."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Loft conversion – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/loft-conversion/planning-permission"
+    },
+    {
+      "title": "GOV.UK: Permitted development rights for householders – technical guidance",
+      "url": "https://www.gov.uk/government/publications/permitted-development-rights-for-householders-technical-guidance"
+    },
+    {
+      "title": "The Town and Country Planning (General Permitted Development) (England) Order 2015, Schedule 2",
+      "url": "https://www.legislation.gov.uk/uksi/2015/596/schedule/2"
+    },
+    {
+      "title": "Planning Portal: Lawful development certificates",
+      "url": "https://www.planningportal.co.uk/planning/planning-applications/consent-types/lawful-development-certificate/"
+    }
+  ]
+}

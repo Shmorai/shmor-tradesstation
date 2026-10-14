@@ -2,18 +2,17 @@
   "updated": "2026-10-14",
   "slug": "how-it-works",
   "nav": "How it works",
-  "navOrder": 8,
-  "title": "How BuildersUK Works | Free, No-Obligation Quotes",
-  "description": "How BuildersUK helps you find local builders and tradespeople: describe your job, compare quotes and hire the right person. Free, with no obligation.",
+  "title": "How TradesStation Works | Free, No-Obligation Quotes",
+  "description": "How TradesStation helps you find local builders and tradespeople: describe your job, compare quotes and hire the right person. Free, with no obligation.",
   "keywords": [
-    "how buildersuk works",
+    "how tradesstation works",
     "get builder quotes",
     "compare tradesmen quotes"
   ],
   "cardText": "Describe your job, compare quotes, hire with confidence",
   "eyebrow": "How it works",
-  "h1": "How BuildersUK works",
-  "intro": "BuildersUK is a free guide and introduction service for homeowners. We help you understand your job, then point you to trusted quote platforms so you can hear from local tradespeople.",
+  "h1": "How TradesStation works",
+  "intro": "TradesStation is a free guide and introduction service for homeowners. We help you understand your job, then point you to trusted quote platforms so you can hear from local tradespeople.",
   "image": {
     "src": "https://images.unsplash.com/photo-1618832515490-e181c4794a45",
     "alt": "Kitchen under renovation with units covered in protective plastic",
@@ -47,16 +46,16 @@
   ],
   "sections": [
     {
-      "h2": "Is BuildersUK free?",
-      "html": "<p>Yes. Using BuildersUK and requesting quotes through our partners is free for homeowners, with no obligation to hire.</p>"
+      "h2": "Is TradesStation free?",
+      "html": "<p>Yes. Using TradesStation and requesting quotes through our partners is free for homeowners, with no obligation to hire.</p>"
     },
     {
       "h2": "How we make money",
-      "html": "<p>Some links on BuildersUK are referral links. When we introduce you to a partner platform, that partner may pay us a fee. This never changes the price you pay a tradesperson. <a href=\"https://shmor.ai/affiliate-disclosure/\">Read more about how we make money</a>.</p>"
+      "html": "<p>Some links on TradesStation are referral links. When we introduce you to a partner platform, that partner may pay us a fee. This never changes the price you pay a tradesperson. <a href=\"https://shmor.ai/affiliate-disclosure/\">Read more about how we make money</a>.</p>"
     },
     {
       "h2": "Who are the tradespeople?",
-      "html": "<p>Tradespeople are independent businesses listed with our partner platforms. BuildersUK does not employ, endorse or vet individual tradespeople, so always make your own checks. Our <a href=\"/choosing-a-builder/\">hiring guide</a> explains how.</p>"
+      "html": "<p>Tradespeople are independent businesses listed with our partner platforms. TradesStation does not employ, endorse or vet individual tradespeople, so always make your own checks. Our <a href=\"/choosing-a-builder/\">hiring guide</a> explains how.</p>"
     }
   ],
   "related": [
