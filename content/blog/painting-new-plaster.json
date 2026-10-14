@@ -1,0 +1,57 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/painting-new-plaster",
+  "title": "How to Paint New Plaster: Drying and Mist Coats",
+  "description": "Just had a room plastered? How to tell when new plaster is dry, why you need a mist coat, and common mistakes that cause peeling paint on fresh plaster.",
+  "h1": "How to paint new plaster",
+  "eyebrow": "Plastering · Decorating",
+  "intro": "Fresh plaster looks great, but painting it too soon or with the wrong first coat can lead to peeling and patchy walls. Here is how to get it right.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1693985120993-e9b203ce7631",
+    "alt": "Person using a paint roller on a wall",
+    "credit": "Andrew Itaga",
+    "creditUrl": "https://unsplash.com/@and73w"
+  },
+  "keywords": [
+    "painting new plaster",
+    "mist coat",
+    "how long does plaster take to dry",
+    "new plaster paint peeling",
+    "first coat on new plaster"
+  ],
+  "cardText": "Drying time, mist coats and avoiding peeling paint.",
+  "sections": [
+    {
+      "h2": "Let it dry properly",
+      "html": "<ul><li>New plaster changes from dark pink or brown to an even, light pale colour as it dries. Patchy darker areas are still damp.</li><li>Drying time depends on the thickness, type of plaster, temperature and ventilation. Ask your plasterer for guidance on your walls.</li><li>Keep the room ventilated and gently heated, but avoid blasting heat at it, which can cause cracking.</li></ul>"
+    },
+    {
+      "h2": "Use a mist coat first",
+      "html": "<p>New plaster is very absorbent. A <strong>mist coat</strong> is a first coat of paint thinned with water (or a product made for new plaster) that soaks in and seals the surface, so the following coats stick properly. Follow the paint manufacturer’s instructions for how much to thin it.</p>"
+    },
+    {
+      "h2": "Common mistakes",
+      "html": "<ul><li><strong>Painting too soon:</strong> trapped moisture can cause paint to bubble or peel.</li><li><strong>Vinyl or wipeable paints as a first coat:</strong> these can sit on the surface and stop the plaster breathing as it finishes drying. Check the paint is suitable for new plaster.</li><li><strong>Skipping preparation:</strong> lightly remove any nibs or splashes and dust off before painting.</li><li><strong>Not checking in good light:</strong> look along the wall with a light to spot marks before the top coats.</li></ul>"
+    },
+    {
+      "h2": "Wallpapering new plaster",
+      "html": "<p>New plaster usually needs sizing (sealing with diluted paste or a size product) before hanging wallpaper, so the paper can be positioned and removed more easily later. Your decorator can advise.</p>"
+    },
+    {
+      "h2": "Get help",
+      "html": "<p><a href=\"/painters-decorators/\">Compare local painters and decorators</a> who regularly work on freshly plastered walls, or read <a href=\"/blog/skimming-vs-replastering-dry-lining/\">skimming, replastering or dry lining</a> if you are still planning the plastering.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I know when new plaster is dry?",
+      "a": "It turns an even, light pale colour all over. Darker patches are still damp. Your plasterer can tell you roughly how long to allow."
+    },
+    {
+      "q": "What is a mist coat?",
+      "a": "A thinned first coat of paint, or a product made for new plaster, that soaks in and seals the surface so later coats bond properly."
+    }
+  ]
+}

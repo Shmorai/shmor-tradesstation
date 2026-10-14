@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/garden-rooms-sheds-decking-rules",
+  "title": "Garden Rooms, Sheds and Decking: The Rules",
+  "description": "Building a garden room, shed, summerhouse or deck? Permitted development height limits, the 30cm decking rule and when Building Regulations apply.",
+  "h1": "Garden rooms, sheds and decking: the rules",
+  "eyebrow": "Landscaping · Outbuildings",
+  "intro": "Garden offices, summerhouses, sheds and decks can often be built without a planning application. Here are the size and height limits, and when Building Regulations come into it.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1636481778186-ec8533c45749",
+    "alt": "Small wooden garden shed with a door and window",
+    "credit": "Céline Geeurickx",
+    "creditUrl": "https://unsplash.com/@celickx_photography"
+  },
+  "keywords": [
+    "garden room planning permission",
+    "shed planning permission",
+    "outbuilding permitted development",
+    "decking planning permission",
+    "garden office building regulations",
+    "summerhouse rules"
+  ],
+  "cardText": "Height limits, the 30cm decking rule and when Building Regulations apply.",
+  "sections": [
+    {
+      "h2": "Garden rooms and outbuildings: planning limits",
+      "html": "<ul><li>Single storey only, with eaves no higher than <strong>2.5 metres</strong>.</li><li>Maximum overall height of <strong>4 metres</strong> with a dual-pitched roof, or <strong>3 metres</strong> for any other roof.</li><li>Within <strong>2 metres of a boundary</strong>, the whole building must be no higher than <strong>2.5 metres</strong>.</li><li>Not on land in front of the principal elevation of the house.</li><li>Together with extensions and other buildings, no more than <strong>half the land</strong> around the original house.</li><li>No verandas, balconies or raised platforms.</li></ul><p>The building must be for a use incidental to the house, such as a home office, gym or hobby room. Separate self-contained living accommodation is not covered and needs planning permission.</p>"
+    },
+    {
+      "h2": "Extra limits in some areas",
+      "html": "<ul><li>Within the grounds of a <strong>listed building</strong>, any outbuilding needs planning permission.</li><li>On designated land (such as conservation areas), outbuildings at the side of the house need permission.</li><li>In National Parks, the Broads, Areas of Outstanding Natural Beauty and World Heritage Sites, outbuildings more than 20 metres from the house are limited to 10 square metres in total.</li></ul>"
+    },
+    {
+      "h2": "Decking",
+      "html": "<ul><li>Decking or other platforms can be permitted development if no more than <strong>30cm</strong> above the ground.</li><li>Decking, outbuildings and extensions together must cover no more than half the garden.</li><li>Not in front of the principal elevation, and not within the grounds of a listed building.</li></ul><p>Higher, raised decks need planning permission.</p>"
+    },
+    {
+      "h2": "Building Regulations",
+      "html": "<ul><li>A detached outbuilding under <strong>15 square metres</strong> with no sleeping accommodation does not normally need Building Regulations approval.</li><li>Between <strong>15 and 30 square metres</strong>, approval is normally not needed if there is no sleeping accommodation and the building is at least 1 metre from any boundary, or is built substantially of non-combustible materials.</li><li>Larger buildings, or any with sleeping accommodation, normally need approval.</li><li>Electrical work in a garden room, such as a new circuit run from the house, is notifiable. Use a registered <a href=\"/electricians/\">electrician</a>.</li></ul>"
+    },
+    {
+      "h2": "Before you build",
+      "html": "<p>Check with your council if you are unsure, especially if your home is listed, a flat, or in a protected area. A <a href=\"/blog/extension-planning-permission-rules/\">lawful development certificate</a> can confirm that a project is permitted development. For groundwork, bases and decking, <a href=\"/landscapers/\">compare local landscapers</a>; for timber structures, see <a href=\"/carpenters-joiners/\">carpenters and joiners</a>.</p><p><strong>Wales, Scotland and Northern Ireland have their own planning rules.</strong> This guide covers England; elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need planning permission for a garden room?",
+      "a": "Often not, if it meets the permitted development limits: single storey, within the height limits (2.5 metres within 2 metres of a boundary), behind the front of the house and covering no more than half the garden with other buildings."
+    },
+    {
+      "q": "Can I sleep in my garden room?",
+      "a": "Using an outbuilding as a bedroom or separate living accommodation is not covered by permitted development and brings in Building Regulations. Check with your council first."
+    },
+    {
+      "q": "How high can decking be without planning permission?",
+      "a": "Up to 30cm above the ground, provided it and other buildings cover no more than half the garden, and it is not at the front of the house or at a listed building."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Outbuildings – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/outbuildings/planning-permission"
+    },
+    {
+      "title": "Planning Portal: Is Building Regulations approval needed for an outbuilding?",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/outbuildings/is-building-regulations-approval-needed-for-an-outbuilding"
+    },
+    {
+      "title": "Planning Portal: Decking – planning permission",
+      "url": "https://planningportal.co.uk/permission/common-projects/decking/planning-permission"
+    }
+  ]
+}

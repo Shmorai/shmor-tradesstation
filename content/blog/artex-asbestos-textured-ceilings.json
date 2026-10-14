@@ -1,0 +1,76 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/artex-asbestos-textured-ceilings",
+  "title": "Artex Ceilings and Asbestos: What to Do",
+  "description": "Old Artex or textured ceilings can contain asbestos. What HSE advises: when to leave it, how to test it, and how to cover or remove it safely.",
+  "h1": "Artex ceilings and asbestos: what to do",
+  "eyebrow": "Plastering · Safety",
+  "intro": "Textured coatings such as Artex were used on many British ceilings and walls. Some older coatings contain asbestos. Here is what the Health and Safety Executive advises before you sand, scrape or cover them.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1641663129836-69b7dd203e74",
+    "alt": "Close-up of a textured grey surface",
+    "credit": "Eugene Ngoya",
+    "creditUrl": "https://unsplash.com/@daelgram"
+  },
+  "keywords": [
+    "artex asbestos",
+    "textured ceiling asbestos",
+    "artex removal",
+    "plastering over artex",
+    "asbestos testing",
+    "is my artex asbestos"
+  ],
+  "cardText": "When to leave it, getting it tested and how to cover or remove it safely.",
+  "sections": [
+    {
+      "h2": "Why it matters",
+      "html": "<p>Asbestos was widely used in building materials until it was banned in 1999. Homes built or refurbished before 2000 may contain it, and the HSE lists textured decorative coatings (commonly called Artex) among the materials that can contain asbestos. Asbestos is only dangerous when its fibres are released into the air, for example by sanding, scraping or drilling.</p>"
+    },
+    {
+      "h2": "If it is in good condition, leave it alone",
+      "html": "<p>HSE advice is that if you know or strongly suspect asbestos is present, it is often best to leave it where it is, especially if it is in good condition, and check it from time to time for damage. <strong>Do not sand or scrape a textured coating</strong> that might contain asbestos.</p>"
+    },
+    {
+      "h2": "Getting it tested",
+      "html": "<p>The only way to know is to have a sample analysed. Use an asbestos surveyor or testing service, and check the laboratory is <strong>UKAS-accredited</strong> for asbestos analysis. Your local council’s environmental health team can also advise.</p>"
+    },
+    {
+      "h2": "Covering or removing it",
+      "html": "<ul><li><strong>Covering:</strong> boarding over or skimming a sound textured ceiling avoids disturbing it. Your plasterer should know if asbestos is present, so they can avoid sanding and drilling it unnecessarily.</li><li><strong>Removing:</strong> taking off textured coatings that contain asbestos must be done using controlled methods by people trained to work with asbestos; large-scale removal is notifiable work. Do not attempt it yourself without training.</li><li><strong>Tell your tradespeople:</strong> always let builders, electricians and plasterers know about suspected asbestos before they start.</li></ul>"
+    },
+    {
+      "h2": "Next steps",
+      "html": "<p>If testing shows no asbestos, a plasterer can <a href=\"/blog/skimming-vs-replastering-dry-lining/\">skim or board</a> over the ceiling as normal. <a href=\"/plasterers/\">Compare local plasterers</a>, and ask about their experience with textured ceilings.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does all Artex contain asbestos?",
+      "a": "No, but some textured coatings applied before asbestos was banned in 1999 do. The only way to be sure is to have a sample tested by an accredited laboratory."
+    },
+    {
+      "q": "Can I plaster over an Artex ceiling?",
+      "a": "Often yes. Skimming or boarding over a sound textured ceiling avoids disturbing it. Do not sand it first, and tell your plasterer if it may contain asbestos."
+    },
+    {
+      "q": "Can I remove Artex myself?",
+      "a": "HSE advises against removing or repairing asbestos-containing materials yourself without training. Get it tested first, and use trained professionals if it contains asbestos."
+    }
+  ],
+  "sources": [
+    {
+      "title": "HSE: Asbestos – frequently asked questions",
+      "url": "https://www.hse.gov.uk/asbestos/faq.htm"
+    },
+    {
+      "title": "HSE: Locations of asbestos and taking the right action",
+      "url": "https://www.hse.gov.uk/asbestos/location-materials.htm"
+    },
+    {
+      "title": "HSE: Asbestos essentials task sheets",
+      "url": "https://www.hse.gov.uk/asbestos/essentials/"
+    }
+  ]
+}

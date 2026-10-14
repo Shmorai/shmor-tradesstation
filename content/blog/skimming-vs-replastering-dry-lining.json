@@ -1,0 +1,58 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/skimming-vs-replastering-dry-lining",
+  "title": "Skimming, Replastering or Dry Lining: Which?",
+  "description": "Cracked or uneven walls? The difference between a skim coat, a full replaster and dry lining, when each one makes sense and what to ask your plasterer.",
+  "h1": "Skimming, replastering or dry lining: which do you need?",
+  "eyebrow": "Plastering · Explained",
+  "intro": "Plasterers use a few different methods to give you smooth walls and ceilings. Knowing the difference helps you understand quotes and choose the right fix for your walls.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1559173525-d16dfd7c17fe",
+    "alt": "Light grey wall with an uneven plaster surface",
+    "credit": "Antoine Merour",
+    "creditUrl": "https://unsplash.com/@amerour"
+  },
+  "keywords": [
+    "skimming vs plastering",
+    "skim coat",
+    "replastering a room",
+    "dry lining",
+    "plasterboard vs plaster",
+    "blown plaster"
+  ],
+  "cardText": "Skim coat, full replaster and dry lining compared.",
+  "sections": [
+    {
+      "h2": "Skimming",
+      "html": "<ul><li>A thin finishing coat of plaster applied over an existing sound surface, or over new plasterboard.</li><li>Good for walls that are basically solid but marked, patched or uneven, and for covering old textured ceilings once checked (see <a href=\"/blog/artex-asbestos-textured-ceilings/\">Artex and asbestos</a>).</li><li>The usual finish on modern homes.</li></ul>"
+    },
+    {
+      "h2": "Hacking off and replastering",
+      "html": "<ul><li>The old plaster is removed back to the brick or block, and new backing and finish coats are applied.</li><li>Needed where plaster is <strong>blown</strong> (sounds hollow when tapped and has come away from the wall), crumbling, or badly damaged.</li><li>Messier and more involved, so it is often done during wider renovation.</li></ul>"
+    },
+    {
+      "h2": "Dry lining",
+      "html": "<ul><li>Plasterboard is fixed to the wall (on battens, metal frames or adhesive dabs) and then skimmed or taped and jointed.</li><li>Faster to dry than wet plastering, and can include insulated plasterboard on external walls.</li><li>Commonly used on new partitions, ceilings and extensions.</li></ul>"
+    },
+    {
+      "h2": "Older homes and damp",
+      "html": "<p>Many older homes have solid walls and traditional lime plaster. Covering these with modern gypsum plaster or impermeable materials can trap moisture. If your home is old, or there are signs of damp, find the cause first and ask whether a breathable lime plaster would be more suitable.</p>"
+    },
+    {
+      "h2": "Questions to ask your plasterer",
+      "html": "<ul><li>Will you skim, replaster or board, and why?</li><li>Is any old plaster blown, and how much will need hacking off?</li><li>How will you protect floors and furniture, and is clearing up included?</li><li>How long should I leave it before decorating?</li></ul><p><a href=\"/plasterers/\">Compare local plasterers</a>, then read <a href=\"/blog/painting-new-plaster/\">how to paint new plaster</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the difference between skimming and plastering?",
+      "a": "Skimming is a thin finishing coat over a sound surface. Plastering (or replastering) means applying fresh backing and finish coats, usually after the old plaster has been removed."
+    },
+    {
+      "q": "How do I know if my plaster is blown?",
+      "a": "Tap the wall gently. Blown plaster often sounds hollow and may bulge or crack. A plasterer can check how much needs replacing."
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/driveway-planning-permission",
+  "title": "Do You Need Planning Permission for a Driveway?",
+  "description": "New or replacement driveway? The 5 square metre rule, permeable paving, dropped kerbs and the questions to ask your driveway installer, explained for England.",
+  "h1": "Do you need planning permission for a driveway?",
+  "eyebrow": "Landscaping · Driveways",
+  "intro": "Paving over a front garden can need planning permission, depending on the surface you choose and where the rainwater goes. Here is how the rules work, and the separate permission you need for a dropped kerb.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1710883727446-0bf5692fd709",
+    "alt": "Two-storey brick house with a garage and driveway",
+    "credit": "Modunite Ltd",
+    "creditUrl": "https://unsplash.com/@modunite"
+  },
+  "keywords": [
+    "driveway planning permission",
+    "permeable driveway",
+    "front garden paving rules",
+    "dropped kerb application",
+    "block paving driveway",
+    "resin driveway planning"
+  ],
+  "cardText": "The 5 square metre rule, permeable surfaces and dropped kerbs.",
+  "sections": [
+    {
+      "h2": "The rules for front gardens",
+      "html": "<p>For houses in England, you do <strong>not</strong> need planning permission for a new or replacement driveway of any size if:</p><ul><li>it uses a <strong>permeable (porous) surface</strong> that lets water drain through, such as permeable block paving, porous asphalt or gravel; or</li><li>rainwater is directed to a <strong>lawn or border</strong> to drain naturally.</li></ul><p>If you want a traditional, impermeable surface that drains onto the road, and the area is <strong>more than 5 square metres</strong>, you will need planning permission.</p>"
+    },
+    {
+      "h2": "Why the rule exists",
+      "html": "<p>Hard surfaces that drain straight onto the road add to the water running into drains during heavy rain, which can contribute to flooding and pollution. Permeable surfaces and soakaways let water drain back into the ground.</p>"
+    },
+    {
+      "h2": "Dropped kerbs",
+      "html": "<p>To drive across a pavement to your driveway you need a <strong>dropped kerb</strong> (vehicle crossover), and that needs a separate application to your local council. Driving over the pavement without one is not allowed. Councils usually have their own rules and approved contractors, so apply before you build the driveway.</p>"
+    },
+    {
+      "h2": "Exceptions",
+      "html": "<ul><li>Flats and maisonettes do not have these permitted development rights.</li><li>Some homes have had rights removed by a planning condition or an Article 4 direction.</li><li>Listed buildings and conservation areas may have extra controls. Check with your council.</li></ul>"
+    },
+    {
+      "h2": "Questions to ask your installer",
+      "html": "<ul><li>Is the surface permeable, or where will the water drain to?</li><li>How deep is the sub-base, and what is it made of?</li><li>How will the edges be restrained?</li><li>Is a dropped kerb needed, and who is applying for it?</li><li>What guarantee comes with the work?</li></ul><p>Compare quotes from <a href=\"/landscapers/\">local landscapers and driveway specialists</a>.</p><p><strong>Wales, Scotland and Northern Ireland have their own planning rules.</strong> This guide covers England; elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need planning permission for a block paving driveway?",
+      "a": "Not if it is permeable block paving, or the rainwater drains to a lawn or border. Standard impermeable block paving over 5 square metres that drains onto the road needs planning permission."
+    },
+    {
+      "q": "Do I need permission for a dropped kerb?",
+      "a": "Yes. A dropped kerb needs a separate application to your local council, whatever your driveway is made of."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Paving your front garden – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/paving-your-front-garden/planning-permission"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "updated": "2026-10-14",
+  "date": "2026-10-14",
+  "type": "post",
+  "slug": "blog/fence-wall-gate-height-rules",
+  "title": "Fence, Wall and Gate Height Rules: Planning Guide",
+  "description": "How high can a fence or garden wall be without planning permission? The 1 metre and 2 metre rules, listed buildings, conservation areas and hedges explained.",
+  "h1": "Fence, wall and gate height rules",
+  "eyebrow": "Landscaping · Boundaries",
+  "intro": "Most garden fences, walls and gates do not need planning permission, as long as they stay under set heights. Here are the limits, the exceptions and what to agree with your neighbours.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1601042860368-debed90085e0",
+    "alt": "Wooden garden fence with white flowers in front",
+    "credit": "Daniel Janzen",
+    "creditUrl": "https://unsplash.com/@paladin_community"
+  },
+  "keywords": [
+    "fence height planning permission",
+    "how high can a fence be",
+    "garden wall height rules",
+    "front fence height",
+    "gate planning permission",
+    "2 metre fence rule"
+  ],
+  "cardText": "The 1 metre and 2 metre rules, exceptions and hedges.",
+  "sections": [
+    {
+      "h2": "The height limits",
+      "html": "<p>In England, you generally do not need planning permission to put up, alter or replace a fence, wall or gate if:</p><ul><li>it is no more than <strong>1 metre</strong> high where it is next to a road used by vehicles (or the footpath of such a road); and</li><li>it is no more than <strong>2 metres</strong> high anywhere else.</li></ul><p>If an existing fence or wall is already over these heights, you cannot make it taller without permission.</p>"
+    },
+    {
+      "h2": "When you need permission",
+      "html": "<ul><li>Your home is a <strong>listed building</strong>, or the fence is within its grounds.</li><li>The boundary is shared with a neighbouring listed building or its grounds.</li><li>Your permitted development rights have been removed by a planning condition or Article 4 direction (common on some open-plan estates).</li><li>In a <strong>conservation area</strong>, you may need permission to <em>remove</em> a fence, wall or gate.</li></ul>"
+    },
+    {
+      "h2": "Hedges",
+      "html": "<p>Planting a hedge does not usually need planning permission, although some estates have planning conditions or covenants that restrict planting at the front. If a neighbour’s evergreen hedge is causing a problem, try to resolve it with them first; councils can deal with some high hedge complaints as a last resort.</p>"
+    },
+    {
+      "h2": "Boundaries and neighbours",
+      "html": "<ul><li>Check your title deeds or plans to see who owns and maintains each boundary.</li><li>Talk to your neighbour before replacing a shared fence.</li><li>Building a garden wall on the boundary line may fall under the <a href=\"/blog/party-wall-notices-extensions-lofts/\">Party Wall etc. Act</a>.</li><li>Tall freestanding brick walls need proper foundations and design to be stable. An experienced builder or landscaper will advise.</li></ul>"
+    },
+    {
+      "h2": "Find a fencing contractor",
+      "html": "<p>Ask about post type and depth, how the posts will be fixed, gravel boards to keep panels off the ground, and the treatment and guarantee for the timber. <a href=\"/landscapers/\">Compare local landscapers and fencing contractors</a>.</p><p><strong>Wales, Scotland and Northern Ireland have their own planning rules.</strong> This guide covers England; elsewhere in the UK, check with your local council.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How high can my back garden fence be without planning permission?",
+      "a": "Up to 2 metres, as long as it is not next to a road used by vehicles and your home is not listed or subject to an Article 4 direction."
+    },
+    {
+      "q": "How high can a front garden fence or wall be?",
+      "a": "Up to 1 metre where it is next to a road used by vehicles or its footpath. Higher than that normally needs planning permission."
+    },
+    {
+      "q": "Does trellis on top of a fence count towards the height?",
+      "a": "Generally yes, the overall height is what counts. If adding trellis takes the total above the limit, check with your council."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Fences, gates and garden walls – planning permission",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/fences-gates-and-garden-walls/planning-permission"
+    },
+    {
+      "title": "GOV.UK: High hedges – complaining to the council",
+      "url": "https://www.gov.uk/how-to-resolve-neighbour-disputes/high-hedges-trees-and-boundaries"
+    }
+  ]
+}
