@@ -358,3 +358,21 @@ section h2, .block-head h2 { font-size: clamp(28px, 3.4vw, 38px); }
   .lede { font-size: 17px; }
 }
 
+/* Menu folds into the menu button when it doesn't fit (set by site.js) */
+.nav-compact .menu { display: block; }
+.nav-compact .nav { display: none; position: absolute; left: 0; right: 0; top: 100%; flex-direction: column; gap: 0; background: var(--surface); border-bottom: 1px solid var(--line); padding: 8px 20px 16px; box-shadow: 0 12px 30px rgba(0,0,0,.18); z-index: 60; }
+.nav-compact .nav.open { display: flex; }
+.nav-compact .nav a { padding: 12px 0; border-bottom: 1px solid var(--line); }
+
+/* Let article columns shrink so wide tables scroll inside their box instead of widening the page */
+.content-grid > * { min-width: 0; }
+
+/* Small phones: keep logo, "Find a trade" and the menu button on one line */
+@media (max-width: 400px) {
+  .site-header .bar { padding-left: 14px; padding-right: 14px; gap: 8px; }
+  .brand { gap: 8px; }
+  .ts-mark { width: 32px; height: 32px; }
+  .ts-word { font-size: 20px; }
+  .hdr-cta { font-size: 13px; padding: 8px 12px; }
+}
+@media (max-width: 350px) { .hdr-cta { display: none; } }
