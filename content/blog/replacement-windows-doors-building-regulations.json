@@ -1,0 +1,82 @@
+{
+  "updated": "2026-11-19",
+  "date": "2026-11-19",
+  "type": "post",
+  "slug": "blog/replacement-windows-doors-building-regulations",
+  "title": "Replacement Windows and Doors: Building Regs Guide",
+  "description": "Replacing windows or doors in England? See when Building Regulations apply, how competent person schemes and FENSA work, and what to ask your installer.",
+  "h1": "Replacement windows and doors: what the Building Regulations require",
+  "eyebrow": "Builders · Windows & doors",
+  "intro": "New windows and doors are among the most common home upgrades, and they are covered by the Building Regulations. Here is when the rules apply, how an installer can sign the work off, and what to check before you pay.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1672627170267-fca17bb54156",
+    "alt": "House under construction with plywood walls and new windows stacked inside",
+    "credit": "Ernie Journeys",
+    "creditUrl": "https://unsplash.com/@erniejourneys"
+  },
+  "keywords": [
+    "replacement windows building regulations",
+    "do i need building regulations for new windows",
+    "fensa certificate",
+    "replacement doors building regulations",
+    "double glazing building regulations",
+    "competent person scheme windows",
+    "new windows regulations england",
+    "window replacement regulations uk"
+  ],
+  "cardText": "When replacement windows and doors need Building Regulations sign-off, and what to ask your installer.",
+  "sections": [
+    {
+      "h2": "Do replacement windows need Building Regulations approval?",
+      "html": "<p>Yes, in most cases. According to the Planning Portal, the Building Regulations have applied to replacement glazing in England since 1 April 2002, and external windows and doors are treated as <strong>controlled fittings</strong>. The rules cover heat loss, safety, ventilation and escape routes.</p><p>They normally apply when you replace the <strong>whole window or door</strong>, meaning the fixed frame and the opening parts, or when you create a new opening. Replacing only the glass or a single sash is a different job, and a FENSA-type certificate does not cover it. If you are unsure which category your job falls into, ask your installer or your local council's Building Control team.</p><p>This guide covers <strong>England</strong>. Wales, Scotland and Northern Ireland have their own rules, so check with your local council there.</p>"
+    },
+    {
+      "h2": "Competent person schemes and FENSA certificates",
+      "html": "<p>There are two ways to get the work approved:</p><ul><li><strong>A registered installer.</strong> Installers who belong to a <a href=\"https://www.gov.uk/guidance/competent-person-scheme-current-schemes-and-how-schemes-are-authorised\" rel=\"noopener\" target=\"_blank\">competent person scheme</a>, such as FENSA, can certify their own work without involving Building Control. You should receive a certificate confirming the work complies, and the installer or their scheme should deal with notifying the council.</li><li><strong>Building Control.</strong> If your installer is not registered, or you do the work yourself, you can apply to your local authority or a registered approved inspector, who checks the work and issues a completion certificate if they are satisfied.</li></ul><p>Keep the certificate. Buyers' solicitors usually ask for it when you sell, and its absence can slow a sale down.</p>"
+    },
+    {
+      "h2": "What the rules actually check",
+      "html": "<ul><li><strong>Thermal performance.</strong> New glazing must not let more heat through than the maximum U-value set out in Approved Document L. Your installer should be able to tell you the U-value of the product they are fitting.</li><li><strong>Safety glazing.</strong> Per the Planning Portal, glass in low-level panels (up to 800 mm from the floor), in doors and side panels near doors (up to 1500 mm) must be safety glass. See <a href=\"https://www.gov.uk/government/publications/protection-from-falling-collision-and-impact-approved-document-k\" rel=\"noopener\" target=\"_blank\">Approved Document K</a>.</li><li><strong>Ventilation.</strong> Rooms that produce steam, such as kitchens and bathrooms, need a higher level of ventilation than other rooms, so new sealed windows should not make a room worse.</li><li><strong>Escape windows.</strong> A new bedroom escape window should be at least 450 mm wide and high, with a clear openable area of at least 0.33 m² and a sill no more than 1100 mm above the floor.</li><li><strong>Entrance thresholds.</strong> For main entrance doors in homes built since 1999, the threshold must stay level.</li></ul>"
+    },
+    {
+      "h2": "Listed buildings, conservation areas and flats",
+      "html": "<p>The Building Regulations are separate from planning. If your home is <strong>listed</strong>, in a <strong>conservation area</strong>, or subject to an Article 4 direction, changing the look of windows can need permission even where the Building Regulations are straightforward. Leaseholders in flats should also check their lease, because the freeholder often owns or controls the windows.</p><p>Always ask your council before ordering if any of these apply.</p>"
+    },
+    {
+      "h2": "What to ask before you sign a quote",
+      "html": "<ol><li>Which competent person scheme are you registered with, and can I check your registration?</li><li>Will you provide the compliance certificate, and when?</li><li>What is the U-value of the units you are fitting?</li><li>Is safety glass included where it is needed, and are escape windows kept compliant?</li><li>What deposit is asked for, and what is in the written contract?</li></ol><p>Our guides to <a href=\"/choosing-a-builder/\">choosing a builder</a> and <a href=\"/blog/builder-contract-what-to-include/\">what to include in a builder contract</a> help with the paperwork, and <a href=\"/blog/problems-with-your-builder/\">problems with your builder</a> explains your options if something goes wrong. To compare local help, start at our <a href=\"/builders/\">builders page</a>.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Do I need a FENSA certificate for new windows?",
+      "a": "If you replace whole windows or doors in England, the work must comply with the Building Regulations. A FENSA or other competent person scheme certificate is the usual proof when a registered installer does the work. If they are not registered, you can use Building Control instead."
+    },
+    {
+      "q": "Can I replace my own windows?",
+      "a": "Yes, but the work must still comply with the Building Regulations, so you would need to apply to Building Control to inspect it and issue a certificate."
+    },
+    {
+      "q": "Do I need a certificate if I only replace the glass?",
+      "a": "Replacing only the glass or a sash falls outside the scope of a replacement-window competent person scheme. Check with Building Control if you are unsure."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Doors and windows – Building Regulations",
+      "url": "https://www.planningportal.co.uk/permission/common-projects/doors-and-windows/building-regulations"
+    },
+    {
+      "title": "GOV.UK: Competent person schemes – current schemes and how schemes are authorised",
+      "url": "https://www.gov.uk/guidance/competent-person-scheme-current-schemes-and-how-schemes-are-authorised"
+    },
+    {
+      "title": "GOV.UK: Building regulations approval",
+      "url": "https://www.gov.uk/building-regulations-approval"
+    },
+    {
+      "title": "GOV.UK: Protection from falling, collision and impact – Approved Document K",
+      "url": "https://www.gov.uk/government/publications/protection-from-falling-collision-and-impact-approved-document-k"
+    }
+  ]
+}
