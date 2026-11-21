@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14",
+  "updated": "2026-11-21",
   "slug": "how-it-works",
   "nav": "How it works",
   "title": "How TradesStation Works | Free, No-Obligation Quotes",
@@ -56,6 +56,14 @@
     {
       "h2": "Who are the tradespeople?",
       "html": "<p>Tradespeople are independent businesses listed with our partner platforms. TradesStation does not employ, endorse or vet individual tradespeople, so always make your own checks. Our <a href=\"/choosing-a-builder/\">hiring guide</a> explains how.</p>"
+    },
+    {
+      "h2": "Before you request quotes",
+      "html": "<p>You will get more useful replies if you know the basics: what you want done, your rough timescale, whether you own the property, and whether you have drawings or planning permission. For larger jobs, read our <a href=\"/blog/how-to-plan-a-house-extension/\">guide to planning an extension</a> and <a href=\"/choosing-a-builder/\">choosing a builder</a> first.</p>"
+    },
+    {
+      "h2": "What to check after you are introduced",
+      "html": "<p>TradesStation does not employ, vet or guarantee tradespeople. Ask for proof of any registration that applies to the trade, such as Gas Safe for gas work, and ask about insurance and how they handle Building Regulations. Get quotes in writing and read the contract; see <a href=\"/blog/builder-contract-what-to-include/\">what to include in a builder contract</a>.</p>"
     }
   ],
   "related": [
@@ -64,5 +72,15 @@
     "builders"
   ],
   "relatedTitle": "Next steps",
-  "ctaTitle": "What job do you need doing?"
+  "ctaTitle": "What job do you need doing?",
+  "faqs": [
+    {
+      "q": "Do I have to accept a quote?",
+      "a": "No. Requesting quotes is free and carries no obligation, so you can compare several and decide whether to go ahead."
+    },
+    {
+      "q": "Can you recommend a specific builder?",
+      "a": "We introduce you to quote services and explain what to check, but we do not endorse or guarantee any individual tradesperson. Always do your own checks before hiring."
+    }
+  ]
 }

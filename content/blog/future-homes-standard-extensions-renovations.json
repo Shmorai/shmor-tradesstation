@@ -1,0 +1,74 @@
+{
+  "updated": "2026-11-21",
+  "date": "2026-11-21",
+  "type": "post",
+  "slug": "blog/future-homes-standard-extensions-renovations",
+  "title": "Future Homes Standard: Does It Affect Your Extension?",
+  "description": "Does the Future Homes Standard affect a house extension or renovation? What the 2026 Building Regulations changes cover, the key 2027 dates and what to ask.",
+  "h1": "Future Homes Standard: does it affect your extension or renovation?",
+  "eyebrow": "Building Regulations · England",
+  "intro": "The Future Homes Standard has been in the headlines, and homeowners planning an extension are asking whether it changes the rules for them. In short: it is aimed mainly at new homes, it is not in force yet, and dates matter. Here is what the government has published, and what to ask your builder and building control.",
+  "image": {
+    "src": "https://images.unsplash.com/photo-1587582423116-ec07293f0395",
+    "alt": "Builder in a hard hat working on a timber house frame",
+    "credit": "Josh Olalde",
+    "creditUrl": "https://unsplash.com/@josholalde"
+  },
+  "keywords": [
+    "future homes standard",
+    "future homes standard extension",
+    "does future homes standard apply to extensions",
+    "approved document l 2026",
+    "building regulations changes 2027",
+    "building regulations part l extension",
+    "building regulations england 2026",
+    "24 march 2027 building regulations"
+  ],
+  "cardText": "What the Future Homes Standard and the 2026 Building Regulations update mean for extensions and renovations in England.",
+  "sections": [
+    {
+      "h2": "What is the Future Homes Standard?",
+      "html": "<p>The Future Homes and Buildings Standards are changes to the Building Regulations in <strong>England</strong>, set out in the Department's Building Circular 01/2026. They come with updated Approved Documents, including a new <strong>Approved Document L (Volume 1: Dwellings)</strong> on energy efficiency and an updated <strong>Approved Document F</strong> on ventilation.</p><p>The headline aim is for new homes to be built with low-carbon heating and better energy performance. One example in the circular is a requirement for on-site renewable electricity, such as solar panels, when a dwelling is <strong>erected</strong>, which means new-build, not an extension to an existing house.</p>"
+    },
+    {
+      "h2": "When does it start?",
+      "html": "<p>As of November 2026, the new rules are <strong>not yet in force</strong>. The circular says the Regulations generally come into force on <strong>24 March 2027</strong>.</p><p>There are transitional arrangements. For most non-higher-risk building work, the changes do not apply where a building notice or full plans application was submitted before 24 March 2027 and the work is commenced before <strong>24 March 2028</strong>. In plain terms, <em>when</em> your application goes in and <em>when</em> work starts can decide which version of the rules applies. Confirm the detail for your own project with your building control body.</p>"
+    },
+    {
+      "h2": "Does it apply to extensions, lofts and renovations?",
+      "html": "<p>The published circular is mostly about new dwellings. It does not set out a separate list of new requirements for extensions, so we cannot say your extension will be unaffected, and you should not assume it will be. Extensions and alterations to existing homes are already covered by the Building Regulations today, including energy efficiency, ventilation, structure and fire safety. Our guide to <a href=\"/blog/building-regulations-extensions-lofts/\">Building Regulations for extensions and lofts</a> explains the current process.</p><p>What the update does touch on that could matter during a renovation: Approved Document F now highlights the role of <strong>competent person schemes</strong> when installing a heat pump or mechanical ventilation, so ask installers which scheme they belong to.</p>"
+    },
+    {
+      "h2": "Questions to ask before you sign anything",
+      "html": "<ul><li><strong>Which Approved Documents will my project be assessed against, and why?</strong> Ask building control to confirm in writing.</li><li><strong>When will the application be submitted and work start?</strong> Build this into your timeline rather than guessing around March 2027.</li><li><strong>Is any heating, ventilation or electrical work involved?</strong> If so, ask whether the installer is registered with a competent person scheme.</li><li><strong>Who is responsible for Building Regulations sign-off?</strong> Your contract should say so. See <a href=\"/blog/builder-contract-what-to-include/\">what to include in a builder contract</a>.</li></ul><p>The <a href=\"/blog/how-to-plan-a-house-extension/\">plan an extension guide</a> shows the order of steps, and <a href=\"/choosing-a-builder/\">choosing a builder</a> covers vetting. If you are comparing builders, start at <a href=\"/house-extensions/\">house extensions</a>.</p>"
+    },
+    {
+      "h2": "Where to check the rules yourself",
+      "html": "<p>Rules can be updated, so use the official documents rather than relying on summaries, including ours. The Approved Documents are published on GOV.UK, and your local authority building control or an approved inspector can tell you which version applies to your job. Scotland, Wales and Northern Ireland have their own Building Regulations, and this update is for England.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is the Future Homes Standard in force now?",
+      "a": "Not as of November 2026. The government's Building Circular 01/2026 says the Regulations generally come into force on 24 March 2027, with transitional arrangements for work already notified or applied for."
+    },
+    {
+      "q": "Will the Future Homes Standard apply to my extension?",
+      "a": "The published circular focuses on new dwellings and does not set out separate new extension requirements. Your extension still has to meet the Building Regulations that apply to it, so ask your building control body which version applies."
+    },
+    {
+      "q": "Does the Future Homes Standard apply in Scotland, Wales and Northern Ireland?",
+      "a": "The update described here is for England. Scotland, Wales and Northern Ireland set their own Building Regulations, so check with the relevant local authority."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: The Future Homes and Buildings Standards: Building Circular 01/2026",
+      "url": "https://www.gov.uk/government/publications/the-future-homes-and-buildings-standards-building-circular-012026"
+    },
+    {
+      "title": "GOV.UK: Approved Document L (2026)",
+      "url": "https://www.gov.uk/government/publications/approved-document-l-2026"
+    }
+  ]
+}
