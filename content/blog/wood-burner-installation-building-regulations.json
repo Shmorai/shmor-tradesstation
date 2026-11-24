@@ -1,0 +1,87 @@
+{
+  "updated": "2026-11-24",
+  "date": "2026-11-24",
+  "type": "post",
+  "slug": "blog/wood-burner-installation-building-regulations",
+  "title": "Wood Burner Installation: Building Regulations Rules",
+  "description": "Fitting a wood burner or log burner in England? What Building Regulations require: hearth, flue, carbon monoxide alarm, HETAS and what to ask your installer.",
+  "h1": "Wood burner installation: what the Building Regulations require",
+  "eyebrow": "Heating · Building Regulations",
+  "intro": "A wood burner is a popular winter upgrade, but it counts as building work. The hearth, flue and carbon monoxide alarm all have to meet Approved Document J. Here is what that means in practice for homes in England, and what to check before an installer starts.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Wood-burning_stove_at_The_Black_Horse_Inn%2C_Nuthurst%2C_West_Sussex.jpg/1920px-Wood-burning_stove_at_The_Black_Horse_Inn%2C_Nuthurst%2C_West_Sussex.jpg",
+    "alt": "A black wood-burning stove set into a brick fireplace with a stone hearth",
+    "credit": "Acabashi / CC BY-SA 4.0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Wood-burning_stove_at_The_Black_Horse_Inn,_Nuthurst,_West_Sussex.jpg"
+  },
+  "keywords": [
+    "wood burner building regulations",
+    "log burner installation rules",
+    "wood burner installation uk",
+    "wood burner hearth requirements",
+    "wood burner carbon monoxide alarm",
+    "hetas installer",
+    "do i need building regs for a wood burner",
+    "wood burner flue liner",
+    "fit a wood burner england"
+  ],
+  "cardText": "Hearth, flue, CO alarm and HETAS: the rules for fitting a wood burner in England.",
+  "sections": [
+    {
+      "h2": "Do you need Building Regulations approval for a wood burner?",
+      "html": "<p>Yes. Fitting a wood-burning or multi-fuel stove is controlled work under Part J of the Building Regulations in England. Approved Document J says that, in general, all work on a combustion appliance that is not a repair or maintenance is <strong>notifiable</strong>, unless it is done by someone registered with a competent person scheme.</p><p>In practice you have two routes: use an installer registered with a scheme such as <strong>HETAS</strong>, who self-certifies the work and arranges the compliance certificate, or notify your local authority Building Control (or an approved inspector) before work starts and have it inspected. The rules differ in Wales, Scotland and Northern Ireland, so check your own nation's guidance.</p>"
+    },
+    {
+      "h2": "Hearth rules: what the stove must stand on",
+      "html": "<p>The stove needs a hearth that stops it setting fire to the building and limits the risk of burns. Approved Document J describes two ways to do this:</p><ul><li><strong>Non-combustible board or tiles</strong> at least 12 mm thick, but only if the appliance has been tested to confirm the surface will not exceed 100°C and it is not going in a recess.</li><li><strong>A constructional hearth</strong> of solid non-combustible material such as concrete or masonry, at least 125 mm thick including any floor and decorative surface. Combustible material should not sit under it unless there is a 50 mm air space, or it is at least 250 mm below the top of the hearth.</li></ul><p>The stove should also sit within a surface free of combustible material, with a visible boundary (a change of level is one way) so carpet is not laid too close. Your installer should work from the manufacturer's instructions for exact distances to walls.</p>"
+    },
+    {
+      "h2": "Chimney and flue: liner, checks and notice plate",
+      "html": "<p>A stove needs a flue that is the right size and type for the appliance. Many older chimneys need a liner fitted. When the work is finished, the flue should be checked for obstructions and gas-tightness, and a <strong>spillage test</strong> carried out with the stove alight.</p><p>Approved Document J also expects a <strong>durable notice plate</strong> to be fixed in the building (for example next to the consumer unit or stop-cock). It records where the hearth or flue starts, the flue category and type, the liner size and manufacturer, and the installation date. Keep any paperwork: you will need it if you sell the house.</p><p>If you are also rebuilding the stack or re-covering the roof, see our guide to <a href=\"/blog/re-roofing-building-regulations/\">re-roofing and Building Regulations</a> or find a <a href=\"/roofers/\">roofer</a> for chimney work.</p>"
+    },
+    {
+      "h2": "Carbon monoxide alarm: where it goes",
+      "html": "<p>When a new or replacement fixed solid fuel appliance is installed in a home, a carbon monoxide alarm must be provided in the same room. It should meet <strong>BS EN 50291-1:2018</strong> and have a battery designed to last the working life of the alarm (or be a hard-wired mains Type A alarm).</p><ul><li>Fix it on the ceiling at least 300 mm from any wall, or high on a wall (above doors and windows, but not within 150 mm of the ceiling).</li><li>Place it between <strong>1 m and 3 m</strong> horizontally from the stove.</li></ul><p>The guidance is clear that an alarm is not a substitute for correct installation and regular servicing, so still have the flue swept.</p>"
+    },
+    {
+      "h2": "Choosing an installer and what to ask",
+      "html": "<ul><li>Are you registered with HETAS (or another competent person scheme), and will I get a compliance certificate?</li><li>Is my chimney suitable, or does it need lining and a smoke or spillage test?</li><li>Does my room need extra ventilation for this stove's output, based on the manufacturer's instructions?</li><li>Is my home in a smoke control area? Ask your local council before choosing a stove or fuel.</li></ul><p>For wider advice on getting quotes and agreeing terms, read our <a href=\"/choosing-a-builder/\">guide to choosing a builder</a> and <a href=\"/blog/builder-contract-what-to-include/\">what a builder contract should include</a>. If the fireplace needs rebuilding, a <a href=\"/builders/\">builder</a> can handle the hearth and recess.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I install a wood burner myself?",
+      "a": "You can, but the work is notifiable, so you would need to notify Building Control beforehand and have it inspected. Most people use a registered installer who can self-certify the work."
+    },
+    {
+      "q": "Does a wood burner need a carbon monoxide alarm?",
+      "a": "Yes. Approved Document J requires an alarm in the same room when a new or replacement fixed solid fuel appliance is installed in a dwelling."
+    },
+    {
+      "q": "How thick does a hearth need to be?",
+      "a": "A constructional hearth should be solid non-combustible material at least 125 mm thick including any floor and surface. Tested non-combustible board or tiles at least 12 mm thick can be used in some cases where the stove is not in a recess."
+    },
+    {
+      "q": "Do these rules apply in Scotland, Wales and Northern Ireland?",
+      "a": "No. This guide covers England. Wales, Scotland and Northern Ireland have their own building standards, so check your local building control."
+    }
+  ],
+  "sources": [
+    {
+      "title": "GOV.UK: Combustion appliances and fuel storage systems: Approved Document J",
+      "url": "https://www.gov.uk/government/publications/combustion-appliances-and-fuel-storage-systems-approved-document-j"
+    },
+    {
+      "title": "Approved Document J (2010 edition incorporating 2010, 2013 and 2022 amendments), PDF",
+      "url": "https://assets.publishing.service.gov.uk/media/6336e58be90e0772dc9651a2/ADJ_2022.pdf"
+    },
+    {
+      "title": "Planning Portal: Part J – Combustion appliances and fuel storage systems",
+      "url": "https://www.planningportal.co.uk/applications/building-control-applications/building-control/approved-documents/part-j-combustion-appliances-and-fuel-storage-systems"
+    },
+    {
+      "title": "HETAS",
+      "url": "https://www.hetas.co.uk"
+    }
+  ]
+}
