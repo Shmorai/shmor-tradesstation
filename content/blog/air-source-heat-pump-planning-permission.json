@@ -1,0 +1,85 @@
+{
+  "updated": "2026-11-26",
+  "date": "2026-11-26",
+  "type": "post",
+  "slug": "blog/air-source-heat-pump-planning-permission",
+  "title": "Heat Pump Planning Permission: England's Rules",
+  "description": "Do you need planning permission for an air source heat pump in England? Permitted development limits, size, roof and listed building rules, and who to hire.",
+  "h1": "Air source heat pump planning permission: what England's rules say",
+  "eyebrow": "Heating · Planning",
+  "intro": "Most air source heat pumps can go on a house in England without a planning application, but only if they meet a list of conditions on size, position and building type. Here is how to check your own plan, and what to ask an installer before you sign.",
+  "image": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/57/Air_Source_Heat_Pump_-_Vailliant_aroTherm_Plus_on_a_terraced_house.jpg",
+    "alt": "An air source heat pump outdoor unit fixed to the side of a terraced house",
+    "credit": "Southend-on-Sea Borough Council / CC0",
+    "creditUrl": "https://commons.wikimedia.org/wiki/File:Air_Source_Heat_Pump_-_Vailliant_aroTherm_Plus_on_a_terraced_house.jpg"
+  },
+  "keywords": [
+    "air source heat pump planning permission",
+    "heat pump permitted development",
+    "do i need planning permission for a heat pump",
+    "heat pump planning rules england",
+    "heat pump conservation area",
+    "heat pump listed building",
+    "heat pump size limit permitted development",
+    "how many heat pumps permitted development",
+    "install heat pump uk"
+  ],
+  "cardText": "Permitted development limits for air source heat pumps in England, and what to check first.",
+  "sections": [
+    {
+      "h2": "Do you need planning permission for an air source heat pump?",
+      "html": "<p>Often you do not. In England, installing an air source heat pump on a house or a block of flats is <strong>permitted development</strong> (Class G of the General Permitted Development Order) as long as the installation stays inside a set of limits. If it breaks any of them, you need to apply for planning permission.</p><p>Permitted development rights can also be removed locally, for example by a planning condition on a newer estate or an Article 4 Direction, so always ask your local planning authority if you are unsure. These rules cover England only. Wales, Scotland and Northern Ireland have their own planning rules, so check with your own council.</p>"
+    },
+    {
+      "h2": "The main permitted development limits",
+      "html": "<p>As set out by the Planning Portal and the legislation, the main limits are:</p><ul><li><strong>Number of units:</strong> only one heat pump on a house that is not detached or on a block of flats; up to two on a detached house.</li><li><strong>Size:</strong> the outdoor compressor unit, including its housing, must not exceed 1.5 cubic metres on a house (0.6 cubic metres on a block of flats).</li><li><strong>Roof:</strong> not on a pitched roof. On a flat roof, every part must be at least one metre from the roof's outer edge.</li><li><strong>Wind turbine:</strong> no permitted development if there is already a wind turbine on the building or in its grounds.</li><li><strong>Cooling:</strong> it must not be used only for cooling.</li><li><strong>Siting:</strong> placed, as far as practicable, to limit the effect on the building's appearance and on the area.</li><li><strong>Removal:</strong> taken away as soon as reasonably practicable once it is no longer needed.</li></ul><p>There is no minimum distance from your boundary in the Class G wording, but that does not remove your neighbours' right to complain about nuisance noise afterwards.</p>"
+    },
+    {
+      "h2": "Listed buildings, conservation areas and front walls",
+      "html": "<p>Extra restrictions apply in sensitive locations:</p><ul><li><strong>Listed buildings and scheduled monuments:</strong> permitted development does not apply, so you need planning permission (and possibly listed building consent) for the pump.</li><li><strong>Conservation areas and World Heritage Sites:</strong> the unit cannot go on a wall or roof that faces a highway, and cannot sit nearer to the highway than any part of the building.</li><li><strong>Elsewhere:</strong> it cannot be on a wall facing a highway above ground-floor level.</li></ul><p>Flats and maisonettes are a particular trap: the lease may restrict external changes, and the freeholder usually needs to agree even where planning is not needed.</p>"
+    },
+    {
+      "h2": "Certification, noise and Building Regulations",
+      "html": "<p>The planning rules have referred to the Microgeneration Certification Scheme (MCS) planning standards, which cover how loud a unit is at your neighbour's window. The detail has been changing: the Planning Portal says MCS 020a will be the only permitted certification scheme from 28 May 2026, while the legislation was amended in 2025. Because several council pages still quote the older wording, ask your installer which standard they are using and check the current rules with your council.</p><p>Planning permission is separate from other approvals. Heat pump work often involves new pipework and electrical changes, so ask who will handle Building Regulations notification and the electrical certificate. A registered electrician is a sensible starting point for the supply side; see our <a href=\"/electricians/\">electricians guide</a>. If you are also planning other energy-related upgrades, our post on the <a href=\"/blog/future-homes-standard-extensions-renovations/\">Future Homes Standard</a> may help.</p>"
+    },
+    {
+      "h2": "Questions to ask before hiring an installer",
+      "html": "<ul><li>Will you check the permitted development limits for my house, and put the result in writing?</li><li>What is the unit's size, and where exactly will it go?</li><li>Which noise standard are you using for the siting assessment?</li><li>Who is registered with a competent person scheme for the electrical and plumbing work?</li><li>What happens to the old boiler, hot water cylinder and radiators?</li><li>What is in the quote, and what is excluded?</li></ul><p>If you want to compare installers, read our <a href=\"/choosing-a-builder/\">guide to choosing a trade professional</a> first, and get more than one quote. Never pay the full price up front.</p>"
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Can I put a heat pump on my front wall?",
+      "a": "Outside conservation areas, it cannot go on a wall facing a road above ground-floor level. In a conservation area or World Heritage Site it cannot go on a wall or roof facing the highway at all. Otherwise, a ground-floor front wall can be permitted development if every other limit is met."
+    },
+    {
+      "q": "How many heat pumps can I have without planning permission?",
+      "a": "One on a house that is not detached or on a block of flats, and up to two on a detached house, if all other conditions are met."
+    },
+    {
+      "q": "Do these rules apply in Scotland, Wales and Northern Ireland?",
+      "a": "No. This guide covers England only. Check your own nation's planning rules with your local council."
+    },
+    {
+      "q": "Do I need planning permission to replace an existing heat pump?",
+      "a": "The Class G rights cover installing, altering or replacing a pump, so a like-for-like replacement can still be permitted development if it meets the limits. Check size and position first."
+    }
+  ],
+  "sources": [
+    {
+      "title": "Planning Portal: Planning permission for an air source heat pump",
+      "url": "https://planningportal.co.uk/permission/common-projects/heat-pumps/planning-permission-air-source-heat-pump"
+    },
+    {
+      "title": "legislation.gov.uk: The Town and Country Planning (General Permitted Development) (England) Order 2015, Schedule 2, Part 14",
+      "url": "https://www.legislation.gov.uk/uksi/2015/596/schedule/2/part/14"
+    }
+  ],
+  "related": [
+    "electricians",
+    "blog/future-homes-standard-extensions-renovations",
+    "blog/home-ev-charger-installation",
+    "choosing-a-builder"
+  ]
+}
